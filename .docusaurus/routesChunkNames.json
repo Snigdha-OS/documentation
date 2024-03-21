@@ -2,64 +2,64 @@
   "/__docusaurus/debug-a0e": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---documentation-docusaurus-debuge-3-a-69b"
+      "plugin": "plugin---docusaurus-debuge-3-a-af9"
     }
   },
   "/__docusaurus/debug/config-a9e": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---documentation-docusaurus-debuge-3-a-69b"
+      "plugin": "plugin---docusaurus-debuge-3-a-af9"
     }
   },
   "/__docusaurus/debug/content-c41": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---documentation-docusaurus-debuge-3-a-69b"
+      "plugin": "plugin---docusaurus-debuge-3-a-af9"
     },
-    "allContent": "allContent---documentation-docusaurus-debug-content-246-1fc"
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
   "/__docusaurus/debug/globalData-130": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---documentation-docusaurus-debuge-3-a-69b"
+      "plugin": "plugin---docusaurus-debuge-3-a-af9"
     }
   },
   "/__docusaurus/debug/metadata-b50": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---documentation-docusaurus-debuge-3-a-69b"
+      "plugin": "plugin---docusaurus-debuge-3-a-af9"
     }
   },
   "/__docusaurus/debug/registry-aa7": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---documentation-docusaurus-debuge-3-a-69b"
+      "plugin": "plugin---docusaurus-debuge-3-a-af9"
     }
   },
   "/__docusaurus/debug/routes-e2f": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---documentation-docusaurus-debuge-3-a-69b"
+      "plugin": "plugin---docusaurus-debuge-3-a-af9"
     }
   },
   "/blog-b02": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---documentation-blog-490-fb4"
+      "plugin": "plugin---blog-490-723"
     },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---documentation-blog-766-b7c"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "content---documentation-blogf-4-f-d91"
+        "content": "content---blogf-4-f-cd7"
       },
       {
-        "content": "content---documentation-blog-871-8ad"
+        "content": "content---blog-871-381"
       },
       {
-        "content": "content---documentation-blog-925-287"
+        "content": "content---blog-925-e00"
       }
     ],
     "metadata": "metadata---blogb-2-b-df1"
@@ -67,60 +67,60 @@
   "/blog/archive-b6a": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---documentation-blog-490-fb4"
+      "plugin": "plugin---blog-490-723"
     },
     "archive": "archive---blog-archiveb-2-f-393"
   },
   "/blog/first-blog-post-0ee": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---documentation-blog-490-fb4"
+      "plugin": "plugin---blog-490-723"
     },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
-    "content": "content---documentation-blog-first-blog-poste-27-d09"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-first-blog-poste-27-4a1"
   },
   "/blog/long-blog-post-09c": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---documentation-blog-490-fb4"
+      "plugin": "plugin---blog-490-723"
     },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
-    "content": "content---documentation-blog-long-blog-post-736-0f6"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-long-blog-post-736-bc7"
   },
   "/blog/mdx-blog-post-f6e": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---documentation-blog-490-fb4"
+      "plugin": "plugin---blog-490-723"
     },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
-    "content": "content---documentation-blog-mdx-blog-post-593-1de"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-mdx-blog-post-593-37b"
   },
   "/blog/tags-1c7": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---documentation-blog-490-fb4"
+      "plugin": "plugin---blog-490-723"
     },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
+    "sidebar": "sidebar---blog-814-8ac",
     "tags": "tags---blog-tagsa-70-da2"
   },
   "/blog/tags/docusaurus-18e": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---documentation-blog-490-fb4"
+      "plugin": "plugin---blog-490-723"
     },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---documentation-blog-766-b7c"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "content---documentation-blogf-4-f-d91"
+        "content": "content---blogf-4-f-cd7"
       },
       {
-        "content": "content---documentation-blog-871-8ad"
+        "content": "content---blog-871-381"
       },
       {
-        "content": "content---documentation-blog-925-287"
+        "content": "content---blog-925-e00"
       }
     ],
     "tag": "tag---blog-tags-docusaurusa-80-728",
@@ -129,12 +129,12 @@
   "/blog/tags/facebook-1b0": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---documentation-blog-490-fb4"
+      "plugin": "plugin---blog-490-723"
     },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---documentation-blog-766-b7c"
+        "content": "content---blog-766-e3c"
       }
     ],
     "tag": "tag---blog-tags-facebook-031-c52",
@@ -143,15 +143,15 @@
   "/blog/tags/hello-91d": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---documentation-blog-490-fb4"
+      "plugin": "plugin---blog-490-723"
     },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---documentation-blog-766-b7c"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "content---documentation-blog-871-8ad"
+        "content": "content---blog-871-381"
       }
     ],
     "tag": "tag---blog-tags-hello-30-a-bed",
@@ -160,12 +160,12 @@
   "/blog/tags/hola-371": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---documentation-blog-490-fb4"
+      "plugin": "plugin---blog-490-723"
     },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---documentation-blog-925-287"
+        "content": "content---blog-925-e00"
       }
     ],
     "tag": "tag---blog-tags-holae-16-18a",
@@ -174,27 +174,27 @@
   "/blog/welcome-2e0": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---documentation-blog-490-fb4"
+      "plugin": "plugin---blog-490-723"
     },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
-    "content": "content---documentation-blog-welcomed-9-f-7d3"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcomed-9-f-ffb"
   },
   "/markdown-page-9e6": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---documentation-markdown-pagec-52-df3"
+      "plugin": "plugin---markdown-pagec-52-482"
     },
-    "content": "content---documentation-markdown-page-393-bce"
+    "content": "content---markdown-page-393-028"
   },
   "/-6cb": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---documentation-99-b-b0a"
+      "plugin": "plugin---99-b-f14"
     }
   },
   "/-58f": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "version": "version---documentation-935-548"
+    "version": "version---935-fcf"
   },
   "/-0b6": {
     "__comp": "__comp---theme-doc-roota-94-67a"
@@ -209,38 +209,38 @@
   },
   "/tutorial-basics/congratulations-4b2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-tutorial-basics-congratulations-822-70b"
+    "content": "content---tutorial-basics-congratulations-822-79f"
   },
   "/tutorial-basics/create-a-blog-post-93c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-tutorial-basics-create-a-blog-post-533-756"
+    "content": "content---tutorial-basics-create-a-blog-post-533-8b3"
   },
   "/tutorial-basics/create-a-document-58e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-tutorial-basics-create-a-document-1-e-4-f1b"
+    "content": "content---tutorial-basics-create-a-document-1-e-4-f30"
   },
   "/tutorial-basics/create-a-page-e6a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-tutorial-basics-create-a-page-5-c-8-31a"
+    "content": "content---tutorial-basics-create-a-page-5-c-8-d8b"
   },
   "/tutorial-basics/deploy-your-site-317": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-tutorial-basics-deploy-your-sitef-55-f7a"
+    "content": "content---tutorial-basics-deploy-your-sitef-55-bcd"
   },
   "/tutorial-basics/markdown-features-04e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-tutorial-basics-markdown-features-18-c-288"
+    "content": "content---tutorial-basics-markdown-features-18-c-d7b"
   },
   "/tutorial-extras/manage-docs-versions-975": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-tutorial-extras-manage-docs-versionsdff-dae"
+    "content": "content---tutorial-extras-manage-docs-versionsdff-033"
   },
   "/tutorial-extras/translate-your-site-ac7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-tutorial-extras-translate-your-sitee-44-008"
+    "content": "content---tutorial-extras-translate-your-sitee-44-f13"
   },
   "/-96c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-0-e-3-efb"
+    "content": "content---0-e-3-279"
   }
 }
