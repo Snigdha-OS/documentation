@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
+  "title": "DOCS | SNIGDHA OS",
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
   "url": "https://docs.snigdhaos.org",
@@ -43,7 +43,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "SNIGDHA OS DOCS 📚",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
@@ -62,14 +62,15 @@ export default {
         },
         {
           "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
-          "position": "right"
+          "position": "right",
+          "className": "navbar__icon navbar__github",
+          "html": "<i class=\"fa fa-github\"></i>"
         }
       ],
       "hideOnScroll": false
     },
     "footer": {
-      "style": "dark",
+      "style": "light",
       "links": [
         {
           "title": "Docs",

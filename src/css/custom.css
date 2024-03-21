@@ -3,6 +3,7 @@
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
+ @import 'font-awesome/css/font-awesome.min.css';
 
 /* You can override the default Infima variables here. */
 :root {
@@ -19,12 +20,39 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #754ffe;
+  --ifm-color-primary-dark: #754ffe;
+  --ifm-color-primary-darker: #754ffe;
+  --ifm-color-primary-darkest: #754ffe;
+  --ifm-color-primary-light: #754ffe;
+  --ifm-color-primary-lighter: #754ffe;
+  --ifm-color-primary-lightest: #754ffe;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.navbar__icon {
+  height: 2rem;
+  width: 2rem;
+}
+
+.navbar__github {
+  -webkit-tap-highlight-color: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  font-size: 1.5rem;
+  transition: background var(--ifm-transition-fast);
+}
+
+html[data-theme='light'] .navbar__github {
+  color: #754ffe;
+}
+
+html[data-theme='dark'] .navbar__github {
+  color: #754ffe;
+}
+
+.navbar__github:hover {
+  background: var(--ifm-color-emphasis-200);
 }
