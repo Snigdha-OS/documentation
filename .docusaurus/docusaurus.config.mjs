@@ -7,10 +7,12 @@ export default {
   "title": "My Site",
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "url": "https://github.com",
+  "baseUrl": "/documents/",
+  "organizationName": "Snigdha-OS",
+  "projectName": "documents",
+  "deploymentBranch": "gh-pages",
+  "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -27,11 +29,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "/home/whoami/Documents/GitHub/documentation/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/Snigdha-OS/documents/tree/master/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/Snigdha-OS/documents/tree/master/"
         },
         "theme": {
           "customCss": "/home/whoami/Documents/GitHub/documentation/src/css/custom.css"
