@@ -1,0 +1,27 @@
+{
+  "id": "dev_guide/build_source",
+  "title": "Build From Source",
+  "description": "",
+  "source": "@site/docs/dev_guide/build_source.md",
+  "sourceDirName": "dev_guide",
+  "slug": "/dev_guide/build_source",
+  "permalink": "/documentation/dev_guide/build_source",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/build_source.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Document Translation",
+    "permalink": "/documentation/dev_guide/docs_translate"
+  },
+  "next": {
+    "title": "PKGBUILD",
+    "permalink": "/documentation/dev_guide/pkgbuild"
+  }
+}

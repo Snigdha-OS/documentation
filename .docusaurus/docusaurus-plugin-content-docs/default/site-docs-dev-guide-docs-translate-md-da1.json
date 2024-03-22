@@ -1,0 +1,27 @@
+{
+  "id": "dev_guide/docs_translate",
+  "title": "Document Translation",
+  "description": "",
+  "source": "@site/docs/dev_guide/docs_translate.md",
+  "sourceDirName": "dev_guide",
+  "slug": "/dev_guide/docs_translate",
+  "permalink": "/documentation/dev_guide/docs_translate",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/docs_translate.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Write Documentation",
+    "permalink": "/documentation/dev_guide/write"
+  },
+  "next": {
+    "title": "Build From Source",
+    "permalink": "/documentation/dev_guide/build_source"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "user_guide/cheetsheet",
+  "title": "Cheetsheet/Shortcuts",
+  "description": "",
+  "source": "@site/docs/user_guide/cheetsheet.md",
+  "sourceDirName": "user_guide",
+  "slug": "/user_guide/cheetsheet",
+  "permalink": "/documentation/user_guide/cheetsheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/user_guide/cheetsheet.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User Guide",
+    "permalink": "/documentation/category/user-guide"
+  },
+  "next": {
+    "title": "Installing with AUR",
+    "permalink": "/documentation/user_guide/aur"
+  }
+}

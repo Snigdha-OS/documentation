@@ -1,0 +1,27 @@
+{
+  "id": "dev_guide/pkgbuild",
+  "title": "PKGBUILD",
+  "description": "",
+  "source": "@site/docs/dev_guide/pkgbuild.md",
+  "sourceDirName": "dev_guide",
+  "slug": "/dev_guide/pkgbuild",
+  "permalink": "/documentation/dev_guide/pkgbuild",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/pkgbuild.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Build From Source",
+    "permalink": "/documentation/dev_guide/build_source"
+  },
+  "next": {
+    "title": "GPG Key",
+    "permalink": "/documentation/dev_guide/gpg_key"
+  }
+}

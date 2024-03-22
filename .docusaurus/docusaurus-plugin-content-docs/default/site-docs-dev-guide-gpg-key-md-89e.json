@@ -1,0 +1,27 @@
+{
+  "id": "dev_guide/gpg_key",
+  "title": "GPG Key",
+  "description": "",
+  "source": "@site/docs/dev_guide/gpg_key.md",
+  "sourceDirName": "dev_guide",
+  "slug": "/dev_guide/gpg_key",
+  "permalink": "/documentation/dev_guide/gpg_key",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/gpg_key.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PKGBUILD",
+    "permalink": "/documentation/dev_guide/pkgbuild"
+  },
+  "next": {
+    "title": "Deploy Package",
+    "permalink": "/documentation/dev_guide/deploy_packages"
+  }
+}

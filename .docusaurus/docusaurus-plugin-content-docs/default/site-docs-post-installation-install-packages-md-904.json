@@ -1,0 +1,27 @@
+{
+  "id": "post_installation/install_packages",
+  "title": "Install Packages",
+  "description": "",
+  "source": "@site/docs/post_installation/install_packages.md",
+  "sourceDirName": "post_installation",
+  "slug": "/post_installation/install_packages",
+  "permalink": "/documentation/post_installation/install_packages",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/post_installation/install_packages.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Customize Snigdha OS",
+    "permalink": "/documentation/post_installation/customization"
+  },
+  "next": {
+    "title": "User Guide",
+    "permalink": "/documentation/category/user-guide"
+  }
+}

@@ -99,16 +99,28 @@ export default [
   },
   {
     path: '/documentation/',
-    component: ComponentCreator('/documentation/', '1ed'),
+    component: ComponentCreator('/documentation/', 'd82'),
     routes: [
       {
         path: '/documentation/',
-        component: ComponentCreator('/documentation/', '912'),
+        component: ComponentCreator('/documentation/', '3e8'),
         routes: [
           {
             path: '/documentation/',
-            component: ComponentCreator('/documentation/', '810'),
+            component: ComponentCreator('/documentation/', 'c4e'),
             routes: [
+              {
+                path: '/documentation/before_installation/imporatnt_notes',
+                component: ComponentCreator('/documentation/before_installation/imporatnt_notes', '89a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/before_installation/internet_connection',
+                component: ComponentCreator('/documentation/before_installation/internet_connection', 'fae'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/documentation/before_installation/system_requirements',
                 component: ComponentCreator('/documentation/before_installation/system_requirements', '65d'),
@@ -122,68 +134,206 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/documentation/category/developers-guide',
+                component: ComponentCreator('/documentation/category/developers-guide', '73b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/category/installation',
+                component: ComponentCreator('/documentation/category/installation', '665'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/documentation/category/introduction',
                 component: ComponentCreator('/documentation/category/introduction', '2cc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/category/tutorial---basics',
-                component: ComponentCreator('/documentation/category/tutorial---basics', '954'),
+                path: '/documentation/category/post-installation',
+                component: ComponentCreator('/documentation/category/post-installation', 'ee0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/category/tutorial---extras',
-                component: ComponentCreator('/documentation/category/tutorial---extras', 'f25'),
+                path: '/documentation/category/troubleshoot',
+                component: ComponentCreator('/documentation/category/troubleshoot', '11b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/tutorial-basics/congratulations',
-                component: ComponentCreator('/documentation/tutorial-basics/congratulations', '011'),
+                path: '/documentation/category/user-guide',
+                component: ComponentCreator('/documentation/category/user-guide', 'd5c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/documentation/tutorial-basics/create-a-blog-post', 'af7'),
+                path: '/documentation/dev_guide/build_source',
+                component: ComponentCreator('/documentation/dev_guide/build_source', '81a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/tutorial-basics/create-a-document',
-                component: ComponentCreator('/documentation/tutorial-basics/create-a-document', '185'),
+                path: '/documentation/dev_guide/deploy_packages',
+                component: ComponentCreator('/documentation/dev_guide/deploy_packages', '61f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/tutorial-basics/create-a-page',
-                component: ComponentCreator('/documentation/tutorial-basics/create-a-page', 'c26'),
+                path: '/documentation/dev_guide/docs_translate',
+                component: ComponentCreator('/documentation/dev_guide/docs_translate', '964'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/documentation/tutorial-basics/deploy-your-site', 'cd1'),
+                path: '/documentation/dev_guide/gpg_key',
+                component: ComponentCreator('/documentation/dev_guide/gpg_key', 'd30'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/tutorial-basics/markdown-features',
-                component: ComponentCreator('/documentation/tutorial-basics/markdown-features', '405'),
+                path: '/documentation/dev_guide/pkgbuild',
+                component: ComponentCreator('/documentation/dev_guide/pkgbuild', '393'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/documentation/tutorial-extras/manage-docs-versions', '196'),
+                path: '/documentation/dev_guide/write',
+                component: ComponentCreator('/documentation/dev_guide/write', '856'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/documentation/tutorial-extras/translate-your-site', '368'),
+                path: '/documentation/installation/download_snigdha_os',
+                component: ComponentCreator('/documentation/installation/download_snigdha_os', '369'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/installation/live_env',
+                component: ComponentCreator('/documentation/installation/live_env', 'd25'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/installation/making_bootable_usb',
+                component: ComponentCreator('/documentation/installation/making_bootable_usb', '298'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/installation/offline_install',
+                component: ComponentCreator('/documentation/installation/offline_install', '274'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/installation/online_install',
+                component: ComponentCreator('/documentation/installation/online_install', 'c8a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/installation/start_installation',
+                component: ComponentCreator('/documentation/installation/start_installation', '0d4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/installation/virtualbox_installation',
+                component: ComponentCreator('/documentation/installation/virtualbox_installation', 'f71'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/introduction/code_of_conduct',
+                component: ComponentCreator('/documentation/introduction/code_of_conduct', '1f7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/introduction/faqs',
+                component: ComponentCreator('/documentation/introduction/faqs', '7af'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/introduction/inspiration',
+                component: ComponentCreator('/documentation/introduction/inspiration', '67a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/introduction/release_notes',
+                component: ComponentCreator('/documentation/introduction/release_notes', '590'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/introduction/reporting_bugs',
+                component: ComponentCreator('/documentation/introduction/reporting_bugs', '974'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/post_installation/customization',
+                component: ComponentCreator('/documentation/post_installation/customization', '35c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/post_installation/install_packages',
+                component: ComponentCreator('/documentation/post_installation/install_packages', '557'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/post_installation/language',
+                component: ComponentCreator('/documentation/post_installation/language', '861'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/post_installation/update',
+                component: ComponentCreator('/documentation/post_installation/update', 'bd0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/troubleshoot/bluetooth',
+                component: ComponentCreator('/documentation/troubleshoot/bluetooth', '269'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/troubleshoot/display',
+                component: ComponentCreator('/documentation/troubleshoot/display', '9c2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/troubleshoot/sound',
+                component: ComponentCreator('/documentation/troubleshoot/sound', '004'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/troubleshoot/wifi',
+                component: ComponentCreator('/documentation/troubleshoot/wifi', '8fc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/user_guide/aur',
+                component: ComponentCreator('/documentation/user_guide/aur', '9b0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/user_guide/cheetsheet',
+                component: ComponentCreator('/documentation/user_guide/cheetsheet', '1e9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

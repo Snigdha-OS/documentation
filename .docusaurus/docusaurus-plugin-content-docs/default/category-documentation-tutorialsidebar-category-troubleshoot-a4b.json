@@ -1,0 +1,16 @@
+{
+  "title": "Troubleshoot",
+  "description": "Troubleshoot",
+  "slug": "/category/troubleshoot",
+  "permalink": "/documentation/category/troubleshoot",
+  "navigation": {
+    "previous": {
+      "title": "Installing with AUR",
+      "permalink": "/documentation/user_guide/aur"
+    },
+    "next": {
+      "title": "Troubleshoot: Wifi",
+      "permalink": "/documentation/troubleshoot/wifi"
+    }
+  }
+}

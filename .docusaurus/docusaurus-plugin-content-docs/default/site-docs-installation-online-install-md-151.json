@@ -1,0 +1,27 @@
+{
+  "id": "installation/online_install",
+  "title": "Online Installation",
+  "description": "",
+  "source": "@site/docs/installation/online_install.md",
+  "sourceDirName": "installation",
+  "slug": "/installation/online_install",
+  "permalink": "/documentation/installation/online_install",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/installation/online_install.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Offline Installation",
+    "permalink": "/documentation/installation/offline_install"
+  },
+  "next": {
+    "title": "Install Snigdha OS",
+    "permalink": "/documentation/installation/start_installation"
+  }
+}

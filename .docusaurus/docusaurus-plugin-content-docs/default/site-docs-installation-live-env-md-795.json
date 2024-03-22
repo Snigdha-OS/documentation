@@ -1,0 +1,27 @@
+{
+  "id": "installation/live_env",
+  "title": "Live Environment",
+  "description": "",
+  "source": "@site/docs/installation/live_env.md",
+  "sourceDirName": "installation",
+  "slug": "/installation/live_env",
+  "permalink": "/documentation/installation/live_env",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/installation/live_env.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Make Bootable USB",
+    "permalink": "/documentation/installation/making_bootable_usb"
+  },
+  "next": {
+    "title": "Offline Installation",
+    "permalink": "/documentation/installation/offline_install"
+  }
+}

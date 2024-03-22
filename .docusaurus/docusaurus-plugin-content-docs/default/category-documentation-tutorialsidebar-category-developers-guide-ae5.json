@@ -1,0 +1,16 @@
+{
+  "title": "Developers Guide",
+  "description": "Troubleshoot",
+  "slug": "/category/developers-guide",
+  "permalink": "/documentation/category/developers-guide",
+  "navigation": {
+    "previous": {
+      "title": "Troubleshoot: Display",
+      "permalink": "/documentation/troubleshoot/display"
+    },
+    "next": {
+      "title": "Write Documentation",
+      "permalink": "/documentation/dev_guide/write"
+    }
+  }
+}

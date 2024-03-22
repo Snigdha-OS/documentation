@@ -1,0 +1,27 @@
+{
+  "id": "installation/virtualbox_installation",
+  "title": "Virtualbox",
+  "description": "",
+  "source": "@site/docs/installation/virtualbox_installation.md",
+  "sourceDirName": "installation",
+  "slug": "/installation/virtualbox_installation",
+  "permalink": "/documentation/installation/virtualbox_installation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/installation/virtualbox_installation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Install Snigdha OS",
+    "permalink": "/documentation/installation/start_installation"
+  },
+  "next": {
+    "title": "Post Installation",
+    "permalink": "/documentation/category/post-installation"
+  }
+}

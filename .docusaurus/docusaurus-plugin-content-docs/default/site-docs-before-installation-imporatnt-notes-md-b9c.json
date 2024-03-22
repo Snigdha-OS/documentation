@@ -1,0 +1,27 @@
+{
+  "id": "before_installation/imporatnt_notes",
+  "title": "Important Notes",
+  "description": "",
+  "source": "@site/docs/before_installation/imporatnt_notes.md",
+  "sourceDirName": "before_installation",
+  "slug": "/before_installation/imporatnt_notes",
+  "permalink": "/documentation/before_installation/imporatnt_notes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/before_installation/imporatnt_notes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "System Requirements",
+    "permalink": "/documentation/before_installation/system_requirements"
+  },
+  "next": {
+    "title": "Internet Connection",
+    "permalink": "/documentation/before_installation/internet_connection"
+  }
+}
