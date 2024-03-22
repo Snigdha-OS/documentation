@@ -41,7 +41,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-documents-
 
-      - run: yarn install --frozen-lockfile
+      - run: sudo yarn install --frozen-lockfile
       - run: sudo yarn build
 
       - name: Deploy
