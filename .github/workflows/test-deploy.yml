@@ -21,6 +21,8 @@ jobs:
           cache: yarn
 
       - name: Install dependencies
-        run: yarn install --frozen-lockfile
+        run: npm ci
+      - name: Install Fontawesome
+        run: npm install --save font-awesome
       - name: Test build documents
-        run: yarn build
+        run: npm run build
