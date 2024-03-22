@@ -1,83 +1,83 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/",
+      "path": "/documentation/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/",
+          "path": "/documentation/",
           "mainDocId": "introduction/introduction",
           "docs": [
             {
               "id": "before_installation/system_requirements",
-              "path": "/before_installation/system_requirements",
+              "path": "/documentation/before_installation/system_requirements",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "introduction/introduction",
-              "path": "/",
+              "path": "/documentation/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/congratulations",
-              "path": "/tutorial-basics/congratulations",
+              "path": "/documentation/tutorial-basics/congratulations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-blog-post",
-              "path": "/tutorial-basics/create-a-blog-post",
+              "path": "/documentation/tutorial-basics/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-document",
-              "path": "/tutorial-basics/create-a-document",
+              "path": "/documentation/tutorial-basics/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-page",
-              "path": "/tutorial-basics/create-a-page",
+              "path": "/documentation/tutorial-basics/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/deploy-your-site",
-              "path": "/tutorial-basics/deploy-your-site",
+              "path": "/documentation/tutorial-basics/deploy-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/markdown-features",
-              "path": "/tutorial-basics/markdown-features",
+              "path": "/documentation/tutorial-basics/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/manage-docs-versions",
-              "path": "/tutorial-extras/manage-docs-versions",
+              "path": "/documentation/tutorial-extras/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/translate-your-site",
-              "path": "/tutorial-extras/translate-your-site",
+              "path": "/documentation/tutorial-extras/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/introduction",
-              "path": "/category/introduction",
+              "path": "/documentation/category/introduction",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/before-installation",
-              "path": "/category/before-installation",
+              "path": "/documentation/category/before-installation",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tutorial---basics",
-              "path": "/category/tutorial---basics",
+              "path": "/documentation/category/tutorial---basics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tutorial---extras",
-              "path": "/category/tutorial---extras",
+              "path": "/documentation/category/tutorial---extras",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -85,7 +85,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/category/introduction",
+                "path": "/documentation/category/introduction",
                 "label": "Introduction"
               }
             }

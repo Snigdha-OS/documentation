@@ -5,7 +5,7 @@
   "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/create-a-blog-post",
-  "permalink": "/tutorial-basics/create-a-blog-post",
+  "permalink": "/documentation/tutorial-basics/create-a-blog-post",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-blog-post.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Create a Document",
-    "permalink": "/tutorial-basics/create-a-document"
+    "permalink": "/documentation/tutorial-basics/create-a-document"
   },
   "next": {
     "title": "Markdown Features",
-    "permalink": "/tutorial-basics/markdown-features"
+    "permalink": "/documentation/tutorial-basics/markdown-features"
   }
 }

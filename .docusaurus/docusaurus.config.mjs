@@ -8,7 +8,7 @@ export default {
   "tagline": "Be silent when it is time to hear!",
   "favicon": "img/favicon.ico",
   "url": "https://docs.snigdhaos.org",
-  "baseUrl": "/",
+  "baseUrl": "/documentation/",
   "organizationName": "snigdha-os",
   "projectName": "documentation",
   "onBrokenLinks": "throw",

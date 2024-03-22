@@ -5,7 +5,7 @@
   "source": "@site/docs/before_installation/system_requirements.md",
   "sourceDirName": "before_installation",
   "slug": "/before_installation/system_requirements",
-  "permalink": "/before_installation/system_requirements",
+  "permalink": "/documentation/before_installation/system_requirements",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/before_installation/system_requirements.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Before Installation",
-    "permalink": "/category/before-installation"
+    "permalink": "/documentation/category/before-installation"
   },
   "next": {
     "title": "Tutorial - Basics",
-    "permalink": "/category/tutorial---basics"
+    "permalink": "/documentation/category/tutorial---basics"
   }
 }
