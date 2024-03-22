@@ -37,7 +37,7 @@ jobs:
         uses: actions/cache@v3
         with:
           path: ${{ steps.yarn-cache.outputs.YARN_CACHE_DIR }}
-          key: ${{ runner.os }}-website-${{ hashFiles('**/yarn.lock') }}
+          key: ${{ runner.os }}-documents-${{ hashFiles('**/yarn.lock') }}
           restore-keys: |
             ${{ runner.os }}-documents-
 
