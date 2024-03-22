@@ -43,10 +43,10 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "SNIGDHA OS DOCS 📚",
+      "title": "SNIGDHA OS",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "src": "img/Doc.svg"
       },
       "items": [
         {
