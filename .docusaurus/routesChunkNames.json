@@ -186,18 +186,26 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/-2dc": {
+  "/-de6": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---99-b-f14"
     }
   },
-  "/-21a": {
+  "/-d9d": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---935-fcf"
   },
-  "/-349": {
+  "/-f4a": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/before_installation/system_requirements-f69": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---before-installation-system-requirements-143-f23"
+  },
+  "/category/before-installation-155": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-before-installationd-71-57f"
   },
   "/category/introduction-69c": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",

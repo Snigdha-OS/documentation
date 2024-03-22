@@ -11,6 +11,11 @@
           "mainDocId": "introduction/introduction",
           "docs": [
             {
+              "id": "before_installation/system_requirements",
+              "path": "/before_installation/system_requirements",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "introduction/introduction",
               "path": "/",
               "sidebar": "tutorialSidebar"
@@ -58,6 +63,11 @@
             {
               "id": "/category/introduction",
               "path": "/category/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/before-installation",
+              "path": "/category/before-installation",
               "sidebar": "tutorialSidebar"
             },
             {

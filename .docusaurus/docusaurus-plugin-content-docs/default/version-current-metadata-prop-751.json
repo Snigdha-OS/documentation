@@ -27,6 +27,22 @@
       },
       {
         "type": "category",
+        "label": "Before Installation",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "System Requirements",
+            "href": "/before_installation/system_requirements",
+            "docId": "before_installation/system_requirements",
+            "unlisted": false
+          }
+        ],
+        "href": "/category/before-installation"
+      },
+      {
+        "type": "category",
         "label": "Tutorial - Basics",
         "collapsible": true,
         "collapsed": true,
@@ -102,6 +118,12 @@
     ]
   },
   "docs": {
+    "before_installation/system_requirements": {
+      "id": "before_installation/system_requirements",
+      "title": "System Requirements",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
     "introduction/introduction": {
       "id": "introduction/introduction",
       "title": "Introduction",

@@ -99,16 +99,28 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '2dc'),
+    component: ComponentCreator('/', 'de6'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '21a'),
+        component: ComponentCreator('/', 'd9d'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '349'),
+            component: ComponentCreator('/', 'f4a'),
             routes: [
+              {
+                path: '/before_installation/system_requirements',
+                component: ComponentCreator('/before_installation/system_requirements', 'f69'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/category/before-installation',
+                component: ComponentCreator('/category/before-installation', '155'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/category/introduction',
                 component: ComponentCreator('/category/introduction', '69c'),

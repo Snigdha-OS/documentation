@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "DOCS | SNIGDHA OS",
-  "tagline": "Dinosaurs are cool",
+  "title": "SNIGDHA OS - DOCS",
+  "tagline": "Be silent when it is time to hear!",
   "favicon": "img/favicon.ico",
   "url": "https://docs.snigdhaos.org",
   "baseUrl": "/",
@@ -43,22 +43,36 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "SNIGDHA OS",
+      "title": "",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/Doc.svg"
+        "src": "img/sdocs.svg"
       },
       "items": [
         {
-          "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
-          "position": "left",
-          "label": "Tutorial"
+          "href": "https://github.com/facebook/docusaurus",
+          "label": "Home",
+          "position": "right"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
+          "href": "https://github.com/facebook/docusaurus",
+          "label": "Cloud",
+          "position": "right"
+        },
+        {
+          "href": "https://github.com/facebook/docusaurus",
+          "label": "Forum",
+          "position": "right"
+        },
+        {
+          "href": "https://github.com/facebook/docusaurus",
+          "label": "Tools",
+          "position": "right"
+        },
+        {
+          "href": "https://github.com/facebook/docusaurus",
+          "label": "Status",
+          "position": "right"
         },
         {
           "href": "https://github.com/facebook/docusaurus",
@@ -71,48 +85,8 @@ export default {
     },
     "footer": {
       "style": "light",
-      "links": [
-        {
-          "title": "Docs",
-          "items": [
-            {
-              "label": "Tutorial",
-              "to": "/"
-            }
-          ]
-        },
-        {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
-            }
-          ]
-        }
-      ],
-      "copyright": "Copyright © 2024 My Project, Inc. Built with Docusaurus."
+      "links": [],
+      "copyright": "© 2024 SNIGDHA OS. ALL RIGHTS RESERVED."
     },
     "prism": {
       "theme": {

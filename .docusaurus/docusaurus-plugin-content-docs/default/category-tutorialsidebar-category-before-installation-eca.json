@@ -1,0 +1,16 @@
+{
+  "title": "Before Installation",
+  "description": "System Requirements!",
+  "slug": "/category/before-installation",
+  "permalink": "/category/before-installation",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/"
+    },
+    "next": {
+      "title": "System Requirements",
+      "permalink": "/before_installation/system_requirements"
+    }
+  }
+}

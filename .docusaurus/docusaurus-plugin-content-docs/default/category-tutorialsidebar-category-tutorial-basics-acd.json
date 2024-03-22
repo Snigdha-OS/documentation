@@ -5,8 +5,8 @@
   "permalink": "/category/tutorial---basics",
   "navigation": {
     "previous": {
-      "title": "Introduction",
-      "permalink": "/"
+      "title": "System Requirements",
+      "permalink": "/before_installation/system_requirements"
     },
     "next": {
       "title": "Create a Page",
