@@ -99,16 +99,22 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '6cb'),
+    component: ComponentCreator('/', '2dc'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '58f'),
+        component: ComponentCreator('/', '21a'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '0b6'),
+            component: ComponentCreator('/', '349'),
             routes: [
+              {
+                path: '/category/introduction',
+                component: ComponentCreator('/category/introduction', '69c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/category/tutorial---basics',
                 component: ComponentCreator('/category/tutorial---basics', '72e'),
@@ -171,7 +177,7 @@ export default [
               },
               {
                 path: '/',
-                component: ComponentCreator('/', '96c'),
+                component: ComponentCreator('/', 'e43'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

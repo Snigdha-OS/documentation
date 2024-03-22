@@ -186,18 +186,22 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/-6cb": {
+  "/-2dc": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---99-b-f14"
     }
   },
-  "/-58f": {
+  "/-21a": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---935-fcf"
   },
-  "/-0b6": {
+  "/-349": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/category/introduction-69c": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-introductiond-7-d-b4f"
   },
   "/category/tutorial---basics-72e": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -239,8 +243,8 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---tutorial-extras-translate-your-sitee-44-f13"
   },
-  "/-96c": {
+  "/-e43": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---0-e-3-279"
+    "content": "content---c-62-ead"
   }
 }

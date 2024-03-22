@@ -1,0 +1,12 @@
+{
+  "title": "Introduction",
+  "description": "Let's get a short overview!",
+  "slug": "/category/introduction",
+  "permalink": "/category/introduction",
+  "navigation": {
+    "next": {
+      "title": "Introduction",
+      "permalink": "/"
+    }
+  }
+}

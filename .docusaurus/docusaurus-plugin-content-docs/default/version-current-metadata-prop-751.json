@@ -10,11 +10,20 @@
   "docsSidebars": {
     "tutorialSidebar": [
       {
-        "type": "link",
-        "label": "Tutorial Intro",
-        "href": "/",
-        "docId": "intro",
-        "unlisted": false
+        "type": "category",
+        "label": "Introduction",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/",
+            "docId": "introduction/introduction",
+            "unlisted": false
+          }
+        ],
+        "href": "/category/introduction"
       },
       {
         "type": "category",
@@ -93,9 +102,9 @@
     ]
   },
   "docs": {
-    "intro": {
-      "id": "intro",
-      "title": "Tutorial Intro",
+    "introduction/introduction": {
+      "id": "introduction/introduction",
+      "title": "Introduction",
       "description": "Let's discover Docusaurus in less than 5 minutes.",
       "sidebar": "tutorialSidebar"
     },

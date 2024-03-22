@@ -20,16 +20,16 @@
           "contentPathLocalized": "/home/whoami/Documents/GitHub/documentation/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "id": "intro",
-              "title": "Tutorial Intro",
+              "id": "introduction/introduction",
+              "title": "Introduction",
               "description": "Let's discover Docusaurus in less than 5 minutes.",
-              "source": "@site/docs/intro.md",
-              "sourceDirName": ".",
+              "source": "@site/docs/introduction/introduction.md",
+              "sourceDirName": "introduction",
               "slug": "/",
               "permalink": "/",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/introduction/introduction.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -38,6 +38,10 @@
                 "slug": "/"
               },
               "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/category/introduction"
+              },
               "next": {
                 "title": "Tutorial - Basics",
                 "permalink": "/category/tutorial---basics"
@@ -260,8 +264,22 @@
           "sidebars": {
             "tutorialSidebar": [
               {
-                "type": "doc",
-                "id": "intro"
+                "type": "category",
+                "label": "Introduction",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "introduction/introduction"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Let's get a short overview!",
+                  "slug": "/category/introduction",
+                  "permalink": "/category/introduction"
+                }
               },
               {
                 "type": "category",

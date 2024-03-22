@@ -8,10 +8,10 @@
           "label": "Next",
           "isLast": true,
           "path": "/",
-          "mainDocId": "intro",
+          "mainDocId": "introduction/introduction",
           "docs": [
             {
-              "id": "intro",
+              "id": "introduction/introduction",
               "path": "/",
               "sidebar": "tutorialSidebar"
             },
@@ -56,6 +56,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "/category/introduction",
+              "path": "/category/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/tutorial---basics",
               "path": "/category/tutorial---basics",
               "sidebar": "tutorialSidebar"
@@ -70,8 +75,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/",
-                "label": "intro"
+                "path": "/category/introduction",
+                "label": "Introduction"
               }
             }
           }
