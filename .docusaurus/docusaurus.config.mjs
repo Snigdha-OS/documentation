@@ -9,6 +9,7 @@ export default {
   "favicon": "img/favicon.ico",
   "url": "https://docs.snigdhaos.org",
   "baseUrl": "/documentation/",
+  "trailingSlash": false,
   "organizationName": "snigdha-os",
   "projectName": "documentation",
   "onBrokenLinks": "throw",
@@ -28,11 +29,11 @@ export default {
         "docs": {
           "sidebarPath": "./sidebars.js",
           "routeBasePath": "/",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/"
         },
         "theme": {
           "customCss": "./src/css/custom.css"
