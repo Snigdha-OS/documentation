@@ -318,6 +318,22 @@
           }
         ],
         "href": "/documentation/category/developers-guide"
+      },
+      {
+        "type": "category",
+        "label": "Tools",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Tool: DNS Enum",
+            "href": "/documentation/tools/dns",
+            "docId": "tools/dns",
+            "unlisted": false
+          }
+        ],
+        "href": "/documentation/category/tools"
       }
     ]
   },
@@ -487,6 +503,12 @@
     "post_installation/update": {
       "id": "post_installation/update",
       "title": "Update Snigdha OS",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tools/dns": {
+      "id": "tools/dns",
+      "title": "Tool: DNS Enum",
       "description": "",
       "sidebar": "tutorialSidebar"
     },

@@ -148,6 +148,10 @@
               "previous": {
                 "title": "GPG Key",
                 "permalink": "/documentation/dev_guide/gpg_key"
+              },
+              "next": {
+                "title": "Tools",
+                "permalink": "/documentation/category/tools"
               }
             },
             {
@@ -773,6 +777,29 @@
               }
             },
             {
+              "id": "tools/dns",
+              "title": "Tool: DNS Enum",
+              "description": "",
+              "source": "@site/docs/tools/dns.md",
+              "sourceDirName": "tools",
+              "slug": "/tools/dns",
+              "permalink": "/documentation/tools/dns",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/tools/dns.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tools",
+                "permalink": "/documentation/category/tools"
+              }
+            },
+            {
               "id": "troubleshoot/bluetooth",
               "title": "Troubleshoot: Bluetooth",
               "description": "",
@@ -1184,6 +1211,24 @@
                   "description": "Troubleshoot",
                   "slug": "/category/developers-guide",
                   "permalink": "/documentation/category/developers-guide"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Tools",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tools/dns"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Troubleshoot",
+                  "slug": "/category/tools",
+                  "permalink": "/documentation/category/tools"
                 }
               }
             ]

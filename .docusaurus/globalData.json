@@ -151,6 +151,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tools/dns",
+              "path": "/documentation/tools/dns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "troubleshoot/bluetooth",
               "path": "/documentation/troubleshoot/bluetooth",
               "sidebar": "tutorialSidebar"
@@ -218,6 +223,11 @@
             {
               "id": "/category/developers-guide",
               "path": "/documentation/category/developers-guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tools",
+              "path": "/documentation/category/tools",
               "sidebar": "tutorialSidebar"
             }
           ],

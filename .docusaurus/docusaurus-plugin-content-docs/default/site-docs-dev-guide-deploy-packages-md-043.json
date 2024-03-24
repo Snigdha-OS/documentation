@@ -19,5 +19,9 @@
   "previous": {
     "title": "GPG Key",
     "permalink": "/documentation/dev_guide/gpg_key"
+  },
+  "next": {
+    "title": "Tools",
+    "permalink": "/documentation/category/tools"
   }
 }

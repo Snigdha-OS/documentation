@@ -99,15 +99,15 @@ export default [
   },
   {
     path: '/documentation/',
-    component: ComponentCreator('/documentation/', 'df7'),
+    component: ComponentCreator('/documentation/', '7d7'),
     routes: [
       {
         path: '/documentation/',
-        component: ComponentCreator('/documentation/', 'a50'),
+        component: ComponentCreator('/documentation/', '81d'),
         routes: [
           {
             path: '/documentation/',
-            component: ComponentCreator('/documentation/', 'dbd'),
+            component: ComponentCreator('/documentation/', '42c'),
             routes: [
               {
                 path: '/documentation/before_installation/imporatnt_notes',
@@ -160,6 +160,12 @@ export default [
               {
                 path: '/documentation/category/post-installation',
                 component: ComponentCreator('/documentation/category/post-installation', 'ee0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/category/tools',
+                component: ComponentCreator('/documentation/category/tools', 'a35'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -316,6 +322,12 @@ export default [
               {
                 path: '/documentation/post_installation/update',
                 component: ComponentCreator('/documentation/post_installation/update', 'bd0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/tools/dns',
+                component: ComponentCreator('/documentation/tools/dns', '2cf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

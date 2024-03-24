@@ -186,17 +186,17 @@
     },
     "content": "content---documentation-markdown-page-393-bce"
   },
-  "/documentation/-df7": {
+  "/documentation/-7d7": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---documentation-99-b-b0a"
     }
   },
-  "/documentation/-a50": {
+  "/documentation/-81d": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---documentation-935-548"
   },
-  "/documentation/-dbd": {
+  "/documentation/-42c": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/documentation/before_installation/imporatnt_notes-89a": {
@@ -234,6 +234,10 @@
   "/documentation/category/post-installation-ee0": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-category-post-installatione-54-a22"
+  },
+  "/documentation/category/tools-a35": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-category-tools-96-b-75a"
   },
   "/documentation/category/troubleshoot-11b": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -338,6 +342,10 @@
   "/documentation/post_installation/update-bd0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-post-installation-updateffa-74d"
+  },
+  "/documentation/tools/dns-2cf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-tools-dnsce-8-3f9"
   },
   "/documentation/troubleshoot/bluetooth-269": {
     "__comp": "__comp---theme-doc-item-178-a40",
