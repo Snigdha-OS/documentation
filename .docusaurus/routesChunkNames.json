@@ -186,17 +186,17 @@
     },
     "content": "content---documentation-markdown-page-393-bce"
   },
-  "/documentation/-d82": {
+  "/documentation/-df7": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---documentation-99-b-b0a"
     }
   },
-  "/documentation/-3e8": {
+  "/documentation/-a50": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---documentation-935-548"
   },
-  "/documentation/-c4e": {
+  "/documentation/-dbd": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/documentation/before_installation/imporatnt_notes-89a": {
@@ -226,6 +226,10 @@
   "/documentation/category/introduction-2cc": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-category-introductionccd-ede"
+  },
+  "/documentation/category/packages-0e6": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-category-packages-909-692"
   },
   "/documentation/category/post-installation-ee0": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -310,6 +314,14 @@
   "/documentation/introduction/reporting_bugs-974": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-introduction-reporting-bugsdc-8-ae1"
+  },
+  "/documentation/packages/snigdhaos_blackbox-3e9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-packages-snigdhaos-blackboxbbd-050"
+  },
+  "/documentation/packages/snigdhaos_welcome-e46": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-packages-snigdhaos-welcome-400-dfa"
   },
   "/documentation/post_installation/customization-35c": {
     "__comp": "__comp---theme-doc-item-178-a40",

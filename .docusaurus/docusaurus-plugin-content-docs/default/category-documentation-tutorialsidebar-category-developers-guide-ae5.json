@@ -5,8 +5,8 @@
   "permalink": "/documentation/category/developers-guide",
   "navigation": {
     "previous": {
-      "title": "Troubleshoot: Display",
-      "permalink": "/documentation/troubleshoot/display"
+      "title": "Blackbox",
+      "permalink": "/documentation/packages/snigdhaos_blackbox"
     },
     "next": {
       "title": "Write Documentation",

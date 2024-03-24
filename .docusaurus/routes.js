@@ -99,15 +99,15 @@ export default [
   },
   {
     path: '/documentation/',
-    component: ComponentCreator('/documentation/', 'd82'),
+    component: ComponentCreator('/documentation/', 'df7'),
     routes: [
       {
         path: '/documentation/',
-        component: ComponentCreator('/documentation/', '3e8'),
+        component: ComponentCreator('/documentation/', 'a50'),
         routes: [
           {
             path: '/documentation/',
-            component: ComponentCreator('/documentation/', 'c4e'),
+            component: ComponentCreator('/documentation/', 'dbd'),
             routes: [
               {
                 path: '/documentation/before_installation/imporatnt_notes',
@@ -148,6 +148,12 @@ export default [
               {
                 path: '/documentation/category/introduction',
                 component: ComponentCreator('/documentation/category/introduction', '2cc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/category/packages',
+                component: ComponentCreator('/documentation/category/packages', '0e6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -274,6 +280,18 @@ export default [
               {
                 path: '/documentation/introduction/reporting_bugs',
                 component: ComponentCreator('/documentation/introduction/reporting_bugs', '974'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/packages/snigdhaos_blackbox',
+                component: ComponentCreator('/documentation/packages/snigdhaos_blackbox', '3e9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/packages/snigdhaos_welcome',
+                component: ComponentCreator('/documentation/packages/snigdhaos_welcome', 'e46'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

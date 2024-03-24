@@ -121,6 +121,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "packages/snigdhaos_blackbox",
+              "path": "/documentation/packages/snigdhaos_blackbox",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "packages/snigdhaos_welcome",
+              "path": "/documentation/packages/snigdhaos_welcome",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "post_installation/customization",
               "path": "/documentation/post_installation/customization",
               "sidebar": "tutorialSidebar"
@@ -198,6 +208,11 @@
             {
               "id": "/category/troubleshoot",
               "path": "/documentation/category/troubleshoot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/packages",
+              "path": "/documentation/category/packages",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -247,6 +247,29 @@
       },
       {
         "type": "category",
+        "label": "Packages",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Welcome",
+            "href": "/documentation/packages/snigdhaos_welcome",
+            "docId": "packages/snigdhaos_welcome",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Blackbox",
+            "href": "/documentation/packages/snigdhaos_blackbox",
+            "docId": "packages/snigdhaos_blackbox",
+            "unlisted": false
+          }
+        ],
+        "href": "/documentation/category/packages"
+      },
+      {
+        "type": "category",
         "label": "Developers Guide",
         "collapsible": true,
         "collapsed": true,
@@ -416,7 +439,7 @@
     "introduction/introduction": {
       "id": "introduction/introduction",
       "title": "Introduction",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "description": "Snigdha OS is a light-weight, Powerful & Optimized Operating System built for Normal Users &  Penetration Testers.",
       "sidebar": "tutorialSidebar"
     },
     "introduction/release_notes": {
@@ -428,6 +451,18 @@
     "introduction/reporting_bugs": {
       "id": "introduction/reporting_bugs",
       "title": "Reporting Bugs",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "packages/snigdhaos_blackbox": {
+      "id": "packages/snigdhaos_blackbox",
+      "title": "Blackbox",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "packages/snigdhaos_welcome": {
+      "id": "packages/snigdhaos_welcome",
+      "title": "Welcome",
       "description": "",
       "sidebar": "tutorialSidebar"
     },

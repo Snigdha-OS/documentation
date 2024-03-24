@@ -531,7 +531,7 @@
             {
               "id": "introduction/introduction",
               "title": "Introduction",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "description": "Snigdha OS is a light-weight, Powerful & Optimized Operating System built for Normal Users &  Penetration Testers.",
               "source": "@site/docs/introduction/introduction.md",
               "sourceDirName": "introduction",
               "slug": "/",
@@ -608,6 +608,60 @@
               "next": {
                 "title": "Frequently Asked",
                 "permalink": "/documentation/introduction/faqs"
+              }
+            },
+            {
+              "id": "packages/snigdhaos_blackbox",
+              "title": "Blackbox",
+              "description": "",
+              "source": "@site/docs/packages/snigdhaos_blackbox.md",
+              "sourceDirName": "packages",
+              "slug": "/packages/snigdhaos_blackbox",
+              "permalink": "/documentation/packages/snigdhaos_blackbox",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/packages/snigdhaos_blackbox.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Welcome",
+                "permalink": "/documentation/packages/snigdhaos_welcome"
+              },
+              "next": {
+                "title": "Developers Guide",
+                "permalink": "/documentation/category/developers-guide"
+              }
+            },
+            {
+              "id": "packages/snigdhaos_welcome",
+              "title": "Welcome",
+              "description": "",
+              "source": "@site/docs/packages/snigdhaos_welcome.md",
+              "sourceDirName": "packages",
+              "slug": "/packages/snigdhaos_welcome",
+              "permalink": "/documentation/packages/snigdhaos_welcome",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/packages/snigdhaos_welcome.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Packages",
+                "permalink": "/documentation/category/packages"
+              },
+              "next": {
+                "title": "Blackbox",
+                "permalink": "/documentation/packages/snigdhaos_blackbox"
               }
             },
             {
@@ -768,8 +822,8 @@
                 "permalink": "/documentation/troubleshoot/sound"
               },
               "next": {
-                "title": "Developers Guide",
-                "permalink": "/documentation/category/developers-guide"
+                "title": "Packages",
+                "permalink": "/documentation/category/packages"
               }
             },
             {
@@ -1070,6 +1124,28 @@
                   "description": "Troubleshoot",
                   "slug": "/category/troubleshoot",
                   "permalink": "/documentation/category/troubleshoot"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Packages",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "packages/snigdhaos_welcome"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "packages/snigdhaos_blackbox"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Troubleshoot",
+                  "slug": "/category/packages",
+                  "permalink": "/documentation/category/packages"
                 }
               },
               {

@@ -1,6 +1,6 @@
 {
-    "label": "Developers Guide",
-    "position": 8,
+    "label": "Packages",
+    "position": 7,
     "link": {
       "type": "generated-index",
       "description": "Troubleshoot"
