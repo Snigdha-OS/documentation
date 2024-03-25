@@ -4,10 +4,17 @@
         <title>SNIGDHA OS - DOCS Blog</title>
         <link>https://docs.snigdhaos.org/documentation/blog</link>
         <description>SNIGDHA OS - DOCS Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 02:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Write Effective Bug Report]]></title>
+            <link>https://docs.snigdhaos.org/documentation/blog/effective_bug_report</link>
+            <guid>https://docs.snigdhaos.org/documentation/blog/effective_bug_report</guid>
+            <pubDate>Mon, 25 Mar 2024 02:20:39 GMT</pubDate>
+            <category>docusaurus</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://docs.snigdhaos.org/documentation/blog/welcome</link>
