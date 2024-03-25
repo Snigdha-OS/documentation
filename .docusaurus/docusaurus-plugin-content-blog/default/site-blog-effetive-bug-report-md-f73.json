@@ -33,9 +33,5 @@
       "bug"
     ]
   },
-  "unlisted": false,
-  "nextItem": {
-    "title": "Welcome",
-    "permalink": "/documentation/blog/welcome"
-  }
+  "unlisted": false
 }

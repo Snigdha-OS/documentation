@@ -5,26 +5,6 @@
       "title": "Write Effective Bug Report",
       "permalink": "/documentation/blog/effective_bug_report",
       "unlisted": false
-    },
-    {
-      "title": "Welcome",
-      "permalink": "/documentation/blog/welcome",
-      "unlisted": false
-    },
-    {
-      "title": "MDX Blog Post",
-      "permalink": "/documentation/blog/mdx-blog-post",
-      "unlisted": false
-    },
-    {
-      "title": "Long Blog Post",
-      "permalink": "/documentation/blog/long-blog-post",
-      "unlisted": false
-    },
-    {
-      "title": "First Blog Post",
-      "permalink": "/documentation/blog/first-blog-post",
-      "unlisted": false
     }
   ]
 }
