@@ -87,32 +87,32 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://snigdhaos.org/',
             label: 'Home',
             position: 'right',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://cloud.snigdhaos.org/',
             label: 'Cloud',
             position: 'right',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://forum.snigdhaos.org/',
             label: 'Forum',
             position: 'right',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://tools.snigdhaos.org/',
             label: 'Tools',
             position: 'right',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://snigdha-os.github.io/snigdhaos-status/',
             label: 'Status',
             position: 'right',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Snigdha-OS/',
             // label: 'GitHub',
             position: 'right',
             className: 'navbar__icon navbar__github',

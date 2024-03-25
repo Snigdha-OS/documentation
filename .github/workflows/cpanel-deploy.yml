@@ -1,0 +1,20 @@
+on: 
+    push:
+        branches: 
+            - gh-pages
+name: 🚀 Deploy website on push
+jobs:
+  web-deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v4
+    
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      with:
+        server: ftp.snigdhaos.org
+        username: ${{ secrets.ftp_password }}
+        password: ${{ secrets.ftp_password }}
+        server-dir: /docs.snigdhaos.org/
