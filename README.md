@@ -1,4 +1,5 @@
 [![pages-build-deployment](https://github.com/Snigdha-OS/documentation/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/Snigdha-OS/documentation/actions/workflows/pages/pages-build-deployment)
+[![Deploy to GitHub Pages](https://github.com/Snigdha-OS/documentation/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/Snigdha-OS/documentation/actions/workflows/deploy.yml)
 
 # Website
 
