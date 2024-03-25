@@ -3,23 +3,23 @@
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/blog/effetive_bug_report.md",
   "source": "@site/blog/effetive_bug_report.md",
   "title": "Write Effective Bug Report",
-  "description": "",
-  "date": "2024-03-25T02:16:56.380Z",
+  "description": "Writing an effective bug report is crucial for helping developers understand, reproduce, and ultimately fix the issue. Here's a step-by-step guide on how to write an effective bug report:",
+  "date": "2024-03-25T02:20:39.000Z",
   "formattedDate": "March 25, 2024",
   "tags": [
     {
-      "label": "docusaurus",
-      "permalink": "/documentation/blog/tags/docusaurus"
+      "label": "bug",
+      "permalink": "/documentation/blog/tags/bug"
     }
   ],
-  "readingTime": 0,
+  "readingTime": 2.15,
   "hasTruncateMarker": false,
   "authors": [
     {
       "name": "Eshan Roy",
       "title": "Lead Developer & Maintainer",
       "url": "https://eshan.snigdhaos.org",
-      "imageURL": "https://github.com/slorber.png",
+      "imageURL": "https://github.com/eshanized/eshanized/blob/main/eshanized_square.png?raw=true",
       "key": "eshanized"
     }
   ],
@@ -30,7 +30,7 @@
       "eshanized"
     ],
     "tags": [
-      "docusaurus"
+      "bug"
     ]
   },
   "unlisted": false,

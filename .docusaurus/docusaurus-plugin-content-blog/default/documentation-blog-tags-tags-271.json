@@ -1,8 +1,8 @@
 [
   {
-    "label": "docusaurus",
-    "permalink": "/documentation/blog/tags/docusaurus",
-    "count": 5
+    "label": "bug",
+    "permalink": "/documentation/blog/tags/bug",
+    "count": 1
   },
   {
     "label": "facebook",
@@ -13,6 +13,11 @@
     "label": "hello",
     "permalink": "/documentation/blog/tags/hello",
     "count": 2
+  },
+  {
+    "label": "docusaurus",
+    "permalink": "/documentation/blog/tags/docusaurus",
+    "count": 4
   },
   {
     "label": "hola",

@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Reporting Bugs
 
-:::danger Security Vulnerabilities
+:::danger Vulnerabilities
 
 If you discover a security vulnerability within Snigdha OS as well as any packages and tools, please follow our [security policy](https://github.com/Snigdha-OS/snigdhaos-arctic/security/policy) so we can address it promptly.
 
@@ -27,6 +27,6 @@ We track issues on GitHub. Make sure you open your issue in the [correct reposit
 
 If you can, check if the issue is reproducible with the latest version of Snigdha OS. If you are using a pre-release or development version, please indicate the specific version you are using.
 
-Remember: the goal of a bug report is to make it easy for us to replicate the bug and fix it. You might want to read [this article](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) for some useful tips on how to write an effective bug report. It is **required** that you clearly describe the steps necessary to reproduce the issue you are running into. Issues with no clear reproduction steps will not be triaged. If an issue labeled "needs verification" receives no further input from the issue author for more than 5 days, it will be closed.
+Remember: the goal of a bug report is to make it easy for us to replicate the bug and fix it. You might want to read [this article](/blog/effective_bug_report) for some useful tips on how to write an effective bug report. It is **required** that you clearly describe the steps necessary to reproduce the issue you are running into. Issues with no clear reproduction steps will not be triaged. If an issue labeled "needs verification" receives no further input from the issue author for more than 5 days, it will be closed.
 
-Once you've posted your report, we'd ask that you please *follow the discussion* and wait patiently. We may need to ask for further details or clarification; but we've always got plenty to do, and it could be a while before we can give your report the time it deserves.
+> Once you've posted your report, we'd ask that you please *follow the discussion* and wait patiently. We may need to ask for further details or clarification; but we've always got plenty to do, and it could be a while before we can give your report the time it deserves.

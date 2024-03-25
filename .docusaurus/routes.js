@@ -73,8 +73,13 @@ export default [
     exact: true
   },
   {
+    path: '/documentation/blog/tags/bug',
+    component: ComponentCreator('/documentation/blog/tags/bug', 'cf7'),
+    exact: true
+  },
+  {
     path: '/documentation/blog/tags/docusaurus',
-    component: ComponentCreator('/documentation/blog/tags/docusaurus', '0fa'),
+    component: ComponentCreator('/documentation/blog/tags/docusaurus', 'ad1'),
     exact: true
   },
   {

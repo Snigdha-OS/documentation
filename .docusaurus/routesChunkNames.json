@@ -114,7 +114,7 @@
     "sidebar": "sidebar---documentation-blog-814-bc6",
     "tags": "tags---documentation-blog-tags-673-362"
   },
-  "/documentation/blog/tags/docusaurus-0fa": {
+  "/documentation/blog/tags/bug-cf7": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---documentation-blog-490-fb4"
@@ -123,7 +123,18 @@
     "items": [
       {
         "content": "content---documentation-blogec-4-500"
-      },
+      }
+    ],
+    "tag": "tag---documentation-blog-tags-bug-790-80d",
+    "listMetadata": "listMetadata---documentation-blog-tags-bug-1-c-0-91c"
+  },
+  "/documentation/blog/tags/docusaurus-ad1": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---documentation-blog-490-fb4"
+    },
+    "sidebar": "sidebar---documentation-blog-814-bc6",
+    "items": [
       {
         "content": "content---documentation-blog-766-b7c"
       },
