@@ -1,4 +1,4 @@
-on: 
+on:
     push:
         branches: 
             - gh-pages
@@ -15,6 +15,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
         server: ftp.snigdhaos.org
-        username: ${{ secrets.ftp_password }}
+        username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
         server-dir: /docs.snigdhaos.org/
