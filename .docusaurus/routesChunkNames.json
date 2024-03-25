@@ -42,13 +42,16 @@
       "plugin": "plugin---documentation-docusaurus-debuge-3-a-69b"
     }
   },
-  "/documentation/blog-b25": {
+  "/documentation/blog-766": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---documentation-blog-490-fb4"
     },
     "sidebar": "sidebar---documentation-blog-814-bc6",
     "items": [
+      {
+        "content": "content---documentation-blogec-4-500"
+      },
       {
         "content": "content---documentation-blog-766-b7c"
       },
@@ -70,6 +73,14 @@
       "plugin": "plugin---documentation-blog-490-fb4"
     },
     "archive": "archive---documentation-blog-archiveeda-964"
+  },
+  "/documentation/blog/effective_bug_report-386": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---documentation-blog-490-fb4"
+    },
+    "sidebar": "sidebar---documentation-blog-814-bc6",
+    "content": "content---documentation-blog-effetive-bug-reportf-73-50a"
   },
   "/documentation/blog/first-blog-post-e78": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
@@ -103,13 +114,16 @@
     "sidebar": "sidebar---documentation-blog-814-bc6",
     "tags": "tags---documentation-blog-tags-673-362"
   },
-  "/documentation/blog/tags/docusaurus-ad1": {
+  "/documentation/blog/tags/docusaurus-0fa": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---documentation-blog-490-fb4"
     },
     "sidebar": "sidebar---documentation-blog-814-bc6",
     "items": [
+      {
+        "content": "content---documentation-blogec-4-500"
+      },
       {
         "content": "content---documentation-blog-766-b7c"
       },

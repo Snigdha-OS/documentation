@@ -52,6 +52,10 @@
     ]
   },
   "unlisted": false,
+  "prevItem": {
+    "title": "Write Effective Bug Report",
+    "permalink": "/documentation/blog/effective_bug_report"
+  },
   "nextItem": {
     "title": "MDX Blog Post",
     "permalink": "/documentation/blog/mdx-blog-post"

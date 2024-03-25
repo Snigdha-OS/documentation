@@ -276,14 +276,14 @@
         "items": [
           {
             "type": "link",
-            "label": "Write Documentation",
+            "label": "Writing",
             "href": "/documentation/dev_guide/write",
             "docId": "dev_guide/write",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Document Translation",
+            "label": "Translating",
             "href": "/documentation/dev_guide/docs_translate",
             "docId": "dev_guide/docs_translate",
             "unlisted": false
@@ -370,7 +370,7 @@
     },
     "dev_guide/docs_translate": {
       "id": "dev_guide/docs_translate",
-      "title": "Document Translation",
+      "title": "Translating",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
@@ -388,7 +388,7 @@
     },
     "dev_guide/write": {
       "id": "dev_guide/write",
-      "title": "Write Documentation",
+      "title": "Writing",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
@@ -437,7 +437,7 @@
     "introduction/code_of_conduct": {
       "id": "introduction/code_of_conduct",
       "title": "Code Of Conduct",
-      "description": "",
+      "description": "A code of conduct outlines expected behavior and guidelines for individuals within a specific community, organization, or group.",
       "sidebar": "tutorialSidebar"
     },
     "introduction/faqs": {
@@ -467,7 +467,7 @@
     "introduction/reporting_bugs": {
       "id": "introduction/reporting_bugs",
       "title": "Reporting Bugs",
-      "description": "",
+      "description": "If you discover a security vulnerability within Snigdha OS as well as any packages and tools, please follow our security policy so we can address it promptly.",
       "sidebar": "tutorialSidebar"
     },
     "packages/snigdhaos_blackbox": {

@@ -39,12 +39,17 @@ export default [
   },
   {
     path: '/documentation/blog',
-    component: ComponentCreator('/documentation/blog', 'b25'),
+    component: ComponentCreator('/documentation/blog', '766'),
     exact: true
   },
   {
     path: '/documentation/blog/archive',
     component: ComponentCreator('/documentation/blog/archive', 'ea7'),
+    exact: true
+  },
+  {
+    path: '/documentation/blog/effective_bug_report',
+    component: ComponentCreator('/documentation/blog/effective_bug_report', '386'),
     exact: true
   },
   {
@@ -69,7 +74,7 @@ export default [
   },
   {
     path: '/documentation/blog/tags/docusaurus',
-    component: ComponentCreator('/documentation/blog/tags/docusaurus', 'ad1'),
+    component: ComponentCreator('/documentation/blog/tags/docusaurus', '0fa'),
     exact: true
   },
   {

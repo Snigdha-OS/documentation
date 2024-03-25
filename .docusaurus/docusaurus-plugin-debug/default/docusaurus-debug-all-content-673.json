@@ -119,7 +119,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Document Translation",
+                "title": "Translating",
                 "permalink": "/documentation/dev_guide/docs_translate"
               },
               "next": {
@@ -156,7 +156,7 @@
             },
             {
               "id": "dev_guide/docs_translate",
-              "title": "Document Translation",
+              "title": "Translating",
               "description": "",
               "source": "@site/docs/dev_guide/docs_translate.md",
               "sourceDirName": "dev_guide",
@@ -173,7 +173,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Write Documentation",
+                "title": "Writing",
                 "permalink": "/documentation/dev_guide/write"
               },
               "next": {
@@ -237,7 +237,7 @@
             },
             {
               "id": "dev_guide/write",
-              "title": "Write Documentation",
+              "title": "Writing",
               "description": "",
               "source": "@site/docs/dev_guide/write.md",
               "sourceDirName": "dev_guide",
@@ -258,7 +258,7 @@
                 "permalink": "/documentation/category/developers-guide"
               },
               "next": {
-                "title": "Document Translation",
+                "title": "Translating",
                 "permalink": "/documentation/dev_guide/docs_translate"
               }
             },
@@ -454,7 +454,7 @@
             {
               "id": "introduction/code_of_conduct",
               "title": "Code Of Conduct",
-              "description": "",
+              "description": "A code of conduct outlines expected behavior and guidelines for individuals within a specific community, organization, or group.",
               "source": "@site/docs/introduction/code_of_conduct.md",
               "sourceDirName": "introduction",
               "slug": "/introduction/code_of_conduct",
@@ -590,7 +590,7 @@
             {
               "id": "introduction/reporting_bugs",
               "title": "Reporting Bugs",
-              "description": "",
+              "description": "If you discover a security vulnerability within Snigdha OS as well as any packages and tools, please follow our security policy so we can address it promptly.",
               "source": "@site/docs/introduction/reporting_bugs.md",
               "sourceDirName": "introduction",
               "slug": "/introduction/reporting_bugs",
@@ -1242,6 +1242,51 @@
       "blogSidebarTitle": "Recent posts",
       "blogPosts": [
         {
+          "id": "/effective_bug_report",
+          "metadata": {
+            "permalink": "/documentation/blog/effective_bug_report",
+            "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/blog/effetive_bug_report.md",
+            "source": "@site/blog/effetive_bug_report.md",
+            "title": "Write Effective Bug Report",
+            "description": "",
+            "date": "2024-03-25T02:16:56.380Z",
+            "formattedDate": "March 25, 2024",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/documentation/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Eshan Roy",
+                "title": "Lead Developer & Maintainer",
+                "url": "https://eshan.snigdhaos.org",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "eshanized"
+              }
+            ],
+            "frontMatter": {
+              "slug": "/effective_bug_report",
+              "title": "Write Effective Bug Report",
+              "authors": [
+                "eshanized"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
+            "unlisted": false,
+            "nextItem": {
+              "title": "Welcome",
+              "permalink": "/documentation/blog/welcome"
+            }
+          },
+          "content": ""
+        },
+        {
           "id": "welcome",
           "metadata": {
             "permalink": "/documentation/blog/welcome",
@@ -1297,6 +1342,10 @@
               ]
             },
             "unlisted": false,
+            "prevItem": {
+              "title": "Write Effective Bug Report",
+              "permalink": "/documentation/blog/effective_bug_report"
+            },
             "nextItem": {
               "title": "MDX Blog Post",
               "permalink": "/documentation/blog/mdx-blog-post"
@@ -1463,6 +1512,7 @@
       "blogListPaginated": [
         {
           "items": [
+            "/effective_bug_report",
             "welcome",
             "mdx-blog-post",
             "long-blog-post",
@@ -1473,13 +1523,45 @@
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
-            "totalCount": 4,
+            "totalCount": 5,
             "blogDescription": "Blog",
             "blogTitle": "Blog"
           }
         }
       ],
       "blogTags": {
+        "/documentation/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "/effective_bug_report",
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/documentation/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "/effective_bug_report",
+                "welcome",
+                "mdx-blog-post",
+                "long-blog-post",
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/documentation/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 5,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
         "/documentation/blog/tags/facebook": {
           "label": "facebook",
           "items": [
@@ -1523,36 +1605,6 @@
                 "postsPerPage": 10,
                 "totalPages": 1,
                 "totalCount": 2,
-                "blogDescription": "Blog",
-                "blogTitle": "Blog"
-              }
-            }
-          ],
-          "unlisted": false
-        },
-        "/documentation/blog/tags/docusaurus": {
-          "label": "docusaurus",
-          "items": [
-            "welcome",
-            "mdx-blog-post",
-            "long-blog-post",
-            "first-blog-post"
-          ],
-          "permalink": "/documentation/blog/tags/docusaurus",
-          "pages": [
-            {
-              "items": [
-                "welcome",
-                "mdx-blog-post",
-                "long-blog-post",
-                "first-blog-post"
-              ],
-              "metadata": {
-                "permalink": "/documentation/blog/tags/docusaurus",
-                "page": 1,
-                "postsPerPage": 10,
-                "totalPages": 1,
-                "totalCount": 4,
                 "blogDescription": "Blog",
                 "blogTitle": "Blog"
               }

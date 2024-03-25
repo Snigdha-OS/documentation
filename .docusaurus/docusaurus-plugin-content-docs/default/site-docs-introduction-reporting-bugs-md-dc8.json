@@ -1,7 +1,7 @@
 {
   "id": "introduction/reporting_bugs",
   "title": "Reporting Bugs",
-  "description": "",
+  "description": "If you discover a security vulnerability within Snigdha OS as well as any packages and tools, please follow our security policy so we can address it promptly.",
   "source": "@site/docs/introduction/reporting_bugs.md",
   "sourceDirName": "introduction",
   "slug": "/introduction/reporting_bugs",

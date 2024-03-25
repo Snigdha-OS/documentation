@@ -1,6 +1,6 @@
 {
   "id": "dev_guide/write",
-  "title": "Write Documentation",
+  "title": "Writing",
   "description": "",
   "source": "@site/docs/dev_guide/write.md",
   "sourceDirName": "dev_guide",
@@ -21,7 +21,7 @@
     "permalink": "/documentation/category/developers-guide"
   },
   "next": {
-    "title": "Document Translation",
+    "title": "Translating",
     "permalink": "/documentation/dev_guide/docs_translate"
   }
 }

@@ -37,7 +37,7 @@ Contributions are always welcome. [Help us to write](/dev_guide/write) better do
 
 **📌 Innovation and Experimentation**: We often do some experiments with our new tools, techniques, and methodologies in the field of cybersecurity. Being a part of Snigdha OS, you can help other developers to push the boundaries of existing practices and contribute to advancements in the field.
 
-### What you'll need
+## 👉 Purposes
 
 - [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.

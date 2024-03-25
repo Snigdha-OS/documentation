@@ -1,6 +1,6 @@
 {
   "id": "dev_guide/docs_translate",
-  "title": "Document Translation",
+  "title": "Translating",
   "description": "",
   "source": "@site/docs/dev_guide/docs_translate.md",
   "sourceDirName": "dev_guide",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Write Documentation",
+    "title": "Writing",
     "permalink": "/documentation/dev_guide/write"
   },
   "next": {
