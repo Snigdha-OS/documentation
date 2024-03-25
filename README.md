@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/Snigdha-OS/documentation/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/Snigdha-OS/documentation/actions/workflows/pages/pages-build-deployment)
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
