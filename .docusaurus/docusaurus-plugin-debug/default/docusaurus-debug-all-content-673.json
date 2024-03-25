@@ -157,7 +157,7 @@
             {
               "id": "dev_guide/docs_translate",
               "title": "Translating",
-              "description": "",
+              "description": "We want Snigdha OS docs and support to be accessible to everyone, regardless of language! By contributing translations, you make it possible for many more people to enjoy our docs and support. Best of all, we use user-friendly GUIs for translations, so no technical skills are necessary to help!",
               "source": "@site/docs/dev_guide/docs_translate.md",
               "sourceDirName": "dev_guide",
               "slug": "/dev_guide/docs_translate",
@@ -238,7 +238,7 @@
             {
               "id": "dev_guide/write",
               "title": "Writing",
-              "description": "",
+              "description": "Adding documentation can help countless future of Snigdha OS users. A few ideas of what to work on:",
               "source": "@site/docs/dev_guide/write.md",
               "sourceDirName": "dev_guide",
               "slug": "/dev_guide/write",
@@ -968,8 +968,8 @@
               {
                 "type": "category",
                 "label": "Introduction",
-                "collapsible": true,
-                "collapsed": true,
+                "collapsible": false,
+                "collapsed": false,
                 "items": [
                   {
                     "type": "doc",
@@ -1006,8 +1006,8 @@
               {
                 "type": "category",
                 "label": "Before Installation",
-                "collapsible": true,
-                "collapsed": true,
+                "collapsible": false,
+                "collapsed": false,
                 "items": [
                   {
                     "type": "doc",
@@ -1032,8 +1032,8 @@
               {
                 "type": "category",
                 "label": "Installation",
-                "collapsible": true,
-                "collapsed": true,
+                "collapsible": false,
+                "collapsed": false,
                 "items": [
                   {
                     "type": "doc",
@@ -1074,8 +1074,8 @@
               {
                 "type": "category",
                 "label": "Post Installation",
-                "collapsible": true,
-                "collapsed": true,
+                "collapsible": false,
+                "collapsed": false,
                 "items": [
                   {
                     "type": "doc",
@@ -1104,8 +1104,8 @@
               {
                 "type": "category",
                 "label": "User Guide",
-                "collapsible": true,
-                "collapsed": true,
+                "collapsible": false,
+                "collapsed": false,
                 "items": [
                   {
                     "type": "doc",
@@ -1126,8 +1126,8 @@
               {
                 "type": "category",
                 "label": "Troubleshoot",
-                "collapsible": true,
-                "collapsed": true,
+                "collapsible": false,
+                "collapsed": false,
                 "items": [
                   {
                     "type": "doc",
@@ -1156,8 +1156,8 @@
               {
                 "type": "category",
                 "label": "Packages",
-                "collapsible": true,
-                "collapsed": true,
+                "collapsible": false,
+                "collapsed": false,
                 "items": [
                   {
                     "type": "doc",
@@ -1178,8 +1178,8 @@
               {
                 "type": "category",
                 "label": "Developers Guide",
-                "collapsible": true,
-                "collapsed": true,
+                "collapsible": false,
+                "collapsed": false,
                 "items": [
                   {
                     "type": "doc",
@@ -1216,8 +1216,8 @@
               {
                 "type": "category",
                 "label": "Tools",
-                "collapsible": true,
-                "collapsed": true,
+                "collapsible": false,
+                "collapsed": false,
                 "items": [
                   {
                     "type": "doc",

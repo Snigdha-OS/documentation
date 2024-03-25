@@ -39,36 +39,44 @@ Contributions are always welcome. [Help us to write](/dev_guide/write) better do
 
 ## 👉 Purposes
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+As Snigdha OS is an open source Operating System, we serve the same purposes of open source operating systems like others. The purposes of an open-source operating system typically revolve around principles of transparency, collaboration, accessibility, and innovation. Some of the common purposes:
 
-## Generate a new site
+**📌 Transparency**: Open-source operating systems aim to be transparent in their development processes, making their source code freely available for inspection by anyone. This transparency fosters trust among users and developers and allows for scrutiny of the software's security and functionality.
 
-Generate a new Docusaurus site using the **classic template**.
+**📌 Community Collaboration**: Open-source operating systems encourage collaboration among a diverse community of developers, contributors, and users. This collaborative approach often leads to more robust software through peer review, bug fixes, and feature enhancements contributed by a global community.
 
-The classic template will automatically be added to your project after you run the command:
+**📌 Accessibility**: By making the source code freely available, open-source operating systems strive to be accessible to anyone who wishes to use, modify, or redistribute the software. This accessibility fosters inclusivity and empowers users to customize the operating system to suit their specific needs.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+**📌 Innovation**: Open-source operating systems promote innovation by providing a platform for experimentation and exploration. Developers are encouraged to build upon existing code, leading to the creation of new features, applications, and solutions that benefit the entire community.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+**📌 Freedom**: Open-source operating systems prioritize user freedom, allowing individuals to control their computing experience without being tied to proprietary software or vendor lock-in. Users have the freedom to modify the software to meet their requirements and share those modifications with others.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+**📌 Security**: While not always a primary goal, many open-source operating systems emphasize security by leveraging the collective expertise of the community to identify and address vulnerabilities promptly. The transparent nature of open-source development enables rapid responses to security threats and encourages best practices in security engineering.
 
-## Start your site
+**📌 Stability and Reliability**: Open-source operating systems often strive for stability and reliability, aiming to provide a dependable platform for a wide range of computing tasks. Through rigorous testing and community feedback, developers work to ensure that the software meets high standards of performance and dependability.
 
-Run the development server:
+**📌 Education and Learning**: Open-source operating systems serve as valuable educational tools, allowing students and enthusiasts to study, experiment, and learn about computer systems, programming, and software development. The open nature of the software enables hands-on exploration and learning opportunities for individuals at all skill levels.
 
-```bash
-cd my-website
-npm run start
-```
+> Overall, the purposes of an open-source operating system revolve around fostering a collaborative, inclusive, and innovative ecosystem that empowers users and developers while promoting transparency, freedom, and accessibility in computing.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+## 👉 Helping
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+Snigdha OS is [free, open source](https://github.com/Snigdha-OS) Operating System, maintained and governed by volunteers. We rely on community contributions to help us improve and expand Snigdha OS.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+📌 If you're a developer, consider [contributing to Snigdha OS or Any Package](/category/developers-guide). This is **the** most efficient way to help Snigdha OS, and your work can have a lot of impact.
 
-Powered by:
+📌 If there's a feature you're missing, or a theme idea you have, [writing a custom package](/dev_guide/pkgbuild) will make Snigdha OS that much better for you and others.
+
+📌 If you're experienced in technical writing, your contributions to [our documentation](https://github.com/Snigdha-OS/documentation/issues) could help future users, admins, and developers make the most of Snigdha OS.
+
+📌 If you speak multiple languages, you could [contribute translations](/dev_guide/docs_translate) to could help make Snigdha OS accessible to countless users around the world.
+
+📌 The developers doesn't make money off of Snigdha OS, but does have bills to pay. Donations via [GitHub Sponsors](https://github.com/sponsors/Snigdha-OS) or [OpenCollective](https://opencollective.com/snigdha-os) are always gratefully received. In the past, we've also been able to support some of our core developers financially, so they could work on Snigdha OS part time. This wouldn't be possible without your financial support.
+
+📌 Join [our community](https://forum.snigdhais.org) to talk about Snigdha OS development, get help with your instance, or just meet cool people! If you're experienced with Snigdha OS, you can also help out beginners!
+
+📌 If there's a bug that's bothering you, or a feature idea on your mind, we can't know about it unless you tell us! We track bugs, suggestions, and future development plans [via GitHub issues](https://github.com/snigdha-os/snigdhaos-arctic/issues). If there's already an issue open, adding likes and (constructive) additional information can be very helpful! 
+
+📌 And if you like Snigdha OS, please consider blogging/tweeting/talking about it! More people aware of Snigdha OS leads to more people engaging with Snigdha OS, and therefore more activity, better extensions, and faster development.
+
+> Snigdha OS wouldn't be possible without our phenomenal community. If you're interested in contributing, see our [developer contribution](/category/developers-guide) docs for more information.

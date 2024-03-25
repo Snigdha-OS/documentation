@@ -28,6 +28,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
+          "sidebarCollapsible": false,
           "routeBasePath": "/",
           "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/"
         },
@@ -50,6 +51,10 @@ export default {
         "src": "img/sdocs.svg"
       },
       "items": [
+        {
+          "type": "search",
+          "position": "right"
+        },
         {
           "href": "https://github.com/facebook/docusaurus",
           "label": "Home",

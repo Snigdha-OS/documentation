@@ -1,7 +1,7 @@
 {
   "id": "dev_guide/write",
   "title": "Writing",
-  "description": "",
+  "description": "Adding documentation can help countless future of Snigdha OS users. A few ideas of what to work on:",
   "source": "@site/docs/dev_guide/write.md",
   "sourceDirName": "dev_guide",
   "slug": "/dev_guide/write",
