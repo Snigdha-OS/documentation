@@ -73,7 +73,7 @@ Snigdha OS is [free, open source](https://github.com/Snigdha-OS) Operating Syste
 
 📌 The developers doesn't make money off of Snigdha OS, but does have bills to pay. Donations via [GitHub Sponsors](https://github.com/sponsors/Snigdha-OS) or [OpenCollective](https://opencollective.com/snigdha-os) are always gratefully received. In the past, we've also been able to support some of our core developers financially, so they could work on Snigdha OS part time. This wouldn't be possible without your financial support.
 
-📌 Join [our community](https://forum.snigdhais.org) to talk about Snigdha OS development, get help with your instance, or just meet cool people! If you're experienced with Snigdha OS, you can also help out beginners!
+📌 Join [our community](https://forum.snigdhaos.org) to talk about Snigdha OS development, get help with your instance, or just meet cool people! If you're experienced with Snigdha OS, you can also help out beginners!
 
 📌 If there's a bug that's bothering you, or a feature idea on your mind, we can't know about it unless you tell us! We track bugs, suggestions, and future development plans [via GitHub issues](https://github.com/snigdha-os/snigdhaos-arctic/issues). If there's already an issue open, adding likes and (constructive) additional information can be very helpful! 
 

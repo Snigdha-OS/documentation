@@ -1,0 +1,16 @@
+{
+  "title": "Packages",
+  "description": "Troubleshoot",
+  "slug": "/category/packages",
+  "permalink": "/category/packages",
+  "navigation": {
+    "previous": {
+      "title": "Troubleshoot: Display",
+      "permalink": "/troubleshoot/display"
+    },
+    "next": {
+      "title": "Welcome",
+      "permalink": "/packages/snigdhaos_welcome"
+    }
+  }
+}
