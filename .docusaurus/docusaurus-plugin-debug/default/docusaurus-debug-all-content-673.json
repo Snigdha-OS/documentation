@@ -22,7 +22,7 @@
             {
               "id": "before_installation/imporatnt_notes",
               "title": "Important Notes",
-              "description": "",
+              "description": "📌 We do not recommended you to install Snigdha OS via VM ('Virtual Machine' = virtual machine), as it is optimized for use on real hardware or physical machine.",
               "source": "@site/docs/before_installation/imporatnt_notes.md",
               "sourceDirName": "before_installation",
               "slug": "/before_installation/imporatnt_notes",
@@ -76,7 +76,7 @@
             {
               "id": "before_installation/system_requirements",
               "title": "System Requirements",
-              "description": "",
+              "description": "Minimum Requirements",
               "source": "@site/docs/before_installation/system_requirements.md",
               "sourceDirName": "before_installation",
               "slug": "/before_installation/system_requirements",
