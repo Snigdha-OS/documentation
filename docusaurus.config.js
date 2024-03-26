@@ -69,10 +69,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '',
+        title: 'SNIGDHA OS - Documentation',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/sdocs.svg',
+          alt: 'Snigdha OS Docs Logo',
+          src: 'img/Doc.svg',
         },
         items: [
           // {
