@@ -1332,6 +1332,18 @@
     "default": [
       {
         "type": "mdx",
+        "permalink": "/documentation/cookie-consent",
+        "source": "@site/src/pages/cookie-consent.md",
+        "title": "Cookie Consent Policy",
+        "description": "This Cookie Consent Policy explains how Snigdha OS uses cookies on Snigdha OS Forum. By using our Forum, you consent to the use of cookies as described in this policy.",
+        "frontMatter": {
+          "slug": "/cookie-consent",
+          "title": "Cookie Consent Policy"
+        },
+        "unlisted": false
+      },
+      {
+        "type": "mdx",
         "permalink": "/documentation/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",

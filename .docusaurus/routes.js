@@ -63,6 +63,11 @@ export default [
     exact: true
   },
   {
+    path: '/documentation/cookie-consent',
+    component: ComponentCreator('/documentation/cookie-consent', '24a'),
+    exact: true
+  },
+  {
     path: '/documentation/markdown-page',
     component: ComponentCreator('/documentation/markdown-page', '89b'),
     exact: true

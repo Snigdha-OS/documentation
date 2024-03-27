@@ -92,10 +92,17 @@
     "tag": "tag---documentation-blog-tags-bug-790-80d",
     "listMetadata": "listMetadata---documentation-blog-tags-bug-1-c-0-91c"
   },
+  "/documentation/cookie-consent-24a": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---documentation-cookie-consentc-52-818"
+    },
+    "content": "content---documentation-cookie-consent-21-a-25e"
+  },
   "/documentation/markdown-page-89b": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---documentation-markdown-pagec-52-df3"
+      "plugin": "plugin---documentation-cookie-consentc-52-818"
     },
     "content": "content---documentation-markdown-page-393-bce"
   },
