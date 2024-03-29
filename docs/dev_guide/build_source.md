@@ -151,7 +151,7 @@ Siglevel = Never
 Server = https://snosmirror.github.io/$repo/$arch
 ```
 :::info SigLevel
-If you have `SnigdhaOS-keyring` installed on the machine or you want to [install](/install_keyring) then you can set the **SigLevel = Required DatabaseOptional**.
+If you have `SnigdhaOS-keyring` installed on the machine or you want to [install](/dev_guide/install_keyring) then you can set the **SigLevel = Required DatabaseOptional**.
 :::
 
 You are ready to build Snigdha OS!

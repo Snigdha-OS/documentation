@@ -69,7 +69,7 @@ Snigdha OS is [free, open source](https://github.com/Snigdha-OS) Operating Syste
 
 📌 If you're experienced in technical writing, your contributions to [our documentation](https://github.com/Snigdha-OS/documentation/issues) could help future users, admins, and developers make the most of Snigdha OS.
 
-📌 If you speak multiple languages, you could [contribute translations](/dev_guide/docs_translate) to could help make Snigdha OS accessible to countless users around the world.
+📌 If you speak multiple languages, you could contribute translations to could help make Snigdha OS accessible to countless users around the world.
 
 📌 The developers doesn't make money off of Snigdha OS, but does have bills to pay. Donations via [GitHub Sponsors](https://github.com/sponsors/Snigdha-OS) or [OpenCollective](https://opencollective.com/snigdha-os) are always gratefully received. In the past, we've also been able to support some of our core developers financially, so they could work on Snigdha OS part time. This wouldn't be possible without your financial support.
 
