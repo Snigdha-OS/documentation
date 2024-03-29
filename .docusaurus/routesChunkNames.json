@@ -2,55 +2,55 @@
   "/documentation/__docusaurus/debug-043": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---documentation-docusaurus-debuge-3-a-69b"
+      "plugin": "plugin---docusaurus-debuge-3-a-af9"
     }
   },
   "/documentation/__docusaurus/debug/config-d32": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---documentation-docusaurus-debuge-3-a-69b"
+      "plugin": "plugin---docusaurus-debuge-3-a-af9"
     }
   },
   "/documentation/__docusaurus/debug/content-f83": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---documentation-docusaurus-debuge-3-a-69b"
+      "plugin": "plugin---docusaurus-debuge-3-a-af9"
     },
-    "allContent": "allContent---documentation-docusaurus-debug-content-246-1fc"
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
   "/documentation/__docusaurus/debug/globalData-599": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---documentation-docusaurus-debuge-3-a-69b"
+      "plugin": "plugin---docusaurus-debuge-3-a-af9"
     }
   },
   "/documentation/__docusaurus/debug/metadata-b41": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---documentation-docusaurus-debuge-3-a-69b"
+      "plugin": "plugin---docusaurus-debuge-3-a-af9"
     }
   },
   "/documentation/__docusaurus/debug/registry-12e": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---documentation-docusaurus-debuge-3-a-69b"
+      "plugin": "plugin---docusaurus-debuge-3-a-af9"
     }
   },
   "/documentation/__docusaurus/debug/routes-073": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---documentation-docusaurus-debuge-3-a-69b"
+      "plugin": "plugin---docusaurus-debuge-3-a-af9"
     }
   },
   "/documentation/blog-5bc": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---documentation-blog-490-fb4"
+      "plugin": "plugin---blog-490-723"
     },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---documentation-blogec-4-500"
+        "content": "content---blogec-4-62b"
       }
     ],
     "metadata": "metadata---documentation-blog-14-e-a5c"
@@ -58,35 +58,35 @@
   "/documentation/blog/archive-ea7": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---documentation-blog-490-fb4"
+      "plugin": "plugin---blog-490-723"
     },
     "archive": "archive---documentation-blog-archiveeda-964"
   },
   "/documentation/blog/effective_bug_report-386": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---documentation-blog-490-fb4"
+      "plugin": "plugin---blog-490-723"
     },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
-    "content": "content---documentation-blog-effective-bug-reportf-73-529"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-effective-bug-reportf-73-d31"
   },
   "/documentation/blog/tags-e85": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---documentation-blog-490-fb4"
+      "plugin": "plugin---blog-490-723"
     },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
+    "sidebar": "sidebar---blog-814-8ac",
     "tags": "tags---documentation-blog-tags-673-362"
   },
   "/documentation/blog/tags/bug-cf7": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---documentation-blog-490-fb4"
+      "plugin": "plugin---blog-490-723"
     },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---documentation-blogec-4-500"
+        "content": "content---blogec-4-62b"
       }
     ],
     "tag": "tag---documentation-blog-tags-bug-790-80d",
@@ -95,48 +95,48 @@
   "/documentation/cookie-consent-24a": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---documentation-cookie-consentc-52-818"
+      "plugin": "plugin---cookie-consentc-52-ee8"
     },
-    "content": "content---documentation-cookie-consent-21-a-25e"
+    "content": "content---cookie-consent-21-a-971"
   },
   "/documentation/markdown-page-89b": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---documentation-cookie-consentc-52-818"
+      "plugin": "plugin---cookie-consentc-52-ee8"
     },
-    "content": "content---documentation-markdown-page-393-bce"
+    "content": "content---markdown-page-393-028"
   },
   "/documentation/privacy_policy-4b3": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---documentation-cookie-consentc-52-818"
+      "plugin": "plugin---cookie-consentc-52-ee8"
     },
-    "content": "content---documentation-privacy-policyfbb-0dc"
+    "content": "content---privacy-policyfbb-286"
   },
   "/documentation/-615": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---documentation-99-b-b0a"
+      "plugin": "plugin---99-b-f14"
     }
   },
   "/documentation/-a9f": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "version": "version---documentation-935-548"
+    "version": "version---935-fcf"
   },
   "/documentation/-951": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/documentation/before_installation/imporatnt_notes-89a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-before-installation-imporatnt-notesb-9-c-8d1"
+    "content": "content---before-installation-imporatnt-notesb-9-c-ed0"
   },
   "/documentation/before_installation/internet_connection-fae": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-before-installation-internet-connection-374-962"
+    "content": "content---before-installation-internet-connection-374-af8"
   },
   "/documentation/before_installation/system_requirements-65d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-before-installation-system-requirements-143-bf9"
+    "content": "content---before-installation-system-requirements-143-f23"
   },
   "/documentation/category/before-installation-3ba": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -176,130 +176,130 @@
   },
   "/documentation/dev_guide/build_source-81a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-dev-guide-build-source-9-dc-909"
+    "content": "content---dev-guide-build-source-9-dc-c00"
   },
   "/documentation/dev_guide/deploy_packages-61f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-dev-guide-deploy-packages-043-bee"
+    "content": "content---dev-guide-deploy-packages-043-219"
   },
   "/documentation/dev_guide/gpg_key-d30": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-dev-guide-gpg-key-89-e-a96"
+    "content": "content---dev-guide-gpg-key-89-e-55c"
   },
   "/documentation/dev_guide/install_keyring-6ef": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-dev-guide-install-keyring-404-6d6"
+    "content": "content---dev-guide-install-keyring-404-2b0"
   },
   "/documentation/dev_guide/pkgbuild-393": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-dev-guide-pkgbuild-66-e-684"
+    "content": "content---dev-guide-pkgbuild-66-e-693"
   },
   "/documentation/dev_guide/write-856": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-dev-guide-writeec-3-564"
+    "content": "content---dev-guide-writeec-3-64f"
   },
   "/documentation/installation/download_snigdha_os-369": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-installation-download-snigdha-os-34-e-4c4"
+    "content": "content---installation-download-snigdha-os-34-e-c64"
   },
   "/documentation/installation/live_env-d25": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-installation-live-env-795-073"
+    "content": "content---installation-live-env-795-60b"
   },
   "/documentation/installation/making_bootable_usb-298": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-installation-making-bootable-usbb-85-7c0"
+    "content": "content---installation-making-bootable-usbb-85-5d5"
   },
   "/documentation/installation/offline_install-274": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-installation-offline-install-3-f-3-886"
+    "content": "content---installation-offline-install-3-f-3-093"
   },
   "/documentation/installation/online_install-c8a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-installation-online-install-151-611"
+    "content": "content---installation-online-install-151-cde"
   },
   "/documentation/installation/start_installation-0d4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-installation-start-installation-1-f-9-afb"
+    "content": "content---installation-start-installation-1-f-9-1a5"
   },
   "/documentation/installation/virtualbox_installation-f71": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-installation-virtualbox-installation-24-e-096"
+    "content": "content---installation-virtualbox-installation-24-e-f3b"
   },
   "/documentation/introduction/code_of_conduct-1f7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-introduction-code-of-conducte-89-ce5"
+    "content": "content---introduction-code-of-conducte-89-f3e"
   },
   "/documentation/introduction/faqs-7af": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-introduction-faqsb-19-00b"
+    "content": "content---introduction-faqsb-19-34a"
   },
   "/documentation/introduction/inspiration-67a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-introduction-inspirationd-79-e9a"
+    "content": "content---introduction-inspirationd-79-a54"
   },
   "/documentation/introduction/release_notes-590": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-introduction-release-notes-1-b-1-d2e"
+    "content": "content---introduction-release-notes-1-b-1-154"
   },
   "/documentation/introduction/reporting_bugs-974": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-introduction-reporting-bugsdc-8-ae1"
+    "content": "content---introduction-reporting-bugsdc-8-a8c"
   },
   "/documentation/packages/snigdhaos_blackbox-3e9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-packages-snigdhaos-blackboxbbd-050"
+    "content": "content---packages-snigdhaos-blackboxbbd-064"
   },
   "/documentation/packages/snigdhaos_welcome-e46": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-packages-snigdhaos-welcome-400-dfa"
+    "content": "content---packages-snigdhaos-welcome-400-753"
   },
   "/documentation/post_installation/customization-35c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-post-installation-customization-9-cb-3c6"
+    "content": "content---post-installation-customization-9-cb-9ad"
   },
   "/documentation/post_installation/install_packages-557": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-post-installation-install-packages-904-e99"
+    "content": "content---post-installation-install-packages-904-862"
   },
   "/documentation/post_installation/language-861": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-post-installation-languagead-7-478"
+    "content": "content---post-installation-languagead-7-489"
   },
   "/documentation/post_installation/update-bd0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-post-installation-updateffa-74d"
+    "content": "content---post-installation-updateffa-4ce"
   },
   "/documentation/tools/dns-2cf": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-tools-dnsce-8-3f9"
+    "content": "content---tools-dnsce-8-8df"
   },
   "/documentation/troubleshoot/bluetooth-269": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-troubleshoot-bluetooth-0-b-7-15c"
+    "content": "content---troubleshoot-bluetooth-0-b-7-ac7"
   },
   "/documentation/troubleshoot/display-9c2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-troubleshoot-displaye-2-e-7de"
+    "content": "content---troubleshoot-displaye-2-e-9c7"
   },
   "/documentation/troubleshoot/sound-004": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-troubleshoot-sound-9-dc-cb6"
+    "content": "content---troubleshoot-sound-9-dc-812"
   },
   "/documentation/troubleshoot/wifi-8fc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-troubleshoot-wifi-367-035"
+    "content": "content---troubleshoot-wifi-367-c6d"
   },
   "/documentation/user_guide/aur-9b0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-user-guide-aurd-68-18b"
+    "content": "content---user-guide-aurd-68-232"
   },
   "/documentation/user_guide/cheetsheet-1e9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-user-guide-cheetsheetf-7-a-048"
+    "content": "content---user-guide-cheetsheetf-7-a-1a0"
   },
   "/documentation/-622": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-c-62-f16"
+    "content": "content---c-62-ead"
   }
 }

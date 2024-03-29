@@ -9,8 +9,8 @@
       "permalink": "/packages/snigdhaos_blackbox"
     },
     "next": {
-      "title": "Writing Documentation",
-      "permalink": "/dev_guide/write"
+      "title": "Build Snigdha OS",
+      "permalink": "/dev_guide/build_source"
     }
   }
 }

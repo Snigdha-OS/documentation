@@ -5,8 +5,8 @@
   "permalink": "/category/tools",
   "navigation": {
     "previous": {
-      "title": "Install Keyrings",
-      "permalink": "/dev_guide/install_keyring"
+      "title": "Writing Documentation",
+      "permalink": "/dev_guide/write"
     },
     "next": {
       "title": "Tool: DNS Enum",
