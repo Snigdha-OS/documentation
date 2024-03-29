@@ -79,15 +79,15 @@ export default [
   },
   {
     path: '/documentation/',
-    component: ComponentCreator('/documentation/', '515'),
+    component: ComponentCreator('/documentation/', '615'),
     routes: [
       {
         path: '/documentation/',
-        component: ComponentCreator('/documentation/', 'f75'),
+        component: ComponentCreator('/documentation/', 'a9f'),
         routes: [
           {
             path: '/documentation/',
-            component: ComponentCreator('/documentation/', 'cb8'),
+            component: ComponentCreator('/documentation/', '951'),
             routes: [
               {
                 path: '/documentation/before_installation/imporatnt_notes',
@@ -176,6 +176,12 @@ export default [
               {
                 path: '/documentation/dev_guide/gpg_key',
                 component: ComponentCreator('/documentation/dev_guide/gpg_key', 'd30'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/dev_guide/install_keyring',
+                component: ComponentCreator('/documentation/dev_guide/install_keyring', '6ef'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

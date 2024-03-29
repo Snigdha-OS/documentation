@@ -139,3 +139,41 @@ Include = /etc/pacman.d/mirrorlist
 ```
 :::
 
+After executing, paste the following at the end of the file
+```bash
+
+[snigdhaos-core]
+SigLevel = Never
+Server = https://snosmirror.github.io/$repo/$arch
+
+[snigdhaos-extra]
+Siglevel = Never
+Server = https://snosmirror.github.io/$repo/$arch
+```
+:::info SigLevel
+If you have `SnigdhaOS-keyring` installed on the machine or you want to [install](/install_keyring) then you can set the **SigLevel = Required DatabaseOptional**.
+:::
+
+You are ready to build Snigdha OS!
+
+## Cloning Source from GitHub
+Now, clone the `snigdhaos-arctic` github repository. In addition, you can make a separate directory to do that. Go to your specified/choosen directory, execute the following on terminal.
+```bash
+git clone https://github.com/Snigdha-OS/snigdhaos-arctic.git
+```
+then,
+```bash
+cd snigdhaos-arctic/scripts
+```
+:::info SET EXECUTABLE
+```bash
+chmod +x ./01-online-build
+```
+:::
+Now run the script by executing,
+```bash
+./01-online-build
+```
+The script will start building **Snigdha OS Arctic**. You can have a coffee break while building. The building depends on **Internet Connection** and machine's **Performance**.
+
+After completing, you will find a directory with name **Output** containing the iso file.

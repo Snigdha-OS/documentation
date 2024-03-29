@@ -41,6 +41,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "dev_guide/install_keyring",
+              "path": "/documentation/dev_guide/install_keyring",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "dev_guide/pkgbuild",
               "path": "/documentation/dev_guide/pkgbuild",
               "sidebar": "tutorialSidebar"

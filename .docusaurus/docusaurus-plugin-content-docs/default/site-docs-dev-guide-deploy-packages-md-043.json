@@ -21,7 +21,7 @@
     "permalink": "/documentation/dev_guide/gpg_key"
   },
   "next": {
-    "title": "Tools",
-    "permalink": "/documentation/category/tools"
+    "title": "Install Keyrings",
+    "permalink": "/documentation/dev_guide/install_keyring"
   }
 }

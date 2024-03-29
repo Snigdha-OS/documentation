@@ -308,6 +308,13 @@
             "href": "/documentation/dev_guide/deploy_packages",
             "docId": "dev_guide/deploy_packages",
             "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Install Keyrings",
+            "href": "/documentation/dev_guide/install_keyring",
+            "docId": "dev_guide/install_keyring",
+            "unlisted": false
           }
         ],
         "href": "/documentation/category/developers-guide"
@@ -364,6 +371,12 @@
     "dev_guide/gpg_key": {
       "id": "dev_guide/gpg_key",
       "title": "Generate GPG Key",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "dev_guide/install_keyring": {
+      "id": "dev_guide/install_keyring",
+      "title": "Install Keyrings",
       "description": "",
       "sidebar": "tutorialSidebar"
     },

@@ -113,17 +113,17 @@
     },
     "content": "content---documentation-privacy-policyfbb-0dc"
   },
-  "/documentation/-515": {
+  "/documentation/-615": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---documentation-99-b-b0a"
     }
   },
-  "/documentation/-f75": {
+  "/documentation/-a9f": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---documentation-935-548"
   },
-  "/documentation/-cb8": {
+  "/documentation/-951": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/documentation/before_installation/imporatnt_notes-89a": {
@@ -185,6 +185,10 @@
   "/documentation/dev_guide/gpg_key-d30": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-dev-guide-gpg-key-89-e-a96"
+  },
+  "/documentation/dev_guide/install_keyring-6ef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-dev-guide-install-keyring-404-6d6"
   },
   "/documentation/dev_guide/pkgbuild-393": {
     "__comp": "__comp---theme-doc-item-178-a40",
