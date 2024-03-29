@@ -5,7 +5,7 @@
   "source": "@site/docs/before_installation/system_requirements.md",
   "sourceDirName": "before_installation",
   "slug": "/before_installation/system_requirements",
-  "permalink": "/before_installation/system_requirements",
+  "permalink": "/documentation/before_installation/system_requirements",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/before_installation/system_requirements.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Before Installation",
-    "permalink": "/category/before-installation"
+    "permalink": "/documentation/category/before-installation"
   },
   "next": {
     "title": "Important Notes",
-    "permalink": "/before_installation/imporatnt_notes"
+    "permalink": "/documentation/before_installation/imporatnt_notes"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/tools/dns.md",
   "sourceDirName": "tools",
   "slug": "/tools/dns",
-  "permalink": "/tools/dns",
+  "permalink": "/documentation/tools/dns",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/tools/dns.md",
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tools",
-    "permalink": "/category/tools"
+    "permalink": "/documentation/category/tools"
   }
 }

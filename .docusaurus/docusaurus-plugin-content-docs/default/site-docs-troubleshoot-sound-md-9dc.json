@@ -5,7 +5,7 @@
   "source": "@site/docs/troubleshoot/sound.md",
   "sourceDirName": "troubleshoot",
   "slug": "/troubleshoot/sound",
-  "permalink": "/troubleshoot/sound",
+  "permalink": "/documentation/troubleshoot/sound",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/troubleshoot/sound.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Troubleshoot: Bluetooth",
-    "permalink": "/troubleshoot/bluetooth"
+    "permalink": "/documentation/troubleshoot/bluetooth"
   },
   "next": {
     "title": "Troubleshoot: Display",
-    "permalink": "/troubleshoot/display"
+    "permalink": "/documentation/troubleshoot/display"
   }
 }

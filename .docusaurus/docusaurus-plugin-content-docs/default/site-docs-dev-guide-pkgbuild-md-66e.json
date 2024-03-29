@@ -5,7 +5,7 @@
   "source": "@site/docs/dev_guide/pkgbuild.md",
   "sourceDirName": "dev_guide",
   "slug": "/dev_guide/pkgbuild",
-  "permalink": "/dev_guide/pkgbuild",
+  "permalink": "/documentation/dev_guide/pkgbuild",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/pkgbuild.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Build Snigdha OS",
-    "permalink": "/dev_guide/build_source"
+    "permalink": "/documentation/dev_guide/build_source"
   },
   "next": {
     "title": "Generate GPG Key",
-    "permalink": "/dev_guide/gpg_key"
+    "permalink": "/documentation/dev_guide/gpg_key"
   }
 }

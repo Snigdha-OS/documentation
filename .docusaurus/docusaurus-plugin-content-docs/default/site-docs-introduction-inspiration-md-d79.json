@@ -5,7 +5,7 @@
   "source": "@site/docs/introduction/inspiration.md",
   "sourceDirName": "introduction",
   "slug": "/introduction/inspiration",
-  "permalink": "/introduction/inspiration",
+  "permalink": "/documentation/introduction/inspiration",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/introduction/inspiration.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/"
+    "permalink": "/documentation/"
   },
   "next": {
     "title": "Code Of Conduct",
-    "permalink": "/introduction/code_of_conduct"
+    "permalink": "/documentation/introduction/code_of_conduct"
   }
 }

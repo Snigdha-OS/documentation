@@ -5,7 +5,7 @@
   "source": "@site/docs/user_guide/cheetsheet.md",
   "sourceDirName": "user_guide",
   "slug": "/user_guide/cheetsheet",
-  "permalink": "/user_guide/cheetsheet",
+  "permalink": "/documentation/user_guide/cheetsheet",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/user_guide/cheetsheet.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "User Guide",
-    "permalink": "/category/user-guide"
+    "permalink": "/documentation/category/user-guide"
   },
   "next": {
     "title": "Installing with AUR",
-    "permalink": "/user_guide/aur"
+    "permalink": "/documentation/user_guide/aur"
   }
 }

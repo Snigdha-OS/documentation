@@ -5,7 +5,7 @@
   "source": "@site/docs/installation/offline_install.md",
   "sourceDirName": "installation",
   "slug": "/installation/offline_install",
-  "permalink": "/installation/offline_install",
+  "permalink": "/documentation/installation/offline_install",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/installation/offline_install.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Live Environment",
-    "permalink": "/installation/live_env"
+    "permalink": "/documentation/installation/live_env"
   },
   "next": {
     "title": "Online Installation",
-    "permalink": "/installation/online_install"
+    "permalink": "/documentation/installation/online_install"
   }
 }

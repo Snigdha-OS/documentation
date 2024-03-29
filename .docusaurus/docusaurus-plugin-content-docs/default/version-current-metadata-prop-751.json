@@ -18,47 +18,47 @@
           {
             "type": "link",
             "label": "Introduction",
-            "href": "/",
+            "href": "/documentation/",
             "docId": "introduction/introduction",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Inspiration",
-            "href": "/introduction/inspiration",
+            "href": "/documentation/introduction/inspiration",
             "docId": "introduction/inspiration",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Code Of Conduct",
-            "href": "/introduction/code_of_conduct",
+            "href": "/documentation/introduction/code_of_conduct",
             "docId": "introduction/code_of_conduct",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Release Notes",
-            "href": "/introduction/release_notes",
+            "href": "/documentation/introduction/release_notes",
             "docId": "introduction/release_notes",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Reporting Bugs",
-            "href": "/introduction/reporting_bugs",
+            "href": "/documentation/introduction/reporting_bugs",
             "docId": "introduction/reporting_bugs",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Frequently Asked",
-            "href": "/introduction/faqs",
+            "href": "/documentation/introduction/faqs",
             "docId": "introduction/faqs",
             "unlisted": false
           }
         ],
-        "href": "/category/introduction"
+        "href": "/documentation/category/introduction"
       },
       {
         "type": "category",
@@ -69,26 +69,26 @@
           {
             "type": "link",
             "label": "System Requirements",
-            "href": "/before_installation/system_requirements",
+            "href": "/documentation/before_installation/system_requirements",
             "docId": "before_installation/system_requirements",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Important Notes",
-            "href": "/before_installation/imporatnt_notes",
+            "href": "/documentation/before_installation/imporatnt_notes",
             "docId": "before_installation/imporatnt_notes",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Internet Connection",
-            "href": "/before_installation/internet_connection",
+            "href": "/documentation/before_installation/internet_connection",
             "docId": "before_installation/internet_connection",
             "unlisted": false
           }
         ],
-        "href": "/category/before-installation"
+        "href": "/documentation/category/before-installation"
       },
       {
         "type": "category",
@@ -99,54 +99,54 @@
           {
             "type": "link",
             "label": "Download Snigdha OS",
-            "href": "/installation/download_snigdha_os",
+            "href": "/documentation/installation/download_snigdha_os",
             "docId": "installation/download_snigdha_os",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Make Bootable USB",
-            "href": "/installation/making_bootable_usb",
+            "href": "/documentation/installation/making_bootable_usb",
             "docId": "installation/making_bootable_usb",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Live Environment",
-            "href": "/installation/live_env",
+            "href": "/documentation/installation/live_env",
             "docId": "installation/live_env",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Offline Installation",
-            "href": "/installation/offline_install",
+            "href": "/documentation/installation/offline_install",
             "docId": "installation/offline_install",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Online Installation",
-            "href": "/installation/online_install",
+            "href": "/documentation/installation/online_install",
             "docId": "installation/online_install",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Install Snigdha OS",
-            "href": "/installation/start_installation",
+            "href": "/documentation/installation/start_installation",
             "docId": "installation/start_installation",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Virtualbox",
-            "href": "/installation/virtualbox_installation",
+            "href": "/documentation/installation/virtualbox_installation",
             "docId": "installation/virtualbox_installation",
             "unlisted": false
           }
         ],
-        "href": "/category/installation"
+        "href": "/documentation/category/installation"
       },
       {
         "type": "category",
@@ -157,33 +157,33 @@
           {
             "type": "link",
             "label": "Language",
-            "href": "/post_installation/language",
+            "href": "/documentation/post_installation/language",
             "docId": "post_installation/language",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Update Snigdha OS",
-            "href": "/post_installation/update",
+            "href": "/documentation/post_installation/update",
             "docId": "post_installation/update",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Customize Snigdha OS",
-            "href": "/post_installation/customization",
+            "href": "/documentation/post_installation/customization",
             "docId": "post_installation/customization",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Install Packages",
-            "href": "/post_installation/install_packages",
+            "href": "/documentation/post_installation/install_packages",
             "docId": "post_installation/install_packages",
             "unlisted": false
           }
         ],
-        "href": "/category/post-installation"
+        "href": "/documentation/category/post-installation"
       },
       {
         "type": "category",
@@ -194,19 +194,19 @@
           {
             "type": "link",
             "label": "Cheetsheet/Shortcuts",
-            "href": "/user_guide/cheetsheet",
+            "href": "/documentation/user_guide/cheetsheet",
             "docId": "user_guide/cheetsheet",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Installing with AUR",
-            "href": "/user_guide/aur",
+            "href": "/documentation/user_guide/aur",
             "docId": "user_guide/aur",
             "unlisted": false
           }
         ],
-        "href": "/category/user-guide"
+        "href": "/documentation/category/user-guide"
       },
       {
         "type": "category",
@@ -217,33 +217,33 @@
           {
             "type": "link",
             "label": "Troubleshoot: Wifi",
-            "href": "/troubleshoot/wifi",
+            "href": "/documentation/troubleshoot/wifi",
             "docId": "troubleshoot/wifi",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Troubleshoot: Bluetooth",
-            "href": "/troubleshoot/bluetooth",
+            "href": "/documentation/troubleshoot/bluetooth",
             "docId": "troubleshoot/bluetooth",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Troubleshoot: Sound",
-            "href": "/troubleshoot/sound",
+            "href": "/documentation/troubleshoot/sound",
             "docId": "troubleshoot/sound",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Troubleshoot: Display",
-            "href": "/troubleshoot/display",
+            "href": "/documentation/troubleshoot/display",
             "docId": "troubleshoot/display",
             "unlisted": false
           }
         ],
-        "href": "/category/troubleshoot"
+        "href": "/documentation/category/troubleshoot"
       },
       {
         "type": "category",
@@ -254,19 +254,19 @@
           {
             "type": "link",
             "label": "Welcome",
-            "href": "/packages/snigdhaos_welcome",
+            "href": "/documentation/packages/snigdhaos_welcome",
             "docId": "packages/snigdhaos_welcome",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Blackbox",
-            "href": "/packages/snigdhaos_blackbox",
+            "href": "/documentation/packages/snigdhaos_blackbox",
             "docId": "packages/snigdhaos_blackbox",
             "unlisted": false
           }
         ],
-        "href": "/category/packages"
+        "href": "/documentation/category/packages"
       },
       {
         "type": "category",
@@ -277,47 +277,47 @@
           {
             "type": "link",
             "label": "Writing Documentation",
-            "href": "/dev_guide/write",
+            "href": "/documentation/dev_guide/write",
             "docId": "dev_guide/write",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Build Snigdha OS",
-            "href": "/dev_guide/build_source",
+            "href": "/documentation/dev_guide/build_source",
             "docId": "dev_guide/build_source",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Write PKGBUILD",
-            "href": "/dev_guide/pkgbuild",
+            "href": "/documentation/dev_guide/pkgbuild",
             "docId": "dev_guide/pkgbuild",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Generate GPG Key",
-            "href": "/dev_guide/gpg_key",
+            "href": "/documentation/dev_guide/gpg_key",
             "docId": "dev_guide/gpg_key",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Upload & Deploy Packages",
-            "href": "/dev_guide/deploy_packages",
+            "href": "/documentation/dev_guide/deploy_packages",
             "docId": "dev_guide/deploy_packages",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Install Keyrings",
-            "href": "/dev_guide/install_keyring",
+            "href": "/documentation/dev_guide/install_keyring",
             "docId": "dev_guide/install_keyring",
             "unlisted": false
           }
         ],
-        "href": "/category/developers-guide"
+        "href": "/documentation/category/developers-guide"
       },
       {
         "type": "category",
@@ -328,12 +328,12 @@
           {
             "type": "link",
             "label": "Tool: DNS Enum",
-            "href": "/tools/dns",
+            "href": "/documentation/tools/dns",
             "docId": "tools/dns",
             "unlisted": false
           }
         ],
-        "href": "/category/tools"
+        "href": "/documentation/category/tools"
       }
     ]
   },

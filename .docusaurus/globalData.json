@@ -1,233 +1,233 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/",
+      "path": "/documentation/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/",
+          "path": "/documentation/",
           "mainDocId": "introduction/introduction",
           "docs": [
             {
               "id": "before_installation/imporatnt_notes",
-              "path": "/before_installation/imporatnt_notes",
+              "path": "/documentation/before_installation/imporatnt_notes",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "before_installation/internet_connection",
-              "path": "/before_installation/internet_connection",
+              "path": "/documentation/before_installation/internet_connection",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "before_installation/system_requirements",
-              "path": "/before_installation/system_requirements",
+              "path": "/documentation/before_installation/system_requirements",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "dev_guide/build_source",
-              "path": "/dev_guide/build_source",
+              "path": "/documentation/dev_guide/build_source",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "dev_guide/deploy_packages",
-              "path": "/dev_guide/deploy_packages",
+              "path": "/documentation/dev_guide/deploy_packages",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "dev_guide/gpg_key",
-              "path": "/dev_guide/gpg_key",
+              "path": "/documentation/dev_guide/gpg_key",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "dev_guide/install_keyring",
-              "path": "/dev_guide/install_keyring",
+              "path": "/documentation/dev_guide/install_keyring",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "dev_guide/pkgbuild",
-              "path": "/dev_guide/pkgbuild",
+              "path": "/documentation/dev_guide/pkgbuild",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "dev_guide/write",
-              "path": "/dev_guide/write",
+              "path": "/documentation/dev_guide/write",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "installation/download_snigdha_os",
-              "path": "/installation/download_snigdha_os",
+              "path": "/documentation/installation/download_snigdha_os",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "installation/live_env",
-              "path": "/installation/live_env",
+              "path": "/documentation/installation/live_env",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "installation/making_bootable_usb",
-              "path": "/installation/making_bootable_usb",
+              "path": "/documentation/installation/making_bootable_usb",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "installation/offline_install",
-              "path": "/installation/offline_install",
+              "path": "/documentation/installation/offline_install",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "installation/online_install",
-              "path": "/installation/online_install",
+              "path": "/documentation/installation/online_install",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "installation/start_installation",
-              "path": "/installation/start_installation",
+              "path": "/documentation/installation/start_installation",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "installation/virtualbox_installation",
-              "path": "/installation/virtualbox_installation",
+              "path": "/documentation/installation/virtualbox_installation",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "introduction/code_of_conduct",
-              "path": "/introduction/code_of_conduct",
+              "path": "/documentation/introduction/code_of_conduct",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "introduction/faqs",
-              "path": "/introduction/faqs",
+              "path": "/documentation/introduction/faqs",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "introduction/inspiration",
-              "path": "/introduction/inspiration",
+              "path": "/documentation/introduction/inspiration",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "introduction/introduction",
-              "path": "/",
+              "path": "/documentation/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "introduction/release_notes",
-              "path": "/introduction/release_notes",
+              "path": "/documentation/introduction/release_notes",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "introduction/reporting_bugs",
-              "path": "/introduction/reporting_bugs",
+              "path": "/documentation/introduction/reporting_bugs",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "packages/snigdhaos_blackbox",
-              "path": "/packages/snigdhaos_blackbox",
+              "path": "/documentation/packages/snigdhaos_blackbox",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "packages/snigdhaos_welcome",
-              "path": "/packages/snigdhaos_welcome",
+              "path": "/documentation/packages/snigdhaos_welcome",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "post_installation/customization",
-              "path": "/post_installation/customization",
+              "path": "/documentation/post_installation/customization",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "post_installation/install_packages",
-              "path": "/post_installation/install_packages",
+              "path": "/documentation/post_installation/install_packages",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "post_installation/language",
-              "path": "/post_installation/language",
+              "path": "/documentation/post_installation/language",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "post_installation/update",
-              "path": "/post_installation/update",
+              "path": "/documentation/post_installation/update",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/dns",
-              "path": "/tools/dns",
+              "path": "/documentation/tools/dns",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "troubleshoot/bluetooth",
-              "path": "/troubleshoot/bluetooth",
+              "path": "/documentation/troubleshoot/bluetooth",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "troubleshoot/display",
-              "path": "/troubleshoot/display",
+              "path": "/documentation/troubleshoot/display",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "troubleshoot/sound",
-              "path": "/troubleshoot/sound",
+              "path": "/documentation/troubleshoot/sound",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "troubleshoot/wifi",
-              "path": "/troubleshoot/wifi",
+              "path": "/documentation/troubleshoot/wifi",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "user_guide/aur",
-              "path": "/user_guide/aur",
+              "path": "/documentation/user_guide/aur",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "user_guide/cheetsheet",
-              "path": "/user_guide/cheetsheet",
+              "path": "/documentation/user_guide/cheetsheet",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/introduction",
-              "path": "/category/introduction",
+              "path": "/documentation/category/introduction",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/before-installation",
-              "path": "/category/before-installation",
+              "path": "/documentation/category/before-installation",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/installation",
-              "path": "/category/installation",
+              "path": "/documentation/category/installation",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/post-installation",
-              "path": "/category/post-installation",
+              "path": "/documentation/category/post-installation",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/user-guide",
-              "path": "/category/user-guide",
+              "path": "/documentation/category/user-guide",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/troubleshoot",
-              "path": "/category/troubleshoot",
+              "path": "/documentation/category/troubleshoot",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/packages",
-              "path": "/category/packages",
+              "path": "/documentation/category/packages",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/developers-guide",
-              "path": "/category/developers-guide",
+              "path": "/documentation/category/developers-guide",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tools",
-              "path": "/category/tools",
+              "path": "/documentation/category/tools",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -235,7 +235,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/category/introduction",
+                "path": "/documentation/category/introduction",
                 "label": "Introduction"
               }
             }

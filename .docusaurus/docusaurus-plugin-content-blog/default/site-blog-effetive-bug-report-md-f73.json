@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/effective_bug_report",
+  "permalink": "/documentation/blog/effective_bug_report",
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/blog/effetive_bug_report.md",
   "source": "@site/blog/effetive_bug_report.md",
   "title": "Write Effective Bug Report",
@@ -9,7 +9,7 @@
   "tags": [
     {
       "label": "bug",
-      "permalink": "/blog/tags/bug"
+      "permalink": "/documentation/blog/tags/bug"
     }
   ],
   "readingTime": 2.15,
