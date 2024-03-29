@@ -73,16 +73,21 @@ export default [
     exact: true
   },
   {
+    path: '/documentation/privacy_policy',
+    component: ComponentCreator('/documentation/privacy_policy', '4b3'),
+    exact: true
+  },
+  {
     path: '/documentation/',
-    component: ComponentCreator('/documentation/', '7d7'),
+    component: ComponentCreator('/documentation/', '515'),
     routes: [
       {
         path: '/documentation/',
-        component: ComponentCreator('/documentation/', '81d'),
+        component: ComponentCreator('/documentation/', 'f75'),
         routes: [
           {
             path: '/documentation/',
-            component: ComponentCreator('/documentation/', '42c'),
+            component: ComponentCreator('/documentation/', 'cb8'),
             routes: [
               {
                 path: '/documentation/before_installation/imporatnt_notes',
@@ -165,12 +170,6 @@ export default [
               {
                 path: '/documentation/dev_guide/deploy_packages',
                 component: ComponentCreator('/documentation/dev_guide/deploy_packages', '61f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentation/dev_guide/docs_translate',
-                component: ComponentCreator('/documentation/dev_guide/docs_translate', '964'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

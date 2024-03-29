@@ -1,6 +1,6 @@
 {
   "id": "dev_guide/gpg_key",
-  "title": "GPG Key",
+  "title": "Generate GPG Key",
   "description": "",
   "source": "@site/docs/dev_guide/gpg_key.md",
   "sourceDirName": "dev_guide",
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "PKGBUILD",
+    "title": "Write PKGBUILD",
     "permalink": "/documentation/dev_guide/pkgbuild"
   },
   "next": {
-    "title": "Deploy Package",
+    "title": "Upload & Deploy Packages",
     "permalink": "/documentation/dev_guide/deploy_packages"
   }
 }

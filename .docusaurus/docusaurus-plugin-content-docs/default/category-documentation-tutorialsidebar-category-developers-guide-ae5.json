@@ -1,6 +1,6 @@
 {
   "title": "Developers Guide",
-  "description": "Troubleshoot",
+  "description": "This will guide on how to contribute to Snigdha OS as developer.",
   "slug": "/category/developers-guide",
   "permalink": "/documentation/category/developers-guide",
   "navigation": {
@@ -9,7 +9,7 @@
       "permalink": "/documentation/packages/snigdhaos_blackbox"
     },
     "next": {
-      "title": "Writing",
+      "title": "Writing Documentation",
       "permalink": "/documentation/dev_guide/write"
     }
   }

@@ -36,11 +36,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "dev_guide/docs_translate",
-              "path": "/documentation/dev_guide/docs_translate",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "dev_guide/gpg_key",
               "path": "/documentation/dev_guide/gpg_key",
               "sidebar": "tutorialSidebar"

@@ -1,7 +1,7 @@
 {
   "id": "dev_guide/build_source",
-  "title": "Build From Source",
-  "description": "",
+  "title": "Build Snigdha OS",
+  "description": "Overview",
   "source": "@site/docs/dev_guide/build_source.md",
   "sourceDirName": "dev_guide",
   "slug": "/dev_guide/build_source",
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Translating",
-    "permalink": "/documentation/dev_guide/docs_translate"
+    "title": "Writing Documentation",
+    "permalink": "/documentation/dev_guide/write"
   },
   "next": {
-    "title": "PKGBUILD",
+    "title": "Write PKGBUILD",
     "permalink": "/documentation/dev_guide/pkgbuild"
   }
 }

@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'SNIGDHA OS - DOCS',
   tagline: 'Be silent when it is time to hear!',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/snigdhaos-icon.ico',
 
   // Set the production url of your site here
   url: 'https://docs.snigdhaos.org/',
@@ -70,7 +70,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'SNIGDHA OS - Documentation',
+        title: 'DOCUMENTATION | SNIGDHA OS',
         logo: {
           alt: 'Snigdha OS Docs Logo',
           src: 'img/Doc.svg',

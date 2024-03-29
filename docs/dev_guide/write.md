@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# Writing
+# Writing Documentation
 
 Adding documentation can help countless future of Snigdha OS users. A few ideas of what to work on:
 

@@ -6,7 +6,7 @@
 export default {
   "title": "SNIGDHA OS - DOCS",
   "tagline": "Be silent when it is time to hear!",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/snigdhaos-icon.ico",
   "url": "https://docs.snigdhaos.org",
   "baseUrl": "/documentation/",
   "trailingSlash": false,
@@ -45,7 +45,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "SNIGDHA OS - Documentation",
+      "title": "DOCUMENTATION | SNIGDHA OS",
       "logo": {
         "alt": "Snigdha OS Docs Logo",
         "src": "img/Doc.svg"

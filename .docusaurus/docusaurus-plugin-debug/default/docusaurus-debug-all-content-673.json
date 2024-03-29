@@ -102,8 +102,8 @@
             },
             {
               "id": "dev_guide/build_source",
-              "title": "Build From Source",
-              "description": "",
+              "title": "Build Snigdha OS",
+              "description": "Overview",
               "source": "@site/docs/dev_guide/build_source.md",
               "sourceDirName": "dev_guide",
               "slug": "/dev_guide/build_source",
@@ -119,17 +119,17 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Translating",
-                "permalink": "/documentation/dev_guide/docs_translate"
+                "title": "Writing Documentation",
+                "permalink": "/documentation/dev_guide/write"
               },
               "next": {
-                "title": "PKGBUILD",
+                "title": "Write PKGBUILD",
                 "permalink": "/documentation/dev_guide/pkgbuild"
               }
             },
             {
               "id": "dev_guide/deploy_packages",
-              "title": "Deploy Package",
+              "title": "Upload & Deploy Packages",
               "description": "",
               "source": "@site/docs/dev_guide/deploy_packages.md",
               "sourceDirName": "dev_guide",
@@ -146,7 +146,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "GPG Key",
+                "title": "Generate GPG Key",
                 "permalink": "/documentation/dev_guide/gpg_key"
               },
               "next": {
@@ -155,35 +155,8 @@
               }
             },
             {
-              "id": "dev_guide/docs_translate",
-              "title": "Translating",
-              "description": "We want Snigdha OS docs and support to be accessible to everyone, regardless of language! By contributing translations, you make it possible for many more people to enjoy our docs and support. Best of all, we use user-friendly GUIs for translations, so no technical skills are necessary to help!",
-              "source": "@site/docs/dev_guide/docs_translate.md",
-              "sourceDirName": "dev_guide",
-              "slug": "/dev_guide/docs_translate",
-              "permalink": "/documentation/dev_guide/docs_translate",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/docs_translate.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Writing",
-                "permalink": "/documentation/dev_guide/write"
-              },
-              "next": {
-                "title": "Build From Source",
-                "permalink": "/documentation/dev_guide/build_source"
-              }
-            },
-            {
               "id": "dev_guide/gpg_key",
-              "title": "GPG Key",
+              "title": "Generate GPG Key",
               "description": "",
               "source": "@site/docs/dev_guide/gpg_key.md",
               "sourceDirName": "dev_guide",
@@ -200,17 +173,17 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "PKGBUILD",
+                "title": "Write PKGBUILD",
                 "permalink": "/documentation/dev_guide/pkgbuild"
               },
               "next": {
-                "title": "Deploy Package",
+                "title": "Upload & Deploy Packages",
                 "permalink": "/documentation/dev_guide/deploy_packages"
               }
             },
             {
               "id": "dev_guide/pkgbuild",
-              "title": "PKGBUILD",
+              "title": "Write PKGBUILD",
               "description": "",
               "source": "@site/docs/dev_guide/pkgbuild.md",
               "sourceDirName": "dev_guide",
@@ -227,17 +200,17 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Build From Source",
+                "title": "Build Snigdha OS",
                 "permalink": "/documentation/dev_guide/build_source"
               },
               "next": {
-                "title": "GPG Key",
+                "title": "Generate GPG Key",
                 "permalink": "/documentation/dev_guide/gpg_key"
               }
             },
             {
               "id": "dev_guide/write",
-              "title": "Writing",
+              "title": "Writing Documentation",
               "description": "Adding documentation can help countless future of Snigdha OS users. A few ideas of what to work on:",
               "source": "@site/docs/dev_guide/write.md",
               "sourceDirName": "dev_guide",
@@ -258,8 +231,8 @@
                 "permalink": "/documentation/category/developers-guide"
               },
               "next": {
-                "title": "Translating",
-                "permalink": "/documentation/dev_guide/docs_translate"
+                "title": "Build Snigdha OS",
+                "permalink": "/documentation/dev_guide/build_source"
               }
             },
             {
@@ -1187,10 +1160,6 @@
                   },
                   {
                     "type": "doc",
-                    "id": "dev_guide/docs_translate"
-                  },
-                  {
-                    "type": "doc",
                     "id": "dev_guide/build_source"
                   },
                   {
@@ -1208,7 +1177,7 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "Troubleshoot",
+                  "description": "This will guide on how to contribute to Snigdha OS as developer.",
                   "slug": "/category/developers-guide",
                   "permalink": "/documentation/category/developers-guide"
                 }
@@ -1350,6 +1319,18 @@
         "description": "You don't need React to write simple standalone pages.",
         "frontMatter": {
           "title": "Markdown page example"
+        },
+        "unlisted": false
+      },
+      {
+        "type": "mdx",
+        "permalink": "/documentation/privacy_policy",
+        "source": "@site/src/pages/privacy_policy.md",
+        "title": "Privacy Policy",
+        "description": "Privacy Policy",
+        "frontMatter": {
+          "slug": "/privacy_policy",
+          "title": "Privacy Policy"
         },
         "unlisted": false
       }

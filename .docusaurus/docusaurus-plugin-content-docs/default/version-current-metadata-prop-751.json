@@ -276,42 +276,35 @@
         "items": [
           {
             "type": "link",
-            "label": "Writing",
+            "label": "Writing Documentation",
             "href": "/documentation/dev_guide/write",
             "docId": "dev_guide/write",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Translating",
-            "href": "/documentation/dev_guide/docs_translate",
-            "docId": "dev_guide/docs_translate",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Build From Source",
+            "label": "Build Snigdha OS",
             "href": "/documentation/dev_guide/build_source",
             "docId": "dev_guide/build_source",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "PKGBUILD",
+            "label": "Write PKGBUILD",
             "href": "/documentation/dev_guide/pkgbuild",
             "docId": "dev_guide/pkgbuild",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "GPG Key",
+            "label": "Generate GPG Key",
             "href": "/documentation/dev_guide/gpg_key",
             "docId": "dev_guide/gpg_key",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Deploy Package",
+            "label": "Upload & Deploy Packages",
             "href": "/documentation/dev_guide/deploy_packages",
             "docId": "dev_guide/deploy_packages",
             "unlisted": false
@@ -358,37 +351,31 @@
     },
     "dev_guide/build_source": {
       "id": "dev_guide/build_source",
-      "title": "Build From Source",
-      "description": "",
+      "title": "Build Snigdha OS",
+      "description": "Overview",
       "sidebar": "tutorialSidebar"
     },
     "dev_guide/deploy_packages": {
       "id": "dev_guide/deploy_packages",
-      "title": "Deploy Package",
+      "title": "Upload & Deploy Packages",
       "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "dev_guide/docs_translate": {
-      "id": "dev_guide/docs_translate",
-      "title": "Translating",
-      "description": "We want Snigdha OS docs and support to be accessible to everyone, regardless of language! By contributing translations, you make it possible for many more people to enjoy our docs and support. Best of all, we use user-friendly GUIs for translations, so no technical skills are necessary to help!",
       "sidebar": "tutorialSidebar"
     },
     "dev_guide/gpg_key": {
       "id": "dev_guide/gpg_key",
-      "title": "GPG Key",
+      "title": "Generate GPG Key",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
     "dev_guide/pkgbuild": {
       "id": "dev_guide/pkgbuild",
-      "title": "PKGBUILD",
+      "title": "Write PKGBUILD",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
     "dev_guide/write": {
       "id": "dev_guide/write",
-      "title": "Writing",
+      "title": "Writing Documentation",
       "description": "Adding documentation can help countless future of Snigdha OS users. A few ideas of what to work on:",
       "sidebar": "tutorialSidebar"
     },
