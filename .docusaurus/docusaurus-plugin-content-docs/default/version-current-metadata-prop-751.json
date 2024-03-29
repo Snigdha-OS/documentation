@@ -276,13 +276,6 @@
         "items": [
           {
             "type": "link",
-            "label": "Writing Documentation",
-            "href": "/documentation/dev_guide/write",
-            "docId": "dev_guide/write",
-            "unlisted": false
-          },
-          {
-            "type": "link",
             "label": "Build Snigdha OS",
             "href": "/documentation/dev_guide/build_source",
             "docId": "dev_guide/build_source",
@@ -314,6 +307,13 @@
             "label": "Install Keyrings",
             "href": "/documentation/dev_guide/install_keyring",
             "docId": "dev_guide/install_keyring",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Writing Documentation",
+            "href": "/documentation/dev_guide/write",
+            "docId": "dev_guide/write",
             "unlisted": false
           }
         ],

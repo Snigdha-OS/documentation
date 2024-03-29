@@ -11,9 +11,9 @@
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/pkgbuild.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 4
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {

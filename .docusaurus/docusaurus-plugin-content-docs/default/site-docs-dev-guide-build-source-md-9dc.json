@@ -11,14 +11,14 @@
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/build_source.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 3
+    "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Writing Documentation",
-    "permalink": "/documentation/dev_guide/write"
+    "title": "Developers Guide",
+    "permalink": "/documentation/category/developers-guide"
   },
   "next": {
     "title": "Write PKGBUILD",

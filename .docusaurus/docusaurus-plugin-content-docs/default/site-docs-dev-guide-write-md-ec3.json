@@ -11,17 +11,17 @@
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/write.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 6,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 6
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Developers Guide",
-    "permalink": "/documentation/category/developers-guide"
+    "title": "Install Keyrings",
+    "permalink": "/documentation/dev_guide/install_keyring"
   },
   "next": {
-    "title": "Build Snigdha OS",
-    "permalink": "/documentation/dev_guide/build_source"
+    "title": "Tools",
+    "permalink": "/documentation/category/tools"
   }
 }

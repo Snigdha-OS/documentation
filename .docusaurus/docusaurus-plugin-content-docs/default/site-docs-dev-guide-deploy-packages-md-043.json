@@ -11,9 +11,9 @@
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/deploy_packages.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 6,
+  "sidebarPosition": 4,
   "frontMatter": {
-    "sidebar_position": 6
+    "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",
   "previous": {

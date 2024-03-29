@@ -11,9 +11,9 @@
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/gpg_key.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 5,
+  "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_position": 5
+    "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {

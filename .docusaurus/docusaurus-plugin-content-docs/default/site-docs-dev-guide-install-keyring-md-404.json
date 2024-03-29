@@ -11,9 +11,9 @@
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/install_keyring.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 6,
+  "sidebarPosition": 5,
   "frontMatter": {
-    "sidebar_position": 6
+    "sidebar_position": 5
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -21,7 +21,7 @@
     "permalink": "/documentation/dev_guide/deploy_packages"
   },
   "next": {
-    "title": "Tools",
-    "permalink": "/documentation/category/tools"
+    "title": "Writing Documentation",
+    "permalink": "/documentation/dev_guide/write"
   }
 }

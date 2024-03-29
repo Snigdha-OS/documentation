@@ -113,14 +113,14 @@
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/build_source.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 3,
+              "sidebarPosition": 1,
               "frontMatter": {
-                "sidebar_position": 3
+                "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Writing Documentation",
-                "permalink": "/documentation/dev_guide/write"
+                "title": "Developers Guide",
+                "permalink": "/documentation/category/developers-guide"
               },
               "next": {
                 "title": "Write PKGBUILD",
@@ -140,9 +140,9 @@
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/deploy_packages.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 6,
+              "sidebarPosition": 4,
               "frontMatter": {
-                "sidebar_position": 6
+                "sidebar_position": 4
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -167,9 +167,9 @@
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/gpg_key.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 5,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 5
+                "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -194,9 +194,9 @@
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/install_keyring.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 6,
+              "sidebarPosition": 5,
               "frontMatter": {
-                "sidebar_position": 6
+                "sidebar_position": 5
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -204,8 +204,8 @@
                 "permalink": "/documentation/dev_guide/deploy_packages"
               },
               "next": {
-                "title": "Tools",
-                "permalink": "/documentation/category/tools"
+                "title": "Writing Documentation",
+                "permalink": "/documentation/dev_guide/write"
               }
             },
             {
@@ -221,9 +221,9 @@
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/pkgbuild.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 4,
+              "sidebarPosition": 2,
               "frontMatter": {
-                "sidebar_position": 4
+                "sidebar_position": 2
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -248,18 +248,18 @@
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/write.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 6,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 6
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Developers Guide",
-                "permalink": "/documentation/category/developers-guide"
+                "title": "Install Keyrings",
+                "permalink": "/documentation/dev_guide/install_keyring"
               },
               "next": {
-                "title": "Build Snigdha OS",
-                "permalink": "/documentation/dev_guide/build_source"
+                "title": "Tools",
+                "permalink": "/documentation/category/tools"
               }
             },
             {
@@ -1183,10 +1183,6 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "dev_guide/write"
-                  },
-                  {
-                    "type": "doc",
                     "id": "dev_guide/build_source"
                   },
                   {
@@ -1204,6 +1200,10 @@
                   {
                     "type": "doc",
                     "id": "dev_guide/install_keyring"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "dev_guide/write"
                   }
                 ],
                 "link": {
