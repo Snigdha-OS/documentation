@@ -5,7 +5,7 @@
   "source": "@site/docs/dev_guide/write.md",
   "sourceDirName": "dev_guide",
   "slug": "/dev_guide/write",
-  "permalink": "/documentation/dev_guide/write",
+  "permalink": "/dev_guide/write",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/write.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Developers Guide",
-    "permalink": "/documentation/category/developers-guide"
+    "permalink": "/category/developers-guide"
   },
   "next": {
     "title": "Build Snigdha OS",
-    "permalink": "/documentation/dev_guide/build_source"
+    "permalink": "/dev_guide/build_source"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/dev_guide/install_keyring.md",
   "sourceDirName": "dev_guide",
   "slug": "/dev_guide/install_keyring",
-  "permalink": "/documentation/dev_guide/install_keyring",
+  "permalink": "/dev_guide/install_keyring",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/install_keyring.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Upload & Deploy Packages",
-    "permalink": "/documentation/dev_guide/deploy_packages"
+    "permalink": "/dev_guide/deploy_packages"
   },
   "next": {
     "title": "Tools",
-    "permalink": "/documentation/category/tools"
+    "permalink": "/category/tools"
   }
 }

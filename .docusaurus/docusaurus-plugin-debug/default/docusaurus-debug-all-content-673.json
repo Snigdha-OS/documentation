@@ -9,8 +9,8 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/documentation/",
-          "tagsPath": "/documentation/tags",
+          "path": "/",
+          "tagsPath": "/tags",
           "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs",
           "editUrlLocalized": "https://github.com/Snigdha-OS/documentation/tree/master/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
@@ -26,7 +26,7 @@
               "source": "@site/docs/before_installation/imporatnt_notes.md",
               "sourceDirName": "before_installation",
               "slug": "/before_installation/imporatnt_notes",
-              "permalink": "/documentation/before_installation/imporatnt_notes",
+              "permalink": "/before_installation/imporatnt_notes",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/before_installation/imporatnt_notes.md",
@@ -39,11 +39,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "System Requirements",
-                "permalink": "/documentation/before_installation/system_requirements"
+                "permalink": "/before_installation/system_requirements"
               },
               "next": {
                 "title": "Internet Connection",
-                "permalink": "/documentation/before_installation/internet_connection"
+                "permalink": "/before_installation/internet_connection"
               }
             },
             {
@@ -53,7 +53,7 @@
               "source": "@site/docs/before_installation/internet_connection.md",
               "sourceDirName": "before_installation",
               "slug": "/before_installation/internet_connection",
-              "permalink": "/documentation/before_installation/internet_connection",
+              "permalink": "/before_installation/internet_connection",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/before_installation/internet_connection.md",
@@ -66,11 +66,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Important Notes",
-                "permalink": "/documentation/before_installation/imporatnt_notes"
+                "permalink": "/before_installation/imporatnt_notes"
               },
               "next": {
                 "title": "Installation",
-                "permalink": "/documentation/category/installation"
+                "permalink": "/category/installation"
               }
             },
             {
@@ -80,7 +80,7 @@
               "source": "@site/docs/before_installation/system_requirements.md",
               "sourceDirName": "before_installation",
               "slug": "/before_installation/system_requirements",
-              "permalink": "/documentation/before_installation/system_requirements",
+              "permalink": "/before_installation/system_requirements",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/before_installation/system_requirements.md",
@@ -93,11 +93,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Before Installation",
-                "permalink": "/documentation/category/before-installation"
+                "permalink": "/category/before-installation"
               },
               "next": {
                 "title": "Important Notes",
-                "permalink": "/documentation/before_installation/imporatnt_notes"
+                "permalink": "/before_installation/imporatnt_notes"
               }
             },
             {
@@ -107,7 +107,7 @@
               "source": "@site/docs/dev_guide/build_source.md",
               "sourceDirName": "dev_guide",
               "slug": "/dev_guide/build_source",
-              "permalink": "/documentation/dev_guide/build_source",
+              "permalink": "/dev_guide/build_source",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/build_source.md",
@@ -120,11 +120,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Writing Documentation",
-                "permalink": "/documentation/dev_guide/write"
+                "permalink": "/dev_guide/write"
               },
               "next": {
                 "title": "Write PKGBUILD",
-                "permalink": "/documentation/dev_guide/pkgbuild"
+                "permalink": "/dev_guide/pkgbuild"
               }
             },
             {
@@ -134,7 +134,7 @@
               "source": "@site/docs/dev_guide/deploy_packages.md",
               "sourceDirName": "dev_guide",
               "slug": "/dev_guide/deploy_packages",
-              "permalink": "/documentation/dev_guide/deploy_packages",
+              "permalink": "/dev_guide/deploy_packages",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/deploy_packages.md",
@@ -147,11 +147,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Generate GPG Key",
-                "permalink": "/documentation/dev_guide/gpg_key"
+                "permalink": "/dev_guide/gpg_key"
               },
               "next": {
                 "title": "Install Keyrings",
-                "permalink": "/documentation/dev_guide/install_keyring"
+                "permalink": "/dev_guide/install_keyring"
               }
             },
             {
@@ -161,7 +161,7 @@
               "source": "@site/docs/dev_guide/gpg_key.md",
               "sourceDirName": "dev_guide",
               "slug": "/dev_guide/gpg_key",
-              "permalink": "/documentation/dev_guide/gpg_key",
+              "permalink": "/dev_guide/gpg_key",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/gpg_key.md",
@@ -174,11 +174,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Write PKGBUILD",
-                "permalink": "/documentation/dev_guide/pkgbuild"
+                "permalink": "/dev_guide/pkgbuild"
               },
               "next": {
                 "title": "Upload & Deploy Packages",
-                "permalink": "/documentation/dev_guide/deploy_packages"
+                "permalink": "/dev_guide/deploy_packages"
               }
             },
             {
@@ -188,7 +188,7 @@
               "source": "@site/docs/dev_guide/install_keyring.md",
               "sourceDirName": "dev_guide",
               "slug": "/dev_guide/install_keyring",
-              "permalink": "/documentation/dev_guide/install_keyring",
+              "permalink": "/dev_guide/install_keyring",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/install_keyring.md",
@@ -201,11 +201,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Upload & Deploy Packages",
-                "permalink": "/documentation/dev_guide/deploy_packages"
+                "permalink": "/dev_guide/deploy_packages"
               },
               "next": {
                 "title": "Tools",
-                "permalink": "/documentation/category/tools"
+                "permalink": "/category/tools"
               }
             },
             {
@@ -215,7 +215,7 @@
               "source": "@site/docs/dev_guide/pkgbuild.md",
               "sourceDirName": "dev_guide",
               "slug": "/dev_guide/pkgbuild",
-              "permalink": "/documentation/dev_guide/pkgbuild",
+              "permalink": "/dev_guide/pkgbuild",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/pkgbuild.md",
@@ -228,11 +228,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Build Snigdha OS",
-                "permalink": "/documentation/dev_guide/build_source"
+                "permalink": "/dev_guide/build_source"
               },
               "next": {
                 "title": "Generate GPG Key",
-                "permalink": "/documentation/dev_guide/gpg_key"
+                "permalink": "/dev_guide/gpg_key"
               }
             },
             {
@@ -242,7 +242,7 @@
               "source": "@site/docs/dev_guide/write.md",
               "sourceDirName": "dev_guide",
               "slug": "/dev_guide/write",
-              "permalink": "/documentation/dev_guide/write",
+              "permalink": "/dev_guide/write",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/write.md",
@@ -255,11 +255,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Developers Guide",
-                "permalink": "/documentation/category/developers-guide"
+                "permalink": "/category/developers-guide"
               },
               "next": {
                 "title": "Build Snigdha OS",
-                "permalink": "/documentation/dev_guide/build_source"
+                "permalink": "/dev_guide/build_source"
               }
             },
             {
@@ -269,7 +269,7 @@
               "source": "@site/docs/installation/download_snigdha_os.md",
               "sourceDirName": "installation",
               "slug": "/installation/download_snigdha_os",
-              "permalink": "/documentation/installation/download_snigdha_os",
+              "permalink": "/installation/download_snigdha_os",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/installation/download_snigdha_os.md",
@@ -282,11 +282,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Installation",
-                "permalink": "/documentation/category/installation"
+                "permalink": "/category/installation"
               },
               "next": {
                 "title": "Make Bootable USB",
-                "permalink": "/documentation/installation/making_bootable_usb"
+                "permalink": "/installation/making_bootable_usb"
               }
             },
             {
@@ -296,7 +296,7 @@
               "source": "@site/docs/installation/live_env.md",
               "sourceDirName": "installation",
               "slug": "/installation/live_env",
-              "permalink": "/documentation/installation/live_env",
+              "permalink": "/installation/live_env",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/installation/live_env.md",
@@ -309,11 +309,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Make Bootable USB",
-                "permalink": "/documentation/installation/making_bootable_usb"
+                "permalink": "/installation/making_bootable_usb"
               },
               "next": {
                 "title": "Offline Installation",
-                "permalink": "/documentation/installation/offline_install"
+                "permalink": "/installation/offline_install"
               }
             },
             {
@@ -323,7 +323,7 @@
               "source": "@site/docs/installation/making_bootable_usb.md",
               "sourceDirName": "installation",
               "slug": "/installation/making_bootable_usb",
-              "permalink": "/documentation/installation/making_bootable_usb",
+              "permalink": "/installation/making_bootable_usb",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/installation/making_bootable_usb.md",
@@ -336,11 +336,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Download Snigdha OS",
-                "permalink": "/documentation/installation/download_snigdha_os"
+                "permalink": "/installation/download_snigdha_os"
               },
               "next": {
                 "title": "Live Environment",
-                "permalink": "/documentation/installation/live_env"
+                "permalink": "/installation/live_env"
               }
             },
             {
@@ -350,7 +350,7 @@
               "source": "@site/docs/installation/offline_install.md",
               "sourceDirName": "installation",
               "slug": "/installation/offline_install",
-              "permalink": "/documentation/installation/offline_install",
+              "permalink": "/installation/offline_install",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/installation/offline_install.md",
@@ -363,11 +363,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Live Environment",
-                "permalink": "/documentation/installation/live_env"
+                "permalink": "/installation/live_env"
               },
               "next": {
                 "title": "Online Installation",
-                "permalink": "/documentation/installation/online_install"
+                "permalink": "/installation/online_install"
               }
             },
             {
@@ -377,7 +377,7 @@
               "source": "@site/docs/installation/online_install.md",
               "sourceDirName": "installation",
               "slug": "/installation/online_install",
-              "permalink": "/documentation/installation/online_install",
+              "permalink": "/installation/online_install",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/installation/online_install.md",
@@ -390,11 +390,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Offline Installation",
-                "permalink": "/documentation/installation/offline_install"
+                "permalink": "/installation/offline_install"
               },
               "next": {
                 "title": "Install Snigdha OS",
-                "permalink": "/documentation/installation/start_installation"
+                "permalink": "/installation/start_installation"
               }
             },
             {
@@ -404,7 +404,7 @@
               "source": "@site/docs/installation/start_installation.md",
               "sourceDirName": "installation",
               "slug": "/installation/start_installation",
-              "permalink": "/documentation/installation/start_installation",
+              "permalink": "/installation/start_installation",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/installation/start_installation.md",
@@ -417,11 +417,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Online Installation",
-                "permalink": "/documentation/installation/online_install"
+                "permalink": "/installation/online_install"
               },
               "next": {
                 "title": "Virtualbox",
-                "permalink": "/documentation/installation/virtualbox_installation"
+                "permalink": "/installation/virtualbox_installation"
               }
             },
             {
@@ -431,7 +431,7 @@
               "source": "@site/docs/installation/virtualbox_installation.md",
               "sourceDirName": "installation",
               "slug": "/installation/virtualbox_installation",
-              "permalink": "/documentation/installation/virtualbox_installation",
+              "permalink": "/installation/virtualbox_installation",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/installation/virtualbox_installation.md",
@@ -444,11 +444,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Install Snigdha OS",
-                "permalink": "/documentation/installation/start_installation"
+                "permalink": "/installation/start_installation"
               },
               "next": {
                 "title": "Post Installation",
-                "permalink": "/documentation/category/post-installation"
+                "permalink": "/category/post-installation"
               }
             },
             {
@@ -458,7 +458,7 @@
               "source": "@site/docs/introduction/code_of_conduct.md",
               "sourceDirName": "introduction",
               "slug": "/introduction/code_of_conduct",
-              "permalink": "/documentation/introduction/code_of_conduct",
+              "permalink": "/introduction/code_of_conduct",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/introduction/code_of_conduct.md",
@@ -471,11 +471,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Inspiration",
-                "permalink": "/documentation/introduction/inspiration"
+                "permalink": "/introduction/inspiration"
               },
               "next": {
                 "title": "Release Notes",
-                "permalink": "/documentation/introduction/release_notes"
+                "permalink": "/introduction/release_notes"
               }
             },
             {
@@ -485,7 +485,7 @@
               "source": "@site/docs/introduction/faqs.md",
               "sourceDirName": "introduction",
               "slug": "/introduction/faqs",
-              "permalink": "/documentation/introduction/faqs",
+              "permalink": "/introduction/faqs",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/introduction/faqs.md",
@@ -498,11 +498,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Reporting Bugs",
-                "permalink": "/documentation/introduction/reporting_bugs"
+                "permalink": "/introduction/reporting_bugs"
               },
               "next": {
                 "title": "Before Installation",
-                "permalink": "/documentation/category/before-installation"
+                "permalink": "/category/before-installation"
               }
             },
             {
@@ -512,7 +512,7 @@
               "source": "@site/docs/introduction/inspiration.md",
               "sourceDirName": "introduction",
               "slug": "/introduction/inspiration",
-              "permalink": "/documentation/introduction/inspiration",
+              "permalink": "/introduction/inspiration",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/introduction/inspiration.md",
@@ -525,11 +525,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Introduction",
-                "permalink": "/documentation/"
+                "permalink": "/"
               },
               "next": {
                 "title": "Code Of Conduct",
-                "permalink": "/documentation/introduction/code_of_conduct"
+                "permalink": "/introduction/code_of_conduct"
               }
             },
             {
@@ -539,7 +539,7 @@
               "source": "@site/docs/introduction/introduction.md",
               "sourceDirName": "introduction",
               "slug": "/",
-              "permalink": "/documentation/",
+              "permalink": "/",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/introduction/introduction.md",
@@ -553,11 +553,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Introduction",
-                "permalink": "/documentation/category/introduction"
+                "permalink": "/category/introduction"
               },
               "next": {
                 "title": "Inspiration",
-                "permalink": "/documentation/introduction/inspiration"
+                "permalink": "/introduction/inspiration"
               }
             },
             {
@@ -567,7 +567,7 @@
               "source": "@site/docs/introduction/release_notes.md",
               "sourceDirName": "introduction",
               "slug": "/introduction/release_notes",
-              "permalink": "/documentation/introduction/release_notes",
+              "permalink": "/introduction/release_notes",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/introduction/release_notes.md",
@@ -580,11 +580,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Code Of Conduct",
-                "permalink": "/documentation/introduction/code_of_conduct"
+                "permalink": "/introduction/code_of_conduct"
               },
               "next": {
                 "title": "Reporting Bugs",
-                "permalink": "/documentation/introduction/reporting_bugs"
+                "permalink": "/introduction/reporting_bugs"
               }
             },
             {
@@ -594,7 +594,7 @@
               "source": "@site/docs/introduction/reporting_bugs.md",
               "sourceDirName": "introduction",
               "slug": "/introduction/reporting_bugs",
-              "permalink": "/documentation/introduction/reporting_bugs",
+              "permalink": "/introduction/reporting_bugs",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/introduction/reporting_bugs.md",
@@ -607,11 +607,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Release Notes",
-                "permalink": "/documentation/introduction/release_notes"
+                "permalink": "/introduction/release_notes"
               },
               "next": {
                 "title": "Frequently Asked",
-                "permalink": "/documentation/introduction/faqs"
+                "permalink": "/introduction/faqs"
               }
             },
             {
@@ -621,7 +621,7 @@
               "source": "@site/docs/packages/snigdhaos_blackbox.md",
               "sourceDirName": "packages",
               "slug": "/packages/snigdhaos_blackbox",
-              "permalink": "/documentation/packages/snigdhaos_blackbox",
+              "permalink": "/packages/snigdhaos_blackbox",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/packages/snigdhaos_blackbox.md",
@@ -634,11 +634,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Welcome",
-                "permalink": "/documentation/packages/snigdhaos_welcome"
+                "permalink": "/packages/snigdhaos_welcome"
               },
               "next": {
                 "title": "Developers Guide",
-                "permalink": "/documentation/category/developers-guide"
+                "permalink": "/category/developers-guide"
               }
             },
             {
@@ -648,7 +648,7 @@
               "source": "@site/docs/packages/snigdhaos_welcome.md",
               "sourceDirName": "packages",
               "slug": "/packages/snigdhaos_welcome",
-              "permalink": "/documentation/packages/snigdhaos_welcome",
+              "permalink": "/packages/snigdhaos_welcome",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/packages/snigdhaos_welcome.md",
@@ -661,11 +661,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Packages",
-                "permalink": "/documentation/category/packages"
+                "permalink": "/category/packages"
               },
               "next": {
                 "title": "Blackbox",
-                "permalink": "/documentation/packages/snigdhaos_blackbox"
+                "permalink": "/packages/snigdhaos_blackbox"
               }
             },
             {
@@ -675,7 +675,7 @@
               "source": "@site/docs/post_installation/customization.md",
               "sourceDirName": "post_installation",
               "slug": "/post_installation/customization",
-              "permalink": "/documentation/post_installation/customization",
+              "permalink": "/post_installation/customization",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/post_installation/customization.md",
@@ -688,11 +688,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Update Snigdha OS",
-                "permalink": "/documentation/post_installation/update"
+                "permalink": "/post_installation/update"
               },
               "next": {
                 "title": "Install Packages",
-                "permalink": "/documentation/post_installation/install_packages"
+                "permalink": "/post_installation/install_packages"
               }
             },
             {
@@ -702,7 +702,7 @@
               "source": "@site/docs/post_installation/install_packages.md",
               "sourceDirName": "post_installation",
               "slug": "/post_installation/install_packages",
-              "permalink": "/documentation/post_installation/install_packages",
+              "permalink": "/post_installation/install_packages",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/post_installation/install_packages.md",
@@ -715,11 +715,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Customize Snigdha OS",
-                "permalink": "/documentation/post_installation/customization"
+                "permalink": "/post_installation/customization"
               },
               "next": {
                 "title": "User Guide",
-                "permalink": "/documentation/category/user-guide"
+                "permalink": "/category/user-guide"
               }
             },
             {
@@ -729,7 +729,7 @@
               "source": "@site/docs/post_installation/language.md",
               "sourceDirName": "post_installation",
               "slug": "/post_installation/language",
-              "permalink": "/documentation/post_installation/language",
+              "permalink": "/post_installation/language",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/post_installation/language.md",
@@ -742,11 +742,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Post Installation",
-                "permalink": "/documentation/category/post-installation"
+                "permalink": "/category/post-installation"
               },
               "next": {
                 "title": "Update Snigdha OS",
-                "permalink": "/documentation/post_installation/update"
+                "permalink": "/post_installation/update"
               }
             },
             {
@@ -756,7 +756,7 @@
               "source": "@site/docs/post_installation/update.md",
               "sourceDirName": "post_installation",
               "slug": "/post_installation/update",
-              "permalink": "/documentation/post_installation/update",
+              "permalink": "/post_installation/update",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/post_installation/update.md",
@@ -769,11 +769,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Language",
-                "permalink": "/documentation/post_installation/language"
+                "permalink": "/post_installation/language"
               },
               "next": {
                 "title": "Customize Snigdha OS",
-                "permalink": "/documentation/post_installation/customization"
+                "permalink": "/post_installation/customization"
               }
             },
             {
@@ -783,7 +783,7 @@
               "source": "@site/docs/tools/dns.md",
               "sourceDirName": "tools",
               "slug": "/tools/dns",
-              "permalink": "/documentation/tools/dns",
+              "permalink": "/tools/dns",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/tools/dns.md",
@@ -796,7 +796,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Tools",
-                "permalink": "/documentation/category/tools"
+                "permalink": "/category/tools"
               }
             },
             {
@@ -806,7 +806,7 @@
               "source": "@site/docs/troubleshoot/bluetooth.md",
               "sourceDirName": "troubleshoot",
               "slug": "/troubleshoot/bluetooth",
-              "permalink": "/documentation/troubleshoot/bluetooth",
+              "permalink": "/troubleshoot/bluetooth",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/troubleshoot/bluetooth.md",
@@ -819,11 +819,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Troubleshoot: Wifi",
-                "permalink": "/documentation/troubleshoot/wifi"
+                "permalink": "/troubleshoot/wifi"
               },
               "next": {
                 "title": "Troubleshoot: Sound",
-                "permalink": "/documentation/troubleshoot/sound"
+                "permalink": "/troubleshoot/sound"
               }
             },
             {
@@ -833,7 +833,7 @@
               "source": "@site/docs/troubleshoot/display.md",
               "sourceDirName": "troubleshoot",
               "slug": "/troubleshoot/display",
-              "permalink": "/documentation/troubleshoot/display",
+              "permalink": "/troubleshoot/display",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/troubleshoot/display.md",
@@ -846,11 +846,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Troubleshoot: Sound",
-                "permalink": "/documentation/troubleshoot/sound"
+                "permalink": "/troubleshoot/sound"
               },
               "next": {
                 "title": "Packages",
-                "permalink": "/documentation/category/packages"
+                "permalink": "/category/packages"
               }
             },
             {
@@ -860,7 +860,7 @@
               "source": "@site/docs/troubleshoot/sound.md",
               "sourceDirName": "troubleshoot",
               "slug": "/troubleshoot/sound",
-              "permalink": "/documentation/troubleshoot/sound",
+              "permalink": "/troubleshoot/sound",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/troubleshoot/sound.md",
@@ -873,11 +873,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Troubleshoot: Bluetooth",
-                "permalink": "/documentation/troubleshoot/bluetooth"
+                "permalink": "/troubleshoot/bluetooth"
               },
               "next": {
                 "title": "Troubleshoot: Display",
-                "permalink": "/documentation/troubleshoot/display"
+                "permalink": "/troubleshoot/display"
               }
             },
             {
@@ -887,7 +887,7 @@
               "source": "@site/docs/troubleshoot/wifi.md",
               "sourceDirName": "troubleshoot",
               "slug": "/troubleshoot/wifi",
-              "permalink": "/documentation/troubleshoot/wifi",
+              "permalink": "/troubleshoot/wifi",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/troubleshoot/wifi.md",
@@ -900,11 +900,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Troubleshoot",
-                "permalink": "/documentation/category/troubleshoot"
+                "permalink": "/category/troubleshoot"
               },
               "next": {
                 "title": "Troubleshoot: Bluetooth",
-                "permalink": "/documentation/troubleshoot/bluetooth"
+                "permalink": "/troubleshoot/bluetooth"
               }
             },
             {
@@ -914,7 +914,7 @@
               "source": "@site/docs/user_guide/aur.md",
               "sourceDirName": "user_guide",
               "slug": "/user_guide/aur",
-              "permalink": "/documentation/user_guide/aur",
+              "permalink": "/user_guide/aur",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/user_guide/aur.md",
@@ -927,11 +927,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Cheetsheet/Shortcuts",
-                "permalink": "/documentation/user_guide/cheetsheet"
+                "permalink": "/user_guide/cheetsheet"
               },
               "next": {
                 "title": "Troubleshoot",
-                "permalink": "/documentation/category/troubleshoot"
+                "permalink": "/category/troubleshoot"
               }
             },
             {
@@ -941,7 +941,7 @@
               "source": "@site/docs/user_guide/cheetsheet.md",
               "sourceDirName": "user_guide",
               "slug": "/user_guide/cheetsheet",
-              "permalink": "/documentation/user_guide/cheetsheet",
+              "permalink": "/user_guide/cheetsheet",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/user_guide/cheetsheet.md",
@@ -954,11 +954,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "User Guide",
-                "permalink": "/documentation/category/user-guide"
+                "permalink": "/category/user-guide"
               },
               "next": {
                 "title": "Installing with AUR",
-                "permalink": "/documentation/user_guide/aur"
+                "permalink": "/user_guide/aur"
               }
             }
           ],
@@ -1000,7 +1000,7 @@
                   "type": "generated-index",
                   "description": "Let's get a short overview!",
                   "slug": "/category/introduction",
-                  "permalink": "/documentation/category/introduction"
+                  "permalink": "/category/introduction"
                 }
               },
               {
@@ -1026,7 +1026,7 @@
                   "type": "generated-index",
                   "description": "System Requirements!",
                   "slug": "/category/before-installation",
-                  "permalink": "/documentation/category/before-installation"
+                  "permalink": "/category/before-installation"
                 }
               },
               {
@@ -1068,7 +1068,7 @@
                   "type": "generated-index",
                   "description": "Installing Instruction",
                   "slug": "/category/installation",
-                  "permalink": "/documentation/category/installation"
+                  "permalink": "/category/installation"
                 }
               },
               {
@@ -1098,7 +1098,7 @@
                   "type": "generated-index",
                   "description": "After installing Snigdha OS",
                   "slug": "/category/post-installation",
-                  "permalink": "/documentation/category/post-installation"
+                  "permalink": "/category/post-installation"
                 }
               },
               {
@@ -1120,7 +1120,7 @@
                   "type": "generated-index",
                   "description": "User Manual",
                   "slug": "/category/user-guide",
-                  "permalink": "/documentation/category/user-guide"
+                  "permalink": "/category/user-guide"
                 }
               },
               {
@@ -1150,7 +1150,7 @@
                   "type": "generated-index",
                   "description": "Troubleshoot",
                   "slug": "/category/troubleshoot",
-                  "permalink": "/documentation/category/troubleshoot"
+                  "permalink": "/category/troubleshoot"
                 }
               },
               {
@@ -1172,7 +1172,7 @@
                   "type": "generated-index",
                   "description": "Troubleshoot",
                   "slug": "/category/packages",
-                  "permalink": "/documentation/category/packages"
+                  "permalink": "/category/packages"
                 }
               },
               {
@@ -1210,7 +1210,7 @@
                   "type": "generated-index",
                   "description": "This will guide on how to contribute to Snigdha OS as developer.",
                   "slug": "/category/developers-guide",
-                  "permalink": "/documentation/category/developers-guide"
+                  "permalink": "/category/developers-guide"
                 }
               },
               {
@@ -1228,7 +1228,7 @@
                   "type": "generated-index",
                   "description": "Troubleshoot",
                   "slug": "/category/tools",
-                  "permalink": "/documentation/category/tools"
+                  "permalink": "/category/tools"
                 }
               }
             ]
@@ -1244,7 +1244,7 @@
         {
           "id": "/effective_bug_report",
           "metadata": {
-            "permalink": "/documentation/blog/effective_bug_report",
+            "permalink": "/blog/effective_bug_report",
             "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/blog/effetive_bug_report.md",
             "source": "@site/blog/effetive_bug_report.md",
             "title": "Write Effective Bug Report",
@@ -1254,7 +1254,7 @@
             "tags": [
               {
                 "label": "bug",
-                "permalink": "/documentation/blog/tags/bug"
+                "permalink": "/blog/tags/bug"
               }
             ],
             "readingTime": 2.15,
@@ -1289,7 +1289,7 @@
             "/effective_bug_report"
           ],
           "metadata": {
-            "permalink": "/documentation/blog",
+            "permalink": "/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -1300,19 +1300,19 @@
         }
       ],
       "blogTags": {
-        "/documentation/blog/tags/bug": {
+        "/blog/tags/bug": {
           "label": "bug",
           "items": [
             "/effective_bug_report"
           ],
-          "permalink": "/documentation/blog/tags/bug",
+          "permalink": "/blog/tags/bug",
           "pages": [
             {
               "items": [
                 "/effective_bug_report"
               ],
               "metadata": {
-                "permalink": "/documentation/blog/tags/bug",
+                "permalink": "/blog/tags/bug",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -1325,14 +1325,14 @@
           "unlisted": false
         }
       },
-      "blogTagsListPath": "/documentation/blog/tags"
+      "blogTagsListPath": "/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "mdx",
-        "permalink": "/documentation/cookie-consent",
+        "permalink": "/cookie-consent",
         "source": "@site/src/pages/cookie-consent.md",
         "title": "Cookie Consent Policy",
         "description": "This Cookie Consent Policy explains how Snigdha OS uses cookies on Snigdha OS Forum. By using our Forum, you consent to the use of cookies as described in this policy.",
@@ -1344,7 +1344,7 @@
       },
       {
         "type": "mdx",
-        "permalink": "/documentation/markdown-page",
+        "permalink": "/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",
@@ -1355,7 +1355,7 @@
       },
       {
         "type": "mdx",
-        "permalink": "/documentation/privacy_policy",
+        "permalink": "/privacy_policy",
         "source": "@site/src/pages/privacy_policy.md",
         "title": "Privacy Policy",
         "description": "Privacy Policy",

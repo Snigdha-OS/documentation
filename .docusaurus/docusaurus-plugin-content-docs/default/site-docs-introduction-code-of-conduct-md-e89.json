@@ -5,7 +5,7 @@
   "source": "@site/docs/introduction/code_of_conduct.md",
   "sourceDirName": "introduction",
   "slug": "/introduction/code_of_conduct",
-  "permalink": "/documentation/introduction/code_of_conduct",
+  "permalink": "/introduction/code_of_conduct",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/introduction/code_of_conduct.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Inspiration",
-    "permalink": "/documentation/introduction/inspiration"
+    "permalink": "/introduction/inspiration"
   },
   "next": {
     "title": "Release Notes",
-    "permalink": "/documentation/introduction/release_notes"
+    "permalink": "/introduction/release_notes"
   }
 }

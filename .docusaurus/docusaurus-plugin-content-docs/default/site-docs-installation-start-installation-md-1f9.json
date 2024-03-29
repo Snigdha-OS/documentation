@@ -5,7 +5,7 @@
   "source": "@site/docs/installation/start_installation.md",
   "sourceDirName": "installation",
   "slug": "/installation/start_installation",
-  "permalink": "/documentation/installation/start_installation",
+  "permalink": "/installation/start_installation",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/installation/start_installation.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Online Installation",
-    "permalink": "/documentation/installation/online_install"
+    "permalink": "/installation/online_install"
   },
   "next": {
     "title": "Virtualbox",
-    "permalink": "/documentation/installation/virtualbox_installation"
+    "permalink": "/installation/virtualbox_installation"
   }
 }

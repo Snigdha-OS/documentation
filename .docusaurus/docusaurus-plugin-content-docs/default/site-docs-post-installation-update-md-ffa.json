@@ -5,7 +5,7 @@
   "source": "@site/docs/post_installation/update.md",
   "sourceDirName": "post_installation",
   "slug": "/post_installation/update",
-  "permalink": "/documentation/post_installation/update",
+  "permalink": "/post_installation/update",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/post_installation/update.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Language",
-    "permalink": "/documentation/post_installation/language"
+    "permalink": "/post_installation/language"
   },
   "next": {
     "title": "Customize Snigdha OS",
-    "permalink": "/documentation/post_installation/customization"
+    "permalink": "/post_installation/customization"
   }
 }

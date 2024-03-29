@@ -5,8 +5,8 @@
   "permalink": "/category/tools",
   "navigation": {
     "previous": {
-      "title": "Deploy Package",
-      "permalink": "/dev_guide/deploy_packages"
+      "title": "Install Keyrings",
+      "permalink": "/dev_guide/install_keyring"
     },
     "next": {
       "title": "Tool: DNS Enum",

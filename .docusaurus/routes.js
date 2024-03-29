@@ -3,353 +3,318 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/documentation/__docusaurus/debug',
-    component: ComponentCreator('/documentation/__docusaurus/debug', '043'),
+    path: '/blog',
+    component: ComponentCreator('/blog', '1d3'),
     exact: true
   },
   {
-    path: '/documentation/__docusaurus/debug/config',
-    component: ComponentCreator('/documentation/__docusaurus/debug/config', 'd32'),
+    path: '/blog/archive',
+    component: ComponentCreator('/blog/archive', 'b6a'),
     exact: true
   },
   {
-    path: '/documentation/__docusaurus/debug/content',
-    component: ComponentCreator('/documentation/__docusaurus/debug/content', 'f83'),
+    path: '/blog/effective_bug_report',
+    component: ComponentCreator('/blog/effective_bug_report', 'ab1'),
     exact: true
   },
   {
-    path: '/documentation/__docusaurus/debug/globalData',
-    component: ComponentCreator('/documentation/__docusaurus/debug/globalData', '599'),
+    path: '/blog/tags',
+    component: ComponentCreator('/blog/tags', '1c7'),
     exact: true
   },
   {
-    path: '/documentation/__docusaurus/debug/metadata',
-    component: ComponentCreator('/documentation/__docusaurus/debug/metadata', 'b41'),
+    path: '/blog/tags/bug',
+    component: ComponentCreator('/blog/tags/bug', '150'),
     exact: true
   },
   {
-    path: '/documentation/__docusaurus/debug/registry',
-    component: ComponentCreator('/documentation/__docusaurus/debug/registry', '12e'),
+    path: '/cookie-consent',
+    component: ComponentCreator('/cookie-consent', '02d'),
     exact: true
   },
   {
-    path: '/documentation/__docusaurus/debug/routes',
-    component: ComponentCreator('/documentation/__docusaurus/debug/routes', '073'),
+    path: '/markdown-page',
+    component: ComponentCreator('/markdown-page', '9e6'),
     exact: true
   },
   {
-    path: '/documentation/blog',
-    component: ComponentCreator('/documentation/blog', '5bc'),
+    path: '/privacy_policy',
+    component: ComponentCreator('/privacy_policy', 'aa5'),
     exact: true
   },
   {
-    path: '/documentation/blog/archive',
-    component: ComponentCreator('/documentation/blog/archive', 'ea7'),
-    exact: true
-  },
-  {
-    path: '/documentation/blog/effective_bug_report',
-    component: ComponentCreator('/documentation/blog/effective_bug_report', '386'),
-    exact: true
-  },
-  {
-    path: '/documentation/blog/tags',
-    component: ComponentCreator('/documentation/blog/tags', 'e85'),
-    exact: true
-  },
-  {
-    path: '/documentation/blog/tags/bug',
-    component: ComponentCreator('/documentation/blog/tags/bug', 'cf7'),
-    exact: true
-  },
-  {
-    path: '/documentation/cookie-consent',
-    component: ComponentCreator('/documentation/cookie-consent', '24a'),
-    exact: true
-  },
-  {
-    path: '/documentation/markdown-page',
-    component: ComponentCreator('/documentation/markdown-page', '89b'),
-    exact: true
-  },
-  {
-    path: '/documentation/privacy_policy',
-    component: ComponentCreator('/documentation/privacy_policy', '4b3'),
-    exact: true
-  },
-  {
-    path: '/documentation/',
-    component: ComponentCreator('/documentation/', '615'),
+    path: '/',
+    component: ComponentCreator('/', 'b62'),
     routes: [
       {
-        path: '/documentation/',
-        component: ComponentCreator('/documentation/', 'a9f'),
+        path: '/',
+        component: ComponentCreator('/', '4cb'),
         routes: [
           {
-            path: '/documentation/',
-            component: ComponentCreator('/documentation/', '951'),
+            path: '/',
+            component: ComponentCreator('/', '8af'),
             routes: [
               {
-                path: '/documentation/before_installation/imporatnt_notes',
-                component: ComponentCreator('/documentation/before_installation/imporatnt_notes', '89a'),
+                path: '/before_installation/imporatnt_notes',
+                component: ComponentCreator('/before_installation/imporatnt_notes', '582'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/before_installation/internet_connection',
-                component: ComponentCreator('/documentation/before_installation/internet_connection', 'fae'),
+                path: '/before_installation/internet_connection',
+                component: ComponentCreator('/before_installation/internet_connection', 'e08'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/before_installation/system_requirements',
-                component: ComponentCreator('/documentation/before_installation/system_requirements', '65d'),
+                path: '/before_installation/system_requirements',
+                component: ComponentCreator('/before_installation/system_requirements', 'f69'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/category/before-installation',
-                component: ComponentCreator('/documentation/category/before-installation', '3ba'),
+                path: '/category/before-installation',
+                component: ComponentCreator('/category/before-installation', '155'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/category/developers-guide',
-                component: ComponentCreator('/documentation/category/developers-guide', '73b'),
+                path: '/category/developers-guide',
+                component: ComponentCreator('/category/developers-guide', 'e85'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/category/installation',
-                component: ComponentCreator('/documentation/category/installation', '665'),
+                path: '/category/installation',
+                component: ComponentCreator('/category/installation', '264'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/category/introduction',
-                component: ComponentCreator('/documentation/category/introduction', '2cc'),
+                path: '/category/introduction',
+                component: ComponentCreator('/category/introduction', '69c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/category/packages',
-                component: ComponentCreator('/documentation/category/packages', '0e6'),
+                path: '/category/packages',
+                component: ComponentCreator('/category/packages', '435'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/category/post-installation',
-                component: ComponentCreator('/documentation/category/post-installation', 'ee0'),
+                path: '/category/post-installation',
+                component: ComponentCreator('/category/post-installation', '72c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/category/tools',
-                component: ComponentCreator('/documentation/category/tools', 'a35'),
+                path: '/category/tools',
+                component: ComponentCreator('/category/tools', 'f66'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/category/troubleshoot',
-                component: ComponentCreator('/documentation/category/troubleshoot', '11b'),
+                path: '/category/troubleshoot',
+                component: ComponentCreator('/category/troubleshoot', '23d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/category/user-guide',
-                component: ComponentCreator('/documentation/category/user-guide', 'd5c'),
+                path: '/category/user-guide',
+                component: ComponentCreator('/category/user-guide', 'dc1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/dev_guide/build_source',
-                component: ComponentCreator('/documentation/dev_guide/build_source', '81a'),
+                path: '/dev_guide/build_source',
+                component: ComponentCreator('/dev_guide/build_source', '490'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/dev_guide/deploy_packages',
-                component: ComponentCreator('/documentation/dev_guide/deploy_packages', '61f'),
+                path: '/dev_guide/deploy_packages',
+                component: ComponentCreator('/dev_guide/deploy_packages', '8ae'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/dev_guide/gpg_key',
-                component: ComponentCreator('/documentation/dev_guide/gpg_key', 'd30'),
+                path: '/dev_guide/gpg_key',
+                component: ComponentCreator('/dev_guide/gpg_key', '986'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/dev_guide/install_keyring',
-                component: ComponentCreator('/documentation/dev_guide/install_keyring', '6ef'),
+                path: '/dev_guide/install_keyring',
+                component: ComponentCreator('/dev_guide/install_keyring', 'ef9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/dev_guide/pkgbuild',
-                component: ComponentCreator('/documentation/dev_guide/pkgbuild', '393'),
+                path: '/dev_guide/pkgbuild',
+                component: ComponentCreator('/dev_guide/pkgbuild', '69d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/dev_guide/write',
-                component: ComponentCreator('/documentation/dev_guide/write', '856'),
+                path: '/dev_guide/write',
+                component: ComponentCreator('/dev_guide/write', '982'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/installation/download_snigdha_os',
-                component: ComponentCreator('/documentation/installation/download_snigdha_os', '369'),
+                path: '/installation/download_snigdha_os',
+                component: ComponentCreator('/installation/download_snigdha_os', 'bf6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/installation/live_env',
-                component: ComponentCreator('/documentation/installation/live_env', 'd25'),
+                path: '/installation/live_env',
+                component: ComponentCreator('/installation/live_env', '47b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/installation/making_bootable_usb',
-                component: ComponentCreator('/documentation/installation/making_bootable_usb', '298'),
+                path: '/installation/making_bootable_usb',
+                component: ComponentCreator('/installation/making_bootable_usb', '814'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/installation/offline_install',
-                component: ComponentCreator('/documentation/installation/offline_install', '274'),
+                path: '/installation/offline_install',
+                component: ComponentCreator('/installation/offline_install', 'b05'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/installation/online_install',
-                component: ComponentCreator('/documentation/installation/online_install', 'c8a'),
+                path: '/installation/online_install',
+                component: ComponentCreator('/installation/online_install', '426'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/installation/start_installation',
-                component: ComponentCreator('/documentation/installation/start_installation', '0d4'),
+                path: '/installation/start_installation',
+                component: ComponentCreator('/installation/start_installation', 'f06'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/installation/virtualbox_installation',
-                component: ComponentCreator('/documentation/installation/virtualbox_installation', 'f71'),
+                path: '/installation/virtualbox_installation',
+                component: ComponentCreator('/installation/virtualbox_installation', '082'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/introduction/code_of_conduct',
-                component: ComponentCreator('/documentation/introduction/code_of_conduct', '1f7'),
+                path: '/introduction/code_of_conduct',
+                component: ComponentCreator('/introduction/code_of_conduct', '928'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/introduction/faqs',
-                component: ComponentCreator('/documentation/introduction/faqs', '7af'),
+                path: '/introduction/faqs',
+                component: ComponentCreator('/introduction/faqs', '6c6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/introduction/inspiration',
-                component: ComponentCreator('/documentation/introduction/inspiration', '67a'),
+                path: '/introduction/inspiration',
+                component: ComponentCreator('/introduction/inspiration', 'f06'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/introduction/release_notes',
-                component: ComponentCreator('/documentation/introduction/release_notes', '590'),
+                path: '/introduction/release_notes',
+                component: ComponentCreator('/introduction/release_notes', '94b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/introduction/reporting_bugs',
-                component: ComponentCreator('/documentation/introduction/reporting_bugs', '974'),
+                path: '/introduction/reporting_bugs',
+                component: ComponentCreator('/introduction/reporting_bugs', 'e67'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/packages/snigdhaos_blackbox',
-                component: ComponentCreator('/documentation/packages/snigdhaos_blackbox', '3e9'),
+                path: '/packages/snigdhaos_blackbox',
+                component: ComponentCreator('/packages/snigdhaos_blackbox', '7b3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/packages/snigdhaos_welcome',
-                component: ComponentCreator('/documentation/packages/snigdhaos_welcome', 'e46'),
+                path: '/packages/snigdhaos_welcome',
+                component: ComponentCreator('/packages/snigdhaos_welcome', 'cc0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/post_installation/customization',
-                component: ComponentCreator('/documentation/post_installation/customization', '35c'),
+                path: '/post_installation/customization',
+                component: ComponentCreator('/post_installation/customization', 'a4c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/post_installation/install_packages',
-                component: ComponentCreator('/documentation/post_installation/install_packages', '557'),
+                path: '/post_installation/install_packages',
+                component: ComponentCreator('/post_installation/install_packages', '44f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/post_installation/language',
-                component: ComponentCreator('/documentation/post_installation/language', '861'),
+                path: '/post_installation/language',
+                component: ComponentCreator('/post_installation/language', '88a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/post_installation/update',
-                component: ComponentCreator('/documentation/post_installation/update', 'bd0'),
+                path: '/post_installation/update',
+                component: ComponentCreator('/post_installation/update', '96f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/tools/dns',
-                component: ComponentCreator('/documentation/tools/dns', '2cf'),
+                path: '/tools/dns',
+                component: ComponentCreator('/tools/dns', '5cd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/troubleshoot/bluetooth',
-                component: ComponentCreator('/documentation/troubleshoot/bluetooth', '269'),
+                path: '/troubleshoot/bluetooth',
+                component: ComponentCreator('/troubleshoot/bluetooth', '833'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/troubleshoot/display',
-                component: ComponentCreator('/documentation/troubleshoot/display', '9c2'),
+                path: '/troubleshoot/display',
+                component: ComponentCreator('/troubleshoot/display', 'd0c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/troubleshoot/sound',
-                component: ComponentCreator('/documentation/troubleshoot/sound', '004'),
+                path: '/troubleshoot/sound',
+                component: ComponentCreator('/troubleshoot/sound', '86c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/troubleshoot/wifi',
-                component: ComponentCreator('/documentation/troubleshoot/wifi', '8fc'),
+                path: '/troubleshoot/wifi',
+                component: ComponentCreator('/troubleshoot/wifi', '819'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/user_guide/aur',
-                component: ComponentCreator('/documentation/user_guide/aur', '9b0'),
+                path: '/user_guide/aur',
+                component: ComponentCreator('/user_guide/aur', '84e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/user_guide/cheetsheet',
-                component: ComponentCreator('/documentation/user_guide/cheetsheet', '1e9'),
+                path: '/user_guide/cheetsheet',
+                component: ComponentCreator('/user_guide/cheetsheet', '580'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/',
-                component: ComponentCreator('/documentation/', '622'),
+                path: '/',
+                component: ComponentCreator('/', 'e43'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

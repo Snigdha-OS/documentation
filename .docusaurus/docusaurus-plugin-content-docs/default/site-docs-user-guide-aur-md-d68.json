@@ -5,7 +5,7 @@
   "source": "@site/docs/user_guide/aur.md",
   "sourceDirName": "user_guide",
   "slug": "/user_guide/aur",
-  "permalink": "/documentation/user_guide/aur",
+  "permalink": "/user_guide/aur",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/user_guide/aur.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Cheetsheet/Shortcuts",
-    "permalink": "/documentation/user_guide/cheetsheet"
+    "permalink": "/user_guide/cheetsheet"
   },
   "next": {
     "title": "Troubleshoot",
-    "permalink": "/documentation/category/troubleshoot"
+    "permalink": "/category/troubleshoot"
   }
 }

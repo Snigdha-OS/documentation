@@ -5,7 +5,7 @@
   "source": "@site/docs/introduction/reporting_bugs.md",
   "sourceDirName": "introduction",
   "slug": "/introduction/reporting_bugs",
-  "permalink": "/documentation/introduction/reporting_bugs",
+  "permalink": "/introduction/reporting_bugs",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/introduction/reporting_bugs.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Release Notes",
-    "permalink": "/documentation/introduction/release_notes"
+    "permalink": "/introduction/release_notes"
   },
   "next": {
     "title": "Frequently Asked",
-    "permalink": "/documentation/introduction/faqs"
+    "permalink": "/introduction/faqs"
   }
 }

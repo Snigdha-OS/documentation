@@ -5,7 +5,7 @@
   "source": "@site/docs/troubleshoot/display.md",
   "sourceDirName": "troubleshoot",
   "slug": "/troubleshoot/display",
-  "permalink": "/documentation/troubleshoot/display",
+  "permalink": "/troubleshoot/display",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/troubleshoot/display.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Troubleshoot: Sound",
-    "permalink": "/documentation/troubleshoot/sound"
+    "permalink": "/troubleshoot/sound"
   },
   "next": {
     "title": "Packages",
-    "permalink": "/documentation/category/packages"
+    "permalink": "/category/packages"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/troubleshoot/bluetooth.md",
   "sourceDirName": "troubleshoot",
   "slug": "/troubleshoot/bluetooth",
-  "permalink": "/documentation/troubleshoot/bluetooth",
+  "permalink": "/troubleshoot/bluetooth",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/troubleshoot/bluetooth.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Troubleshoot: Wifi",
-    "permalink": "/documentation/troubleshoot/wifi"
+    "permalink": "/troubleshoot/wifi"
   },
   "next": {
     "title": "Troubleshoot: Sound",
-    "permalink": "/documentation/troubleshoot/sound"
+    "permalink": "/troubleshoot/sound"
   }
 }

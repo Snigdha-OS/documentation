@@ -5,7 +5,7 @@
   "source": "@site/docs/before_installation/internet_connection.md",
   "sourceDirName": "before_installation",
   "slug": "/before_installation/internet_connection",
-  "permalink": "/documentation/before_installation/internet_connection",
+  "permalink": "/before_installation/internet_connection",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/before_installation/internet_connection.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Important Notes",
-    "permalink": "/documentation/before_installation/imporatnt_notes"
+    "permalink": "/before_installation/imporatnt_notes"
   },
   "next": {
     "title": "Installation",
-    "permalink": "/documentation/category/installation"
+    "permalink": "/category/installation"
   }
 }

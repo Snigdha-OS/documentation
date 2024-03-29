@@ -5,7 +5,7 @@
   "source": "@site/docs/packages/snigdhaos_welcome.md",
   "sourceDirName": "packages",
   "slug": "/packages/snigdhaos_welcome",
-  "permalink": "/documentation/packages/snigdhaos_welcome",
+  "permalink": "/packages/snigdhaos_welcome",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/packages/snigdhaos_welcome.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Packages",
-    "permalink": "/documentation/category/packages"
+    "permalink": "/category/packages"
   },
   "next": {
     "title": "Blackbox",
-    "permalink": "/documentation/packages/snigdhaos_blackbox"
+    "permalink": "/packages/snigdhaos_blackbox"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/installation/download_snigdha_os.md",
   "sourceDirName": "installation",
   "slug": "/installation/download_snigdha_os",
-  "permalink": "/documentation/installation/download_snigdha_os",
+  "permalink": "/installation/download_snigdha_os",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/installation/download_snigdha_os.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Installation",
-    "permalink": "/documentation/category/installation"
+    "permalink": "/category/installation"
   },
   "next": {
     "title": "Make Bootable USB",
-    "permalink": "/documentation/installation/making_bootable_usb"
+    "permalink": "/installation/making_bootable_usb"
   }
 }
