@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://docs.snigdhaos.org/blog</id>
+    <id>https://snigdhaos.org/documentation/blog</id>
     <title>SNIGDHA OS - DOCS Blog</title>
     <updated>2024-03-25T02:20:39.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://docs.snigdhaos.org/blog"/>
+    <link rel="alternate" href="https://snigdhaos.org/documentation/blog"/>
     <subtitle>SNIGDHA OS - DOCS Blog</subtitle>
-    <icon>https://docs.snigdhaos.org/img/snigdhaos-icon.ico</icon>
+    <icon>https://snigdhaos.org/documentation/img/snigdhaos-icon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Write Effective Bug Report]]></title>
-        <id>https://docs.snigdhaos.org/blog/effective_bug_report</id>
-        <link href="https://docs.snigdhaos.org/blog/effective_bug_report"/>
+        <id>https://snigdhaos.org/documentation/blog/effective_bug_report</id>
+        <link href="https://snigdhaos.org/documentation/blog/effective_bug_report"/>
         <updated>2024-03-25T02:20:39.000Z</updated>
         <summary type="html"><![CDATA[Writing an effective bug report is crucial for helping developers understand, reproduce, and ultimately fix the issue. Here's a step-by-step guide on how to write an effective bug report:]]></summary>
         <content type="html"><![CDATA[<p>Writing an effective bug report is crucial for helping developers understand, reproduce, and ultimately fix the issue. Here's a step-by-step guide on how to write an effective bug report:</p>

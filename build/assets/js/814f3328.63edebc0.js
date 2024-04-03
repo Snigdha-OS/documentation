@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocuments=self.webpackChunkdocuments||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Write Effective Bug Report","permalink":"/blog/effective_bug_report","unlisted":false}]}')}}]);
