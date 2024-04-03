@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>SNIGDHA OS - DOCS Blog</title>
-        <link>https://docs.snigdhaos.org/documentation/blog</link>
+        <link>https://snigdhaos.org/documentation/blog</link>
         <description>SNIGDHA OS - DOCS Blog</description>
         <lastBuildDate>Mon, 25 Mar 2024 02:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Write Effective Bug Report]]></title>
-            <link>https://docs.snigdhaos.org/documentation/blog/effective_bug_report</link>
-            <guid>https://docs.snigdhaos.org/documentation/blog/effective_bug_report</guid>
+            <link>https://snigdhaos.org/documentation/blog/effective_bug_report</link>
+            <guid>https://snigdhaos.org/documentation/blog/effective_bug_report</guid>
             <pubDate>Mon, 25 Mar 2024 02:20:39 GMT</pubDate>
             <description><![CDATA[Writing an effective bug report is crucial for helping developers understand, reproduce, and ultimately fix the issue. Here's a step-by-step guide on how to write an effective bug report:]]></description>
             <content:encoded><![CDATA[<p>Writing an effective bug report is crucial for helping developers understand, reproduce, and ultimately fix the issue. Here's a step-by-step guide on how to write an effective bug report:</p>
