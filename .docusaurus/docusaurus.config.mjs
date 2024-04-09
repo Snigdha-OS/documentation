@@ -9,7 +9,6 @@ export default {
   "favicon": "img/snigdhaos-icon.ico",
   "url": "https://snigdhaos.org",
   "baseUrl": "/documentation/",
-  "trailingSlash": false,
   "organizationName": "snigdha-os",
   "projectName": "documentation",
   "onBrokenLinks": "throw",
