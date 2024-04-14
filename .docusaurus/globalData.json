@@ -96,6 +96,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "introduction/contributing",
+              "path": "/documentation/introduction/contributing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "introduction/faqs",
               "path": "/documentation/introduction/faqs",
               "sidebar": "tutorialSidebar"

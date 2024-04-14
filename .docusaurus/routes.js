@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/documentation/__docusaurus/debug',
+    component: ComponentCreator('/documentation/__docusaurus/debug', '043'),
+    exact: true
+  },
+  {
+    path: '/documentation/__docusaurus/debug/config',
+    component: ComponentCreator('/documentation/__docusaurus/debug/config', 'd32'),
+    exact: true
+  },
+  {
+    path: '/documentation/__docusaurus/debug/content',
+    component: ComponentCreator('/documentation/__docusaurus/debug/content', 'f83'),
+    exact: true
+  },
+  {
+    path: '/documentation/__docusaurus/debug/globalData',
+    component: ComponentCreator('/documentation/__docusaurus/debug/globalData', '599'),
+    exact: true
+  },
+  {
+    path: '/documentation/__docusaurus/debug/metadata',
+    component: ComponentCreator('/documentation/__docusaurus/debug/metadata', 'b41'),
+    exact: true
+  },
+  {
+    path: '/documentation/__docusaurus/debug/registry',
+    component: ComponentCreator('/documentation/__docusaurus/debug/registry', '12e'),
+    exact: true
+  },
+  {
+    path: '/documentation/__docusaurus/debug/routes',
+    component: ComponentCreator('/documentation/__docusaurus/debug/routes', '073'),
+    exact: true
+  },
+  {
     path: '/documentation/blog',
     component: ComponentCreator('/documentation/blog', '5bc'),
     exact: true
@@ -44,15 +79,15 @@ export default [
   },
   {
     path: '/documentation/',
-    component: ComponentCreator('/documentation/', '615'),
+    component: ComponentCreator('/documentation/', '9ab'),
     routes: [
       {
         path: '/documentation/',
-        component: ComponentCreator('/documentation/', 'a9f'),
+        component: ComponentCreator('/documentation/', '404'),
         routes: [
           {
             path: '/documentation/',
-            component: ComponentCreator('/documentation/', '951'),
+            component: ComponentCreator('/documentation/', '0b8'),
             routes: [
               {
                 path: '/documentation/before_installation/imporatnt_notes',
@@ -207,6 +242,12 @@ export default [
               {
                 path: '/documentation/introduction/code_of_conduct',
                 component: ComponentCreator('/documentation/introduction/code_of_conduct', '1f7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/introduction/contributing',
+                component: ComponentCreator('/documentation/introduction/contributing', '2c1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

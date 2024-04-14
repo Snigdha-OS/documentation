@@ -479,6 +479,33 @@
               }
             },
             {
+              "id": "introduction/contributing",
+              "title": "Code Contribution Guidelines",
+              "description": "Thank you for considering contributing to Snigdha OS! We welcome contributions from everyone.",
+              "source": "@site/docs/introduction/contributing.md",
+              "sourceDirName": "introduction",
+              "slug": "/introduction/contributing",
+              "permalink": "/documentation/introduction/contributing",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/introduction/contributing.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Frequently Asked",
+                "permalink": "/documentation/introduction/faqs"
+              },
+              "next": {
+                "title": "Before Installation",
+                "permalink": "/documentation/category/before-installation"
+              }
+            },
+            {
               "id": "introduction/faqs",
               "title": "Frequently Asked",
               "description": "Here are some frequently asked questions (FAQs) about Snigdha OS (penetration distribution):",
@@ -501,8 +528,8 @@
                 "permalink": "/documentation/introduction/reporting_bugs"
               },
               "next": {
-                "title": "Before Installation",
-                "permalink": "/documentation/category/before-installation"
+                "title": "Code Contribution Guidelines",
+                "permalink": "/documentation/introduction/contributing"
               }
             },
             {
@@ -994,6 +1021,10 @@
                   {
                     "type": "doc",
                     "id": "introduction/faqs"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "introduction/contributing"
                   }
                 ],
                 "link": {

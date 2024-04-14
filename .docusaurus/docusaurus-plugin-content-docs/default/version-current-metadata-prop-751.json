@@ -56,6 +56,13 @@
             "href": "/documentation/introduction/faqs",
             "docId": "introduction/faqs",
             "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Code Contribution Guidelines",
+            "href": "/documentation/introduction/contributing",
+            "docId": "introduction/contributing",
+            "unlisted": false
           }
         ],
         "href": "/documentation/category/introduction"
@@ -438,6 +445,12 @@
       "id": "introduction/code_of_conduct",
       "title": "Code Of Conduct",
       "description": "A code of conduct outlines expected behavior and guidelines for individuals within a specific community, organization, or group.",
+      "sidebar": "tutorialSidebar"
+    },
+    "introduction/contributing": {
+      "id": "introduction/contributing",
+      "title": "Code Contribution Guidelines",
+      "description": "Thank you for considering contributing to Snigdha OS! We welcome contributions from everyone.",
       "sidebar": "tutorialSidebar"
     },
     "introduction/faqs": {

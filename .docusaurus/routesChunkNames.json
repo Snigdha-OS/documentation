@@ -1,262 +1,309 @@
 {
-  "/documentation/blog-5bc": {
-    "__comp": "a6aa9e1f",
+  "/documentation/__docusaurus/debug-043": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "490569e1"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "ec4024f9"
-      }
-    ],
-    "metadata": "14e72bca"
-  },
-  "/documentation/blog/archive-ea7": {
-    "__comp": "9e4087bc",
-    "__context": {
-      "plugin": "490569e1"
-    },
-    "archive": "eda3af29"
-  },
-  "/documentation/blog/effective_bug_report-386": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "490569e1"
-    },
-    "sidebar": "814f3328",
-    "content": "f7392c07"
-  },
-  "/documentation/blog/tags-e85": {
-    "__comp": "01a85c17",
-    "__context": {
-      "plugin": "490569e1"
-    },
-    "sidebar": "814f3328",
-    "tags": "67391c37"
-  },
-  "/documentation/blog/tags/bug-cf7": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "490569e1"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "ec4024f9"
-      }
-    ],
-    "tag": "7909fc73",
-    "listMetadata": "1c0d73a2"
-  },
-  "/documentation/cookie-consent-24a": {
-    "__comp": "1f391b9e",
-    "__context": {
-      "plugin": "c52926df"
-    },
-    "content": "21abdd8f"
-  },
-  "/documentation/markdown-page-89b": {
-    "__comp": "1f391b9e",
-    "__context": {
-      "plugin": "c52926df"
-    },
-    "content": "393be207"
-  },
-  "/documentation/privacy_policy-4b3": {
-    "__comp": "1f391b9e",
-    "__context": {
-      "plugin": "c52926df"
-    },
-    "content": "fbb85ca9"
-  },
-  "/documentation/-615": {
-    "__comp": "5e95c892",
-    "__context": {
-      "plugin": "99b9486b"
+      "plugin": "plugin---documentation-docusaurus-debuge-3-a-69b"
     }
   },
-  "/documentation/-a9f": {
-    "__comp": "a7bd4aaa",
-    "version": "935f2afb"
+  "/documentation/__docusaurus/debug/config-d32": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---documentation-docusaurus-debuge-3-a-69b"
+    }
   },
-  "/documentation/-951": {
-    "__comp": "a94703ab"
+  "/documentation/__docusaurus/debug/content-f83": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---documentation-docusaurus-debuge-3-a-69b"
+    },
+    "allContent": "allContent---documentation-docusaurus-debug-content-246-1fc"
+  },
+  "/documentation/__docusaurus/debug/globalData-599": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---documentation-docusaurus-debuge-3-a-69b"
+    }
+  },
+  "/documentation/__docusaurus/debug/metadata-b41": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---documentation-docusaurus-debuge-3-a-69b"
+    }
+  },
+  "/documentation/__docusaurus/debug/registry-12e": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---documentation-docusaurus-debuge-3-a-69b"
+    }
+  },
+  "/documentation/__docusaurus/debug/routes-073": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---documentation-docusaurus-debuge-3-a-69b"
+    }
+  },
+  "/documentation/blog-5bc": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---documentation-blog-490-fb4"
+    },
+    "sidebar": "sidebar---documentation-blog-814-bc6",
+    "items": [
+      {
+        "content": "content---documentation-blogec-4-500"
+      }
+    ],
+    "metadata": "metadata---documentation-blog-14-e-a5c"
+  },
+  "/documentation/blog/archive-ea7": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---documentation-blog-490-fb4"
+    },
+    "archive": "archive---documentation-blog-archiveeda-964"
+  },
+  "/documentation/blog/effective_bug_report-386": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---documentation-blog-490-fb4"
+    },
+    "sidebar": "sidebar---documentation-blog-814-bc6",
+    "content": "content---documentation-blog-effective-bug-reportf-73-529"
+  },
+  "/documentation/blog/tags-e85": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---documentation-blog-490-fb4"
+    },
+    "sidebar": "sidebar---documentation-blog-814-bc6",
+    "tags": "tags---documentation-blog-tags-673-362"
+  },
+  "/documentation/blog/tags/bug-cf7": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---documentation-blog-490-fb4"
+    },
+    "sidebar": "sidebar---documentation-blog-814-bc6",
+    "items": [
+      {
+        "content": "content---documentation-blogec-4-500"
+      }
+    ],
+    "tag": "tag---documentation-blog-tags-bug-790-80d",
+    "listMetadata": "listMetadata---documentation-blog-tags-bug-1-c-0-91c"
+  },
+  "/documentation/cookie-consent-24a": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---documentation-cookie-consentc-52-818"
+    },
+    "content": "content---documentation-cookie-consent-21-a-25e"
+  },
+  "/documentation/markdown-page-89b": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---documentation-cookie-consentc-52-818"
+    },
+    "content": "content---documentation-markdown-page-393-bce"
+  },
+  "/documentation/privacy_policy-4b3": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---documentation-cookie-consentc-52-818"
+    },
+    "content": "content---documentation-privacy-policyfbb-0dc"
+  },
+  "/documentation/-9ab": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---documentation-99-b-b0a"
+    }
+  },
+  "/documentation/-404": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---documentation-935-548"
+  },
+  "/documentation/-0b8": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/documentation/before_installation/imporatnt_notes-89a": {
-    "__comp": "17896441",
-    "content": "b9c524af"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-before-installation-imporatnt-notesb-9-c-8d1"
   },
   "/documentation/before_installation/internet_connection-fae": {
-    "__comp": "17896441",
-    "content": "374f080d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-before-installation-internet-connection-374-962"
   },
   "/documentation/before_installation/system_requirements-65d": {
-    "__comp": "17896441",
-    "content": "143ddb83"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-before-installation-system-requirements-143-bf9"
   },
   "/documentation/category/before-installation-3ba": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "5d63bb5c"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-category-before-installation-5-d-6-c35"
   },
   "/documentation/category/developers-guide-73b": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "06ee4edd"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-category-developers-guide-06-e-997"
   },
   "/documentation/category/installation-665": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "b20c3152"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-category-installationb-20-365"
   },
   "/documentation/category/introduction-2cc": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "ccd1ff3c"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-category-introductionccd-ede"
   },
   "/documentation/category/packages-0e6": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "9096837d"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-category-packages-909-692"
   },
   "/documentation/category/post-installation-ee0": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "e541c1c2"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-category-post-installatione-54-a22"
   },
   "/documentation/category/tools-a35": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "96b21efb"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-category-tools-96-b-75a"
   },
   "/documentation/category/troubleshoot-11b": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "de6c38e6"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-category-troubleshootde-6-666"
   },
   "/documentation/category/user-guide-d5c": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "69817ecd"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-category-user-guide-698-266"
   },
   "/documentation/dev_guide/build_source-81a": {
-    "__comp": "17896441",
-    "content": "9dcbbb0d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-dev-guide-build-source-9-dc-909"
   },
   "/documentation/dev_guide/deploy_packages-61f": {
-    "__comp": "17896441",
-    "content": "043e14d3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-dev-guide-deploy-packages-043-bee"
   },
   "/documentation/dev_guide/gpg_key-d30": {
-    "__comp": "17896441",
-    "content": "89ebda57"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-dev-guide-gpg-key-89-e-a96"
   },
   "/documentation/dev_guide/install_keyring-6ef": {
-    "__comp": "17896441",
-    "content": "404ec107"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-dev-guide-install-keyring-404-6d6"
   },
   "/documentation/dev_guide/pkgbuild-393": {
-    "__comp": "17896441",
-    "content": "66ee5a7d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-dev-guide-pkgbuild-66-e-684"
   },
   "/documentation/dev_guide/write-856": {
-    "__comp": "17896441",
-    "content": "ec3de22d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-dev-guide-writeec-3-564"
   },
   "/documentation/installation/download_snigdha_os-369": {
-    "__comp": "17896441",
-    "content": "34e267cb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-installation-download-snigdha-os-34-e-4c4"
   },
   "/documentation/installation/live_env-d25": {
-    "__comp": "17896441",
-    "content": "795cfaa5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-installation-live-env-795-073"
   },
   "/documentation/installation/making_bootable_usb-298": {
-    "__comp": "17896441",
-    "content": "b85d3565"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-installation-making-bootable-usbb-85-7c0"
   },
   "/documentation/installation/offline_install-274": {
-    "__comp": "17896441",
-    "content": "3f32b921"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-installation-offline-install-3-f-3-886"
   },
   "/documentation/installation/online_install-c8a": {
-    "__comp": "17896441",
-    "content": "151aa183"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-installation-online-install-151-611"
   },
   "/documentation/installation/start_installation-0d4": {
-    "__comp": "17896441",
-    "content": "1f9d4574"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-installation-start-installation-1-f-9-afb"
   },
   "/documentation/installation/virtualbox_installation-f71": {
-    "__comp": "17896441",
-    "content": "24e7cd5a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-installation-virtualbox-installation-24-e-096"
   },
   "/documentation/introduction/code_of_conduct-1f7": {
-    "__comp": "17896441",
-    "content": "e89f4dea"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-introduction-code-of-conducte-89-ce5"
+  },
+  "/documentation/introduction/contributing-2c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-introduction-contributing-556-194"
   },
   "/documentation/introduction/faqs-7af": {
-    "__comp": "17896441",
-    "content": "b19634de"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-introduction-faqsb-19-00b"
   },
   "/documentation/introduction/inspiration-67a": {
-    "__comp": "17896441",
-    "content": "d79d4c97"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-introduction-inspirationd-79-e9a"
   },
   "/documentation/introduction/release_notes-590": {
-    "__comp": "17896441",
-    "content": "1b1ff061"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-introduction-release-notes-1-b-1-d2e"
   },
   "/documentation/introduction/reporting_bugs-974": {
-    "__comp": "17896441",
-    "content": "dc87ea58"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-introduction-reporting-bugsdc-8-ae1"
   },
   "/documentation/packages/snigdhaos_blackbox-3e9": {
-    "__comp": "17896441",
-    "content": "bbd9b434"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-packages-snigdhaos-blackboxbbd-050"
   },
   "/documentation/packages/snigdhaos_welcome-e46": {
-    "__comp": "17896441",
-    "content": "400546c3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-packages-snigdhaos-welcome-400-dfa"
   },
   "/documentation/post_installation/customization-35c": {
-    "__comp": "17896441",
-    "content": "9cb882f2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-post-installation-customization-9-cb-3c6"
   },
   "/documentation/post_installation/install_packages-557": {
-    "__comp": "17896441",
-    "content": "904c2b3c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-post-installation-install-packages-904-e99"
   },
   "/documentation/post_installation/language-861": {
-    "__comp": "17896441",
-    "content": "ad749202"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-post-installation-languagead-7-478"
   },
   "/documentation/post_installation/update-bd0": {
-    "__comp": "17896441",
-    "content": "ffa2682b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-post-installation-updateffa-74d"
   },
   "/documentation/tools/dns-2cf": {
-    "__comp": "17896441",
-    "content": "ce85b788"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-tools-dnsce-8-3f9"
   },
   "/documentation/troubleshoot/bluetooth-269": {
-    "__comp": "17896441",
-    "content": "0b7de297"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-troubleshoot-bluetooth-0-b-7-15c"
   },
   "/documentation/troubleshoot/display-9c2": {
-    "__comp": "17896441",
-    "content": "e2e7c0ac"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-troubleshoot-displaye-2-e-7de"
   },
   "/documentation/troubleshoot/sound-004": {
-    "__comp": "17896441",
-    "content": "9dc2651c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-troubleshoot-sound-9-dc-cb6"
   },
   "/documentation/troubleshoot/wifi-8fc": {
-    "__comp": "17896441",
-    "content": "36717f71"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-troubleshoot-wifi-367-035"
   },
   "/documentation/user_guide/aur-9b0": {
-    "__comp": "17896441",
-    "content": "d68f1e45"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-user-guide-aurd-68-18b"
   },
   "/documentation/user_guide/cheetsheet-1e9": {
-    "__comp": "17896441",
-    "content": "f7a81d3a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-user-guide-cheetsheetf-7-a-048"
   },
   "/documentation/-622": {
-    "__comp": "17896441",
-    "content": "c62485b9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-c-62-f16"
   }
 }
