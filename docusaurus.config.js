@@ -75,13 +75,6 @@ const config = {
           src: 'img/Doc.svg',
         },
         items: [
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'tutorialSidebar',
-          //   position: 'left',
-          //   label: 'Tutorial',
-          // },
-          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             type: 'search',
             position: 'right',
@@ -99,6 +92,11 @@ const config = {
           {
             href: 'https://forum.snigdhaos.org/',
             label: 'Forum',
+            position: 'right',
+          },
+          {
+            href: 'https://uptime.snigdhaos.org/',
+            label: 'Uptime',
             position: 'right',
           },
           {
