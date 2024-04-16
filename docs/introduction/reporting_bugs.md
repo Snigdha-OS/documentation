@@ -17,7 +17,7 @@ Thank you for helping us test Snigdha OS. We're happy to have you on the team! W
 Found a bug already? Wonderful! We'd love to hear about it &mdash; but first you should check around to make sure you're not wasting your time on a known issue:
 
 - Search our [Support forum](https://forum.snigdhaos.org/t/support) to see if it's already been reported.
-- We could be working on a fix, so search our [issue tracker](https://github.com/Snigdha-OS/snigdhaos-arctic/issues) too.
+- We could be working on a fix, so search our [issue tracker](https://github.com/Snigdha-OS/snigdhaos-issues/issues) too.
 
 If you've searched *thoroughly* and come up empty-handed, we'll welcome your report. If it's just a simple issue (a misspelled word or graphics glitch, for example) skip to the next paragraph. But if you're seeing errors, or something is clearly broken, we'll need you to gather some information first. Please head over to our [Troubleshooting](/category/troubleshoot) guide and follow the instructions there. Collect as much info as you can!
 
