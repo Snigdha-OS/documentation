@@ -72,7 +72,7 @@ Here is the PKGBUILD Template we follow specifically for Snigdha OS.
 # Maintainer: Your Name <your_email@provider.com>
 pkgname=
 org=Snigdha-OS # The username/organization username where you upload the Source Code. 
-branch=master # Your GitHub/GitLab/Gitea repository branch
+branch=master # Your GitHub/GitLab/Gitea repository branch. Possible values: master, main, devlopment
 pkgver= # Initiate it with 1.
 pkgrel= # Initiate it with 1.
 pkgdesc='' # A short description of your package.
@@ -82,6 +82,7 @@ license=('') # Possible options: MIT, GPL, AGPL, custom
 makedepends=('') # Dependency it install or run the package
 source=("") # The source of the package 
 sha256sums=('') # checksums
+install=$pkgname.install # Further instuction after installing/building the package.
 
 pkgver() {
 	printf "r%s.%s" "$(git rev-list --count HEAD)" "$(git rev-parse --short HEAD)"
