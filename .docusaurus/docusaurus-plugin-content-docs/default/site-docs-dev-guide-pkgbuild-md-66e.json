@@ -1,7 +1,7 @@
 {
   "id": "dev_guide/pkgbuild",
-  "title": "Write PKGBUILD",
-  "description": "",
+  "title": "PKGBUILD Template",
+  "description": "Snigdha OS has it's own PKGBUILD template for building packages. We follow the the template so that we can maintain the packages in a better way. If you are building packages for Snigdha OS, then it will be a good option to follow the PKGBUILD template.",
   "source": "@site/docs/dev_guide/pkgbuild.md",
   "sourceDirName": "dev_guide",
   "slug": "/dev_guide/pkgbuild",

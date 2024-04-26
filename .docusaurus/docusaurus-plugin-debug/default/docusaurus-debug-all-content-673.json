@@ -123,7 +123,7 @@
                 "permalink": "/documentation/category/developers-guide"
               },
               "next": {
-                "title": "Write PKGBUILD",
+                "title": "PKGBUILD Template",
                 "permalink": "/documentation/dev_guide/pkgbuild"
               }
             },
@@ -173,7 +173,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Write PKGBUILD",
+                "title": "PKGBUILD Template",
                 "permalink": "/documentation/dev_guide/pkgbuild"
               },
               "next": {
@@ -210,8 +210,8 @@
             },
             {
               "id": "dev_guide/pkgbuild",
-              "title": "Write PKGBUILD",
-              "description": "",
+              "title": "PKGBUILD Template",
+              "description": "Snigdha OS has it's own PKGBUILD template for building packages. We follow the the template so that we can maintain the packages in a better way. If you are building packages for Snigdha OS, then it will be a good option to follow the PKGBUILD template.",
               "source": "@site/docs/dev_guide/pkgbuild.md",
               "sourceDirName": "dev_guide",
               "slug": "/dev_guide/pkgbuild",
@@ -562,7 +562,7 @@
             {
               "id": "introduction/introduction",
               "title": "Introduction",
-              "description": "Snigdha OS is a light-weight, Powerful & Optimized Operating System built for Normal Users &  Penetration Testers.",
+              "description": "Snigdha OS is a lightweight and highly customizable Linux distribution based on Arch and Linux Zen Kernel, minimalism, and focus on user-centric design. We are also working on penetration distribution and blackbox.",
               "source": "@site/docs/introduction/introduction.md",
               "sourceDirName": "introduction",
               "slug": "/",
@@ -829,7 +829,7 @@
             {
               "id": "troubleshoot/bluetooth",
               "title": "Troubleshoot: Bluetooth",
-              "description": "",
+              "description": "Troubleshooting Bluetooth on Snigdha OS involves several steps. Here's the common practice:",
               "source": "@site/docs/troubleshoot/bluetooth.md",
               "sourceDirName": "troubleshoot",
               "slug": "/troubleshoot/bluetooth",

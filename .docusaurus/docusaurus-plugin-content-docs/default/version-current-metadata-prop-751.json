@@ -290,7 +290,7 @@
           },
           {
             "type": "link",
-            "label": "Write PKGBUILD",
+            "label": "PKGBUILD Template",
             "href": "/documentation/dev_guide/pkgbuild",
             "docId": "dev_guide/pkgbuild",
             "unlisted": false
@@ -389,8 +389,8 @@
     },
     "dev_guide/pkgbuild": {
       "id": "dev_guide/pkgbuild",
-      "title": "Write PKGBUILD",
-      "description": "",
+      "title": "PKGBUILD Template",
+      "description": "Snigdha OS has it's own PKGBUILD template for building packages. We follow the the template so that we can maintain the packages in a better way. If you are building packages for Snigdha OS, then it will be a good option to follow the PKGBUILD template.",
       "sidebar": "tutorialSidebar"
     },
     "dev_guide/write": {
@@ -468,7 +468,7 @@
     "introduction/introduction": {
       "id": "introduction/introduction",
       "title": "Introduction",
-      "description": "Snigdha OS is a light-weight, Powerful & Optimized Operating System built for Normal Users &  Penetration Testers.",
+      "description": "Snigdha OS is a lightweight and highly customizable Linux distribution based on Arch and Linux Zen Kernel, minimalism, and focus on user-centric design. We are also working on penetration distribution and blackbox.",
       "sidebar": "tutorialSidebar"
     },
     "introduction/release_notes": {
@@ -528,7 +528,7 @@
     "troubleshoot/bluetooth": {
       "id": "troubleshoot/bluetooth",
       "title": "Troubleshoot: Bluetooth",
-      "description": "",
+      "description": "Troubleshooting Bluetooth on Snigdha OS involves several steps. Here's the common practice:",
       "sidebar": "tutorialSidebar"
     },
     "troubleshoot/display": {

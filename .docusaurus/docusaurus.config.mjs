@@ -71,6 +71,11 @@ export default {
           "position": "right"
         },
         {
+          "href": "https://uptime.snigdhaos.org/",
+          "label": "Uptime",
+          "position": "right"
+        },
+        {
           "href": "https://tools.snigdhaos.org/",
           "label": "Tools",
           "position": "right"

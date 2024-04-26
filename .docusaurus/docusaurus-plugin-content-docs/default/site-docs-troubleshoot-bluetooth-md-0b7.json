@@ -1,7 +1,7 @@
 {
   "id": "troubleshoot/bluetooth",
   "title": "Troubleshoot: Bluetooth",
-  "description": "",
+  "description": "Troubleshooting Bluetooth on Snigdha OS involves several steps. Here's the common practice:",
   "source": "@site/docs/troubleshoot/bluetooth.md",
   "sourceDirName": "troubleshoot",
   "slug": "/troubleshoot/bluetooth",
