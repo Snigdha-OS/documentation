@@ -590,7 +590,7 @@
             {
               "id": "introduction/release_notes",
               "title": "Release Notes",
-              "description": "",
+              "description": "FOR IMMEDIATE RELEASE",
               "source": "@site/docs/introduction/release_notes.md",
               "sourceDirName": "introduction",
               "slug": "/introduction/release_notes",
