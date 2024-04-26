@@ -48,7 +48,7 @@ export default {
       "title": "DOCUMENTATION | SNIGDHA OS",
       "logo": {
         "alt": "Snigdha OS Docs Logo",
-        "src": "img/Doc.svg"
+        "src": "img/snigdhaos-face.svg"
       },
       "items": [
         {
