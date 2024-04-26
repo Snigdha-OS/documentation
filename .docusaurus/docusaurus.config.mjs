@@ -6,7 +6,7 @@
 export default {
   "title": "SNIGDHA OS - DOCS",
   "tagline": "Be silent when it is time to hear!",
-  "favicon": "img/snigdhaos-icon.ico",
+  "favicon": "img/snigdhaos-icon-docs.ico",
   "url": "https://snigdhaos.org",
   "baseUrl": "/documentation/",
   "trailingSlash": false,
