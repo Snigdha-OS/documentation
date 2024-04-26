@@ -59,7 +59,7 @@
           },
           {
             "type": "link",
-            "label": "Code Contribution Guidelines",
+            "label": "Contribution Guidelines",
             "href": "/documentation/introduction/contributing",
             "docId": "introduction/contributing",
             "unlisted": false
@@ -462,7 +462,7 @@
     },
     "introduction/contributing": {
       "id": "introduction/contributing",
-      "title": "Code Contribution Guidelines",
+      "title": "Contribution Guidelines",
       "description": "Thank you for considering contributing to Snigdha OS! We welcome contributions from everyone.",
       "sidebar": "tutorialSidebar"
     },

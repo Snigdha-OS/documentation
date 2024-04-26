@@ -497,7 +497,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Code Contribution Guidelines",
+                "title": "Contribution Guidelines",
                 "permalink": "/documentation/introduction/contributing"
               },
               "next": {
@@ -507,7 +507,7 @@
             },
             {
               "id": "introduction/contributing",
-              "title": "Code Contribution Guidelines",
+              "title": "Contribution Guidelines",
               "description": "Thank you for considering contributing to Snigdha OS! We welcome contributions from everyone.",
               "source": "@site/docs/introduction/contributing.md",
               "sourceDirName": "introduction",
@@ -555,7 +555,7 @@
                 "permalink": "/documentation/introduction/reporting_bugs"
               },
               "next": {
-                "title": "Code Contribution Guidelines",
+                "title": "Contribution Guidelines",
                 "permalink": "/documentation/introduction/contributing"
               }
             },
