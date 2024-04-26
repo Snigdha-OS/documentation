@@ -479,6 +479,33 @@
               }
             },
             {
+              "id": "introduction/coding-standard",
+              "title": "Coding Standard",
+              "description": "1. Consistent Naming Conventions:",
+              "source": "@site/docs/introduction/coding-standard.md",
+              "sourceDirName": "introduction",
+              "slug": "/introduction/coding-standard",
+              "permalink": "/documentation/introduction/coding-standard",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/introduction/coding-standard.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Code Contribution Guidelines",
+                "permalink": "/documentation/introduction/contributing"
+              },
+              "next": {
+                "title": "Before Installation",
+                "permalink": "/documentation/category/before-installation"
+              }
+            },
+            {
               "id": "introduction/contributing",
               "title": "Code Contribution Guidelines",
               "description": "Thank you for considering contributing to Snigdha OS! We welcome contributions from everyone.",
@@ -501,8 +528,8 @@
                 "permalink": "/documentation/introduction/faqs"
               },
               "next": {
-                "title": "Before Installation",
-                "permalink": "/documentation/category/before-installation"
+                "title": "Coding Standard",
+                "permalink": "/documentation/introduction/coding-standard"
               }
             },
             {
@@ -1025,6 +1052,10 @@
                   {
                     "type": "doc",
                     "id": "introduction/contributing"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "introduction/coding-standard"
                   }
                 ],
                 "link": {

@@ -63,6 +63,13 @@
             "href": "/documentation/introduction/contributing",
             "docId": "introduction/contributing",
             "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Coding Standard",
+            "href": "/documentation/introduction/coding-standard",
+            "docId": "introduction/coding-standard",
+            "unlisted": false
           }
         ],
         "href": "/documentation/category/introduction"
@@ -445,6 +452,12 @@
       "id": "introduction/code_of_conduct",
       "title": "Code Of Conduct",
       "description": "A code of conduct outlines expected behavior and guidelines for individuals within a specific community, organization, or group.",
+      "sidebar": "tutorialSidebar"
+    },
+    "introduction/coding-standard": {
+      "id": "introduction/coding-standard",
+      "title": "Coding Standard",
+      "description": "1. Consistent Naming Conventions:",
       "sidebar": "tutorialSidebar"
     },
     "introduction/contributing": {

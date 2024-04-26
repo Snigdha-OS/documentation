@@ -14,19 +14,22 @@ Before contributing, please ensure you have read and understood our [Code of Con
 
 There are several ways you can contribute to **Snigdha OS**:
 
-1. **Reporting Bugs**: If you encounter a bug, please open an issue on our issue tracker. Be sure to include details such as steps to reproduce, expected behavior, and actual behavior.
+જ⁀➴ **Reporting Bugs**: If you encounter a bug, please open an issue on our issue tracker. Be sure to include details such as steps to reproduce, expected behavior, and actual behavior. Bugs can be reported in two ways.
+    
+    - 👉 If you don't know which repository is having the bug, then raise issue on our universal issue tracker. **[SNIGDHAOS ISSUES](https://github.com/Snigdha-OS/snigdhaos-issues/issues/new/choose)**
+    - 👉 If you know the specefic repository name, then raise the issue on the specific repository.
    
-2. **Requesting Features**: If you have a feature request or an idea for improving the project, please open an issue on our issue tracker. We welcome your suggestions and feedback.
+જ⁀➴ **Requesting Features**: If you have a feature request or an idea for improving the project, please open an issue on our issue tracker. We welcome your suggestions and feedback.
 
-3. **Code Contributions**: We welcome code contributions via pull requests (PRs). Here are the steps to contribute code:
+જ⁀➴ **Code Contributions**: We welcome code contributions via pull requests (PRs). Here are the steps to contribute code:
 
-    a. Fork the repository to your GitHub account.
+    - 👉 Fork the repository to your GitHub account. Read [How to fork a github repository?](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
     
-    b. Clone the forked repository to your local machine.
+    - 👉 Clone the forked repository to your local machine. Read [how to clone a github repository in my local machine?](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
     
-    c. Create a new branch for your feature or bug fix.
+    - 👉 Create a new branch for your feature or bug fix. Read [how to create new branch on forked repository?](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository)
     
-    d. Make your changes and ensure they follow our coding standards.
+    - 👉 Make your changes and ensure they follow our coding standards.
     
     e. Write tests to cover your changes if applicable.
     

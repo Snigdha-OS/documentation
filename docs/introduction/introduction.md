@@ -5,7 +5,9 @@ slug: /
 
 # Introduction
 
-Snigdha OS is a lightweight and highly customizable Linux distribution based on Arch and [Linux Zen Kernel](https://snigdhaos.org/blog/linux-zen-kernel/), minimalism, and focus on user-centric design. We are also working on [penetration distribution](https://snigdhaos.org/blog/penetartion-distro) and blackbox.
+Snigdha OS is a lightweight and highly customizable Linux distribution based on Arch and [Linux Zen Kernel](https://snigdhaos.org/blog/linux-zen-kernel/), minimalism, and focus on user-centric design. We are also working on [penetration distribution](https://snigdhaos.org/blog/penetration-distro/) and blackbox. 
+
+Powered by: **TONMOY INFRASTRUCTURE**
 
 ## 👉 Features 
 

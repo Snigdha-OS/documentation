@@ -96,6 +96,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "introduction/coding-standard",
+              "path": "/documentation/introduction/coding-standard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "introduction/contributing",
               "path": "/documentation/introduction/contributing",
               "sidebar": "tutorialSidebar"

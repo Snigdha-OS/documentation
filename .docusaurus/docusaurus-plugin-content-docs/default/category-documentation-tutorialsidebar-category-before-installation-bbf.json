@@ -5,8 +5,8 @@
   "permalink": "/documentation/category/before-installation",
   "navigation": {
     "previous": {
-      "title": "Code Contribution Guidelines",
-      "permalink": "/documentation/introduction/contributing"
+      "title": "Coding Standard",
+      "permalink": "/documentation/introduction/coding-standard"
     },
     "next": {
       "title": "System Requirements",
