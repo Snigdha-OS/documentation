@@ -1,0 +1,13 @@
+name: 'Conventional commits check using commitizen'
+description: 'Check if the commits are compliant with Conventional Commits specification'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'git-commit'
+  color: 'purple'
+inputs:
+  commitizen_version:
+    description: 'Specify the version to be used by commitizen'
+    required: false
+    default: latest
