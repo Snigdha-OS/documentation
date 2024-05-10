@@ -14,7 +14,7 @@ Using `PKGBUILD` scripts provides a standardized and reproducible way to create 
 ## A simple PKGBUILD
 Writing a `PKGBUILD` for Arch Linux and Snigdha OS involves several key steps. Below is a basic example of a `PKGBUILD` for a fictitious application called "exampleapp." This example assumes that "exampleapp" is a simple Python application with a `setup.py` file for installation.
 
-```bash
+```PKGBUILD
 # Maintainer: Your Name <your_email@example.com>
 pkgname=exampleapp
 pkgver=1.0

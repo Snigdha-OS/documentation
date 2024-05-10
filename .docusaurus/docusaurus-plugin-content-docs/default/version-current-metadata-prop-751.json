@@ -290,7 +290,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Build Snigdha OS",
+            "label": "Build From Source",
             "href": "/documentation/dev_guide/build_source",
             "docId": "dev_guide/build_source",
             "unlisted": false
@@ -372,7 +372,7 @@
     },
     "dev_guide/build_source": {
       "id": "dev_guide/build_source",
-      "title": "Build Snigdha OS",
+      "title": "Build From Source",
       "description": "Overview",
       "sidebar": "tutorialSidebar"
     },

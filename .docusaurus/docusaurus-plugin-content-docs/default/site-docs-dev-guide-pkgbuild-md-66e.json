@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Build Snigdha OS",
+    "title": "Build From Source",
     "permalink": "/documentation/dev_guide/build_source"
   },
   "next": {

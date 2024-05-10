@@ -1,6 +1,6 @@
 {
   "id": "dev_guide/build_source",
-  "title": "Build Snigdha OS",
+  "title": "Build From Source",
   "description": "Overview",
   "source": "@site/docs/dev_guide/build_source.md",
   "sourceDirName": "dev_guide",

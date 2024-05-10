@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# Build Snigdha OS
+# Build From Source
 
 ## Overview
 Building **Snigdha OS** from the source code is very easy. In this documentation, I am going to guide you on how to build **Snigdha OS** from the source. And customizing it.
