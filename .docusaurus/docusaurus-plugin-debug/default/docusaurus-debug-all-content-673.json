@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/Snigdha-OS/documentation/tree/master/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/whoami/Documents/GitHub/documentation/sidebars.js",
-          "contentPath": "/home/whoami/Documents/GitHub/documentation/docs",
-          "contentPathLocalized": "/home/whoami/Documents/GitHub/documentation/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/whoami/Desktop/documentation/sidebars.js",
+          "contentPath": "/home/whoami/Desktop/documentation/docs",
+          "contentPathLocalized": "/home/whoami/Desktop/documentation/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "id": "before_installation/imporatnt_notes",

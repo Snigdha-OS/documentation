@@ -76,29 +76,34 @@ const config = {
             label: 'Home',
             position: 'right',
           },
-          {
-            href: 'https://cloud.snigdhaos.org/',
-            label: 'Cloud',
-            position: 'right',
-          },
-          {
-            href: 'https://forum.snigdhaos.org/',
-            label: 'Forum',
-            position: 'right',
-          },
-          {
-            href: 'https://uptime.snigdhaos.org/',
-            label: 'Uptime',
-            position: 'right',
-          },
-          {
-            href: 'https://tools.snigdhaos.org/',
-            label: 'Tools',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://cloud.snigdhaos.org/',
+          //   label: 'Cloud',
+          //   position: 'right',
+          // },
+          // {
+          //   href: 'https://forum.snigdhaos.org/',
+          //   label: 'Forum',
+          //   position: 'right',
+          // },
+          // {
+          //   href: 'https://uptime.snigdhaos.org/',
+          //   label: 'Uptime',
+          //   position: 'right',
+          // },
+          // {
+          //   href: 'https://tools.snigdhaos.org/',
+          //   label: 'Tools',
+          //   position: 'right',
+          // },
           {
             href: 'https://snigdha-os.github.io/snigdhaos-status/',
             label: 'Status',
+            position: 'right',
+          },
+          {
+            href: 'http://snigdha-os.github.io/documentation/privacy_policy',
+            label: 'Privacy Policy',
             position: 'right',
           },
           {
