@@ -121,6 +121,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "introduction/motivation",
+              "path": "/documentation/introduction/motivation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "introduction/release_notes",
               "path": "/documentation/introduction/release_notes",
               "sidebar": "tutorialSidebar"

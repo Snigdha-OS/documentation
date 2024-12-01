@@ -79,15 +79,15 @@ export default [
   },
   {
     path: '/documentation/',
-    component: ComponentCreator('/documentation/', '70b'),
+    component: ComponentCreator('/documentation/', '1c5'),
     routes: [
       {
         path: '/documentation/',
-        component: ComponentCreator('/documentation/', '115'),
+        component: ComponentCreator('/documentation/', 'd1a'),
         routes: [
           {
             path: '/documentation/',
-            component: ComponentCreator('/documentation/', '8f6'),
+            component: ComponentCreator('/documentation/', '421'),
             routes: [
               {
                 path: '/documentation/before_installation/imporatnt_notes',
@@ -266,6 +266,12 @@ export default [
               {
                 path: '/documentation/introduction/inspiration',
                 component: ComponentCreator('/documentation/introduction/inspiration', '67a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/introduction/motivation',
+                component: ComponentCreator('/documentation/introduction/motivation', '0bd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

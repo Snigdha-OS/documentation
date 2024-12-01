@@ -113,17 +113,17 @@
     },
     "content": "content---documentation-privacy-policyfbb-0dc"
   },
-  "/documentation/-70b": {
+  "/documentation/-1c5": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---documentation-ed-9-690"
     }
   },
-  "/documentation/-115": {
+  "/documentation/-d1a": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---documentation-935-548"
   },
-  "/documentation/-8f6": {
+  "/documentation/-421": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/documentation/before_installation/imporatnt_notes-89a": {
@@ -245,6 +245,10 @@
   "/documentation/introduction/inspiration-67a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-introduction-inspirationd-79-e9a"
+  },
+  "/documentation/introduction/motivation-0bd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-introduction-motivation-16-a-8e4"
   },
   "/documentation/introduction/release_notes-590": {
     "__comp": "__comp---theme-doc-item-178-a40",
