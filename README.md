@@ -63,9 +63,9 @@ Check out our [Contribution Guidelines](CONTRIBUTING.md) for more details.
 
 Be a part of the growing Snigdha OS community:
 
-- [Website](https://snigdha-os.org)  
+- [Website](https://snigdhaos.org)  
 - [Open Collective](https://opencollective.com/snigdha-os)  
-- [Community Forums](https://community.snigdha-os.org)  
+- [Community Forums](https://forums.snigdhaos.org)  
 
 
 ## 📄 License
