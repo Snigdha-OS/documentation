@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 ---
-# Code Of Conduct
+# Code of Conduct
 A code of conduct outlines expected behavior and guidelines for individuals within a specific community, organization, or group. 
 
 :::info

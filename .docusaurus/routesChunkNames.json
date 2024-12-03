@@ -113,17 +113,17 @@
     },
     "content": "content---documentation-privacy-policyfbb-0dc"
   },
-  "/documentation/-bed": {
+  "/documentation/-6b9": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---documentation-ed-9-690"
     }
   },
-  "/documentation/-088": {
+  "/documentation/-ace": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---documentation-935-548"
   },
-  "/documentation/-5fb": {
+  "/documentation/-076": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/documentation/before_installation/imporatnt_notes-89a": {
@@ -250,10 +250,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-introduction-name-and-storyca-5-19f"
   },
-  "/documentation/introduction/overview-ea8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-introduction-overview-761-f2d"
-  },
   "/documentation/introduction/release_notes-590": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-introduction-release-notes-1-b-1-d2e"
@@ -313,5 +309,9 @@
   "/documentation/user_guide/cheetsheet-1e9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-user-guide-cheetsheetf-7-a-048"
+  },
+  "/documentation/-dd9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-overview-761-225"
   }
 }

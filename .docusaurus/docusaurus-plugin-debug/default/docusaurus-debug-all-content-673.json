@@ -453,7 +453,7 @@
             },
             {
               "id": "introduction/code_of_conduct",
-              "title": "Code Of Conduct",
+              "title": "Code of Conduct",
               "description": "A code of conduct outlines expected behavior and guidelines for individuals within a specific community, organization, or group.",
               "source": "@site/docs/introduction/code_of_conduct.md",
               "sourceDirName": "introduction",
@@ -606,10 +606,10 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Overview",
-                "permalink": "/documentation/introduction/overview"
+                "permalink": "/documentation/"
               },
               "next": {
-                "title": "Code Of Conduct",
+                "title": "Code of Conduct",
                 "permalink": "/documentation/introduction/code_of_conduct"
               }
             },
@@ -619,8 +619,8 @@
               "description": "Snigdha OS is a lightweight and highly customizable Linux distribution based on Arch and Linux Zen Kernel, minimalism, and focus on user-centric design. We are also working on penetration distribution and blackbox.",
               "source": "@site/docs/introduction/overview.md",
               "sourceDirName": "introduction",
-              "slug": "/introduction/overview",
-              "permalink": "/documentation/introduction/overview",
+              "slug": "/",
+              "permalink": "/documentation/",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/introduction/overview.md",
@@ -628,7 +628,8 @@
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 1,
+                "slug": "/"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -659,7 +660,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Code Of Conduct",
+                "title": "Code of Conduct",
                 "permalink": "/documentation/introduction/code_of_conduct"
               },
               "next": {

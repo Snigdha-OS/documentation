@@ -18,7 +18,7 @@
           {
             "type": "link",
             "label": "Overview",
-            "href": "/documentation/introduction/overview",
+            "href": "/documentation/",
             "docId": "introduction/overview",
             "unlisted": false
           },
@@ -31,7 +31,7 @@
           },
           {
             "type": "link",
-            "label": "Code Of Conduct",
+            "label": "Code of Conduct",
             "href": "/documentation/introduction/code_of_conduct",
             "docId": "introduction/code_of_conduct",
             "unlisted": false
@@ -457,7 +457,7 @@
     },
     "introduction/code_of_conduct": {
       "id": "introduction/code_of_conduct",
-      "title": "Code Of Conduct",
+      "title": "Code of Conduct",
       "description": "A code of conduct outlines expected behavior and guidelines for individuals within a specific community, organization, or group.",
       "sidebar": "tutorialSidebar"
     },

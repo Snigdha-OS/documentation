@@ -79,15 +79,15 @@ export default [
   },
   {
     path: '/documentation/',
-    component: ComponentCreator('/documentation/', 'bed'),
+    component: ComponentCreator('/documentation/', '6b9'),
     routes: [
       {
         path: '/documentation/',
-        component: ComponentCreator('/documentation/', '088'),
+        component: ComponentCreator('/documentation/', 'ace'),
         routes: [
           {
             path: '/documentation/',
-            component: ComponentCreator('/documentation/', '5fb'),
+            component: ComponentCreator('/documentation/', '076'),
             routes: [
               {
                 path: '/documentation/before_installation/imporatnt_notes',
@@ -276,12 +276,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/introduction/overview',
-                component: ComponentCreator('/documentation/introduction/overview', 'ea8'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/documentation/introduction/release_notes',
                 component: ComponentCreator('/documentation/introduction/release_notes', '590'),
                 exact: true,
@@ -368,6 +362,12 @@ export default [
               {
                 path: '/documentation/user_guide/cheetsheet',
                 component: ComponentCreator('/documentation/user_guide/cheetsheet', '1e9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/',
+                component: ComponentCreator('/documentation/', 'dd9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
