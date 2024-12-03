@@ -1,6 +1,5 @@
 ---
 sidebar_position: 8
-slug: coding_standard
 ---
 # Coding Standard
 
