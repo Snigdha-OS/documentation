@@ -17,16 +17,16 @@
         "items": [
           {
             "type": "link",
-            "label": "Introduction",
-            "href": "/documentation/",
-            "docId": "introduction/introduction",
+            "label": "Overview",
+            "href": "/documentation/introduction/overview",
+            "docId": "introduction/overview",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Inspiration",
-            "href": "/documentation/introduction/inspiration",
-            "docId": "introduction/inspiration",
+            "label": "Story & Name",
+            "href": "/documentation/introduction/name_and_story",
+            "docId": "introduction/name_and_story",
             "unlisted": false
           },
           {
@@ -67,8 +67,8 @@
           {
             "type": "link",
             "label": "Coding Standard",
-            "href": "/documentation/introduction/coding-standard",
-            "docId": "introduction/coding-standard",
+            "href": "/documentation/introduction/coding_standard",
+            "docId": "introduction/coding_standard",
             "unlisted": false
           },
           {
@@ -461,8 +461,8 @@
       "description": "A code of conduct outlines expected behavior and guidelines for individuals within a specific community, organization, or group.",
       "sidebar": "tutorialSidebar"
     },
-    "introduction/coding-standard": {
-      "id": "introduction/coding-standard",
+    "introduction/coding_standard": {
+      "id": "introduction/coding_standard",
       "title": "Coding Standard",
       "description": "1. Consistent Naming Conventions:",
       "sidebar": "tutorialSidebar"
@@ -479,22 +479,22 @@
       "description": "Here are some frequently asked questions (FAQs) about Snigdha OS (penetration distribution):",
       "sidebar": "tutorialSidebar"
     },
-    "introduction/inspiration": {
-      "id": "introduction/inspiration",
-      "title": "Inspiration",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "introduction/introduction": {
-      "id": "introduction/introduction",
-      "title": "Introduction",
-      "description": "Snigdha OS is a lightweight and highly customizable Linux distribution based on Arch and Linux Zen Kernel, minimalism, and focus on user-centric design. We are also working on penetration distribution and blackbox.",
-      "sidebar": "tutorialSidebar"
-    },
     "introduction/motivation": {
       "id": "introduction/motivation",
       "title": "Aim & Motivation",
       "description": "The motivation behind Snigdha OS is to create a lightweight, efficient, and customizable Linux distribution that caters to specific use cases, particularly in the realm of penetration testing and ethical hacking. The OS is designed to be resource-efficient, making it suitable for use on a wide range of hardware, including older systems, mobile devices, and virtual environments.",
+      "sidebar": "tutorialSidebar"
+    },
+    "introduction/name_and_story": {
+      "id": "introduction/name_and_story",
+      "title": "Story & Name",
+      "description": "Eshan Roy, widely known as eshanized, is the founder, lead maintainer, and developer of Snigdha OS.",
+      "sidebar": "tutorialSidebar"
+    },
+    "introduction/overview": {
+      "id": "introduction/overview",
+      "title": "Overview",
+      "description": "Snigdha OS is a lightweight and highly customizable Linux distribution based on Arch and Linux Zen Kernel, minimalism, and focus on user-centric design. We are also working on penetration distribution and blackbox.",
       "sidebar": "tutorialSidebar"
     },
     "introduction/release_notes": {

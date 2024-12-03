@@ -113,17 +113,17 @@
     },
     "content": "content---documentation-privacy-policyfbb-0dc"
   },
-  "/documentation/-1c5": {
+  "/documentation/-bed": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---documentation-ed-9-690"
     }
   },
-  "/documentation/-d1a": {
+  "/documentation/-088": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---documentation-935-548"
   },
-  "/documentation/-421": {
+  "/documentation/-5fb": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/documentation/before_installation/imporatnt_notes-89a": {
@@ -230,9 +230,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-introduction-code-of-conducte-89-ce5"
   },
-  "/documentation/introduction/coding-standard-105": {
+  "/documentation/introduction/coding_standard-14f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-introduction-coding-standard-0-e-1-8f5"
+    "content": "content---documentation-introduction-coding-standard-0-e-9-a35"
   },
   "/documentation/introduction/contributing-2c1": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -242,13 +242,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-introduction-faqsb-19-00b"
   },
-  "/documentation/introduction/inspiration-67a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-introduction-inspirationd-79-e9a"
-  },
   "/documentation/introduction/motivation-0bd": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-introduction-motivation-16-a-8e4"
+  },
+  "/documentation/introduction/name_and_story-d3c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-introduction-name-and-storyca-5-19f"
+  },
+  "/documentation/introduction/overview-ea8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-introduction-overview-761-f2d"
   },
   "/documentation/introduction/release_notes-590": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -309,9 +313,5 @@
   "/documentation/user_guide/cheetsheet-1e9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-user-guide-cheetsheetf-7-a-048"
-  },
-  "/documentation/-622": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-c-62-f16"
   }
 }

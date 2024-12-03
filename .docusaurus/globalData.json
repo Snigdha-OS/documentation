@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/documentation/",
-          "mainDocId": "introduction/introduction",
+          "mainDocId": "introduction/overview",
           "docs": [
             {
               "id": "before_installation/imporatnt_notes",
@@ -96,8 +96,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "introduction/coding-standard",
-              "path": "/documentation/introduction/coding-standard",
+              "id": "introduction/coding_standard",
+              "path": "/documentation/introduction/coding_standard",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -111,18 +111,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "introduction/inspiration",
-              "path": "/documentation/introduction/inspiration",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "introduction/introduction",
-              "path": "/documentation/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "introduction/motivation",
               "path": "/documentation/introduction/motivation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/name_and_story",
+              "path": "/documentation/introduction/name_and_story",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/overview",
+              "path": "/documentation/introduction/overview",
               "sidebar": "tutorialSidebar"
             },
             {

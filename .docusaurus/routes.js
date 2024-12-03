@@ -79,15 +79,15 @@ export default [
   },
   {
     path: '/documentation/',
-    component: ComponentCreator('/documentation/', '1c5'),
+    component: ComponentCreator('/documentation/', 'bed'),
     routes: [
       {
         path: '/documentation/',
-        component: ComponentCreator('/documentation/', 'd1a'),
+        component: ComponentCreator('/documentation/', '088'),
         routes: [
           {
             path: '/documentation/',
-            component: ComponentCreator('/documentation/', '421'),
+            component: ComponentCreator('/documentation/', '5fb'),
             routes: [
               {
                 path: '/documentation/before_installation/imporatnt_notes',
@@ -246,8 +246,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/introduction/coding-standard',
-                component: ComponentCreator('/documentation/introduction/coding-standard', '105'),
+                path: '/documentation/introduction/coding_standard',
+                component: ComponentCreator('/documentation/introduction/coding_standard', '14f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -264,14 +264,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/introduction/inspiration',
-                component: ComponentCreator('/documentation/introduction/inspiration', '67a'),
+                path: '/documentation/introduction/motivation',
+                component: ComponentCreator('/documentation/introduction/motivation', '0bd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/introduction/motivation',
-                component: ComponentCreator('/documentation/introduction/motivation', '0bd'),
+                path: '/documentation/introduction/name_and_story',
+                component: ComponentCreator('/documentation/introduction/name_and_story', 'd3c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/introduction/overview',
+                component: ComponentCreator('/documentation/introduction/overview', 'ea8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -362,12 +368,6 @@ export default [
               {
                 path: '/documentation/user_guide/cheetsheet',
                 component: ComponentCreator('/documentation/user_guide/cheetsheet', '1e9'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentation/',
-                component: ComponentCreator('/documentation/', '622'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
