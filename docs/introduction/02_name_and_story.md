@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-slug: /story_and_name
+slug: story_and_name
 ---
 # Story & Name
 
