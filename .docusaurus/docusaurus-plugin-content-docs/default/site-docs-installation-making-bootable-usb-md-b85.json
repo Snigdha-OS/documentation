@@ -1,7 +1,7 @@
 {
   "id": "installation/making_bootable_usb",
-  "title": "Make Bootable USB",
-  "description": "",
+  "title": "Bootable USB With Ventoy",
+  "description": "🔥 How to Make Snigdha OS Bootable USB with Ventoy",
   "source": "@site/docs/installation/making_bootable_usb.md",
   "sourceDirName": "installation",
   "slug": "/installation/making_bootable_usb",

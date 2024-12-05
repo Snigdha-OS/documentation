@@ -126,7 +126,7 @@
           },
           {
             "type": "link",
-            "label": "Make Bootable USB",
+            "label": "Bootable USB With Ventoy",
             "href": "/documentation/installation/making_bootable_usb",
             "docId": "installation/making_bootable_usb",
             "unlisted": false
@@ -436,7 +436,7 @@
     "installation/download_snigdha_os": {
       "id": "installation/download_snigdha_os",
       "title": "Download Snigdha OS",
-      "description": "",
+      "description": "🌟 Guide to Download Snigdha OS",
       "sidebar": "tutorialSidebar"
     },
     "installation/live_env": {
@@ -447,8 +447,8 @@
     },
     "installation/making_bootable_usb": {
       "id": "installation/making_bootable_usb",
-      "title": "Make Bootable USB",
-      "description": "",
+      "title": "Bootable USB With Ventoy",
+      "description": "🔥 How to Make Snigdha OS Bootable USB with Ventoy",
       "sidebar": "tutorialSidebar"
     },
     "installation/offline_install": {

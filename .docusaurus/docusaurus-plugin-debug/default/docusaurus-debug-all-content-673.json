@@ -292,7 +292,7 @@
             {
               "id": "installation/download_snigdha_os",
               "title": "Download Snigdha OS",
-              "description": "",
+              "description": "🌟 Guide to Download Snigdha OS",
               "source": "@site/docs/installation/download_snigdha_os.md",
               "sourceDirName": "installation",
               "slug": "/installation/download_snigdha_os",
@@ -312,7 +312,7 @@
                 "permalink": "/documentation/category/installation"
               },
               "next": {
-                "title": "Make Bootable USB",
+                "title": "Bootable USB With Ventoy",
                 "permalink": "/documentation/installation/making_bootable_usb"
               }
             },
@@ -335,7 +335,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Make Bootable USB",
+                "title": "Bootable USB With Ventoy",
                 "permalink": "/documentation/installation/making_bootable_usb"
               },
               "next": {
@@ -345,8 +345,8 @@
             },
             {
               "id": "installation/making_bootable_usb",
-              "title": "Make Bootable USB",
-              "description": "",
+              "title": "Bootable USB With Ventoy",
+              "description": "🔥 How to Make Snigdha OS Bootable USB with Ventoy",
               "source": "@site/docs/installation/making_bootable_usb.md",
               "sourceDirName": "installation",
               "slug": "/installation/making_bootable_usb",
