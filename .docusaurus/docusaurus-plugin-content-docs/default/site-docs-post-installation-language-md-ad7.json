@@ -1,7 +1,7 @@
 {
   "id": "post_installation/language",
   "title": "Language",
-  "description": "",
+  "description": "🌐 Installing Language Packs and Google Fonts on Arch/Snigdha OS",
   "source": "@site/docs/post_installation/language.md",
   "sourceDirName": "post_installation",
   "slug": "/post_installation/language",

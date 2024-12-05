@@ -531,25 +531,25 @@
     "post_installation/customization": {
       "id": "post_installation/customization",
       "title": "Customize Snigdha OS",
-      "description": "",
+      "description": "🖌️ Guide to Customizing Snigdha OS",
       "sidebar": "tutorialSidebar"
     },
     "post_installation/install_packages": {
       "id": "post_installation/install_packages",
       "title": "Install Packages",
-      "description": "",
+      "description": "📦 How to Install a Package on Snigdha OS",
       "sidebar": "tutorialSidebar"
     },
     "post_installation/language": {
       "id": "post_installation/language",
       "title": "Language",
-      "description": "",
+      "description": "🌐 Installing Language Packs and Google Fonts on Arch/Snigdha OS",
       "sidebar": "tutorialSidebar"
     },
     "post_installation/update": {
       "id": "post_installation/update",
       "title": "Update Snigdha OS",
-      "description": "",
+      "description": "🔄 How to Update Snigdha OS",
       "sidebar": "tutorialSidebar"
     },
     "tools/aircrack-ng": {

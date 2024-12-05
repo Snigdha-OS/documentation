@@ -1,7 +1,7 @@
 {
   "id": "post_installation/install_packages",
   "title": "Install Packages",
-  "description": "",
+  "description": "📦 How to Install a Package on Snigdha OS",
   "source": "@site/docs/post_installation/install_packages.md",
   "sourceDirName": "post_installation",
   "slug": "/post_installation/install_packages",

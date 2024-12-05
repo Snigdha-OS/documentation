@@ -1,7 +1,7 @@
 {
   "id": "post_installation/update",
   "title": "Update Snigdha OS",
-  "description": "",
+  "description": "🔄 How to Update Snigdha OS",
   "source": "@site/docs/post_installation/update.md",
   "sourceDirName": "post_installation",
   "slug": "/post_installation/update",
