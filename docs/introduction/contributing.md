@@ -1,76 +1,96 @@
 ---
 sidebar_position: 7
 ---
-
 # Contribution Guidelines
 
-Thank you for considering contributing to **Snigdha OS**! We welcome contributions from everyone.
+### ✨ **Contribution Guidelines for Snigdha OS**
 
-## Getting Started
+Thank you for your interest in contributing to **Snigdha OS**! We’re excited to have you join our community. Contributions from users like you make Snigdha OS better, stronger, and more impactful. 💻💙  
 
-Before contributing, please ensure you have read and understood our [Code of Conduct](https://snigdhaos.org/documentation/introduction/code_of_conduct). By participating, you are expected to uphold this code.
+---
 
-## How Can You Contribute?
+### 🚀 **Getting Started**  
 
-There are several ways you can contribute to **Snigdha OS**:
+Before contributing, please make sure to:  
 
-જ⁀➴ **Reporting Bugs**: If you encounter a bug, please open an issue on our issue tracker. Be sure to include details such as steps to reproduce, expected behavior, and actual behavior. Bugs can be reported in two ways.
-    
-    - 👉 If you don't know which repository is having the bug, then raise issue on our universal issue tracker. **[SNIGDHAOS ISSUES](https://github.com/Snigdha-OS/snigdhaos-issues/issues/new/choose)**
-    - 👉 If you know the specefic repository name, then raise the issue on the specific repository.
-   
-જ⁀➴ **Requesting Features**: If you have a feature request or an idea for improving the project, please open an issue on our issue tracker. We welcome your suggestions and feedback.
+📜 **Read Our Code of Conduct**: By participating, you agree to uphold our Code of Conduct, ensuring a welcoming and respectful environment for everyone.  
 
-જ⁀➴ **Code Contributions**: We welcome code contributions via pull requests (PRs). Here are the steps to contribute code:
+---
 
-    - 👉 Fork the repository to your GitHub account. Read [How to fork a github repository?](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
-    
-    - 👉 Clone the forked repository to your local machine. Read [how to clone a github repository in my local machine?](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
-    
-    - 👉 Create a new branch for your feature or bug fix. Read [how to create new branch on forked repository?](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository)
-    
-    - 👉 Make your changes and ensure they follow our [coding standards](/introduction/coding-standard).
-    
-    - 👉 Write tests to cover your changes if applicable.
-    
-    - 👉 Run existing tests and ensure they pass with your changes.
-    
-    - 👉 Commit your changes with clear and descriptive commit messages.
-    
-    - 👉 Push your changes to your forked repository.
-    
-    - 👉 Open a pull request against the `master` branch of our repository. Read [how to open a pull request on github](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-    
-    - 👉 Provide a clear description of your changes in the pull request, including any relevant information for reviewers.
+### 🌟 **How Can You Contribute?**  
 
-જ⁀➴ **Documentation Contributions**: Improving documentation is also a valuable contribution. If you find errors or areas that need clarification, please submit a pull request with your proposed changes.
+There are many ways to make a difference! Choose what suits you best:  
 
-## Code Standards
+#### 🐞 **Reporting Bugs**  
+Encountered a bug? Let us know by opening an issue on our **issue tracker**!  
+- **Option 1**: If you're unsure about the repository causing the bug, raise the issue on our [universal issue tracker](https://github.com/SnigdhaOS/Issues).  
+- **Option 2**: If you know the specific repository, raise the issue there.  
 
-When contributing code, please adhere to the following standards:
+👉 Be sure to include:  
+- Steps to reproduce the bug.  
+- Expected behavior vs. actual behavior.  
+- Screenshots, logs, or any additional information that might help us debug the issue.  
 
-- 👉 Follow the style guide for the programming language used in the project.
-- 👉 Write clear, concise, and descriptive code comments.
-- 👉 Ensure your code is well-tested, and add tests for any new functionality.
-- 👉 Keep your commits atomic and focused on a single logical change.
-- 👉 Use clear and descriptive commit messages following the [Conventional Commits](https://www.conventionalcommits.org/) format.
-- 👉 If your change requires updating documentation, please include those updates in your pull request.
+#### 🌟 **Requesting Features**  
+Got an idea to make Snigdha OS even better? Open a feature request issue on our **issue tracker** and let us know your vision! Your feedback is invaluable to shaping the future of Snigdha OS.  
 
-## Code Review Process
+#### 👩‍💻 **Code Contributions**  
+Want to contribute code? Follow these steps:  
+1️⃣ **Fork** the repository to your GitHub account. Learn [how to fork a GitHub repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo).  
+2️⃣ **Clone** the forked repository to your local machine. Learn [how to clone a GitHub repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).  
+3️⃣ **Create a New Branch** for your changes. Learn [how to create branches](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).  
+4️⃣ Make your changes and ensure they align with our coding standards.  
+5️⃣ Write tests to cover your changes (if applicable).  
+6️⃣ Run existing tests to ensure they still pass.  
+7️⃣ **Commit** your changes with clear, descriptive commit messages. Follow [Conventional Commits](https://www.conventionalcommits.org/).  
+8️⃣ **Push** your changes to your forked repository.  
+9️⃣ Open a **pull request (PR)** against the `master` branch of our repository. Learn [how to open a PR](https://docs.github.com/en/pull-requests).  
+🔟 Provide a clear description in your PR, explaining your changes and any context the reviewers should know.  
 
-All code contributions will go through a review process before being merged. Here's what to expect during the review process:
+#### 📚 **Improving Documentation**  
+Clear documentation is key! If you find areas for improvement in our docs (typos, errors, missing details), submit a pull request with your suggested edits.  
 
-- 👉 Your pull request will be assigned to one or more reviewers.
-- 👉 Reviewers will provide feedback and suggest changes if necessary.
-- 👉 You may need to address the feedback by making additional changes to your code.
-- 👉 Once all feedback has been addressed, and the code meets our standards, it will be merged into the main repository.
+---
 
-## Code of Conduct
+### 🎨 **Code Standards**  
 
-Please note that by contributing to **Snigdha OS**, you are agreeing to abide by our [Code of Conduct](/introduction/code_of_conduct). Any violations of the code of conduct will not be tolerated and may result in your contributions being rejected or your participation in the project being revoked.
+To maintain a high-quality codebase, please:  
+- Follow the coding style guide for the project's language.  
+- Write **clear, concise comments** to explain your code.  
+- Add **tests** for new functionality.  
+- Ensure commits are **atomic** and focused on single logical changes.  
+- Use descriptive commit messages following the [Conventional Commits format](https://www.conventionalcommits.org/).  
+- Update documentation if your changes affect functionality.  
 
-## Need Help?
+---
 
-If you have any questions or need assistance with contributing, feel free to reach out to us via:
-- [Email: hello@snigdhaos.org](mailto:hello@snigdhaos.org)
-- [Forum](https://forum.snigdhaos.org)
+### 🛠️ **Code Review Process**  
+
+All contributions go through a review process to ensure quality and consistency:  
+1️⃣ Your pull request will be assigned to one or more reviewers.  
+2️⃣ Reviewers will provide feedback and may suggest changes.  
+3️⃣ You’ll need to address any feedback by updating your code.  
+4️⃣ Once your changes meet all standards, your PR will be merged into the main branch.  
+
+---
+
+### 📜 **Code of Conduct**  
+
+By contributing, you agree to abide by our **Code of Conduct**. This ensures that Snigdha OS remains a welcoming and inclusive space. Violations may result in rejection of contributions or removal from the project. Be kind, respectful, and supportive! 💕  
+
+---
+
+### 💬 **Need Help?**  
+
+We’re here to help you get started and make meaningful contributions! Reach out to us:  
+📧 **Email**: hello@snigdhaos.org  
+
+---
+
+### ❤️ **Join Us in Building Snigdha OS**  
+
+Your contributions—whether code, documentation, or ideas—are essential to our success. Together, let’s make Snigdha OS the best it can be. Thank you for being part of our journey! 🌟  
+
+> "Alone, we can do so little; together, we can do so much." – Helen Keller  
+
+Let’s create something amazing! 🚀✨  

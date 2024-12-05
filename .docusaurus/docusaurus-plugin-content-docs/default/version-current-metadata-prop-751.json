@@ -471,13 +471,13 @@
     "introduction/coding-standard": {
       "id": "introduction/coding-standard",
       "title": "Coding Standard",
-      "description": "1. Consistent Naming Conventions:",
+      "description": "✨ Coding Standards for Snigdha OS Development",
       "sidebar": "tutorialSidebar"
     },
     "introduction/contributing": {
       "id": "introduction/contributing",
       "title": "Contribution Guidelines",
-      "description": "Thank you for considering contributing to Snigdha OS! We welcome contributions from everyone.",
+      "description": "✨ Contribution Guidelines for Snigdha OS",
       "sidebar": "tutorialSidebar"
     },
     "introduction/faqs": {
