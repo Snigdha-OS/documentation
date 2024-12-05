@@ -454,7 +454,7 @@
             {
               "id": "installation/virtualbox_installation",
               "title": "Virtualbox",
-              "description": "",
+              "description": "🖥️ How to Install Snigdha OS in VirtualBox",
               "source": "@site/docs/installation/virtualbox_installation.md",
               "sourceDirName": "installation",
               "slug": "/installation/virtualbox_installation",

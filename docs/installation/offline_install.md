@@ -46,7 +46,7 @@ You need a **bootable USB** to install Snigdha OS. Use **Ventoy** or **Rufus** (
 3. **Create Bootable USB**:
    Run the `dd` command to copy the Snigdha OS ISO to your USB drive (replace `/dev/sdX` with your USB device path):
    ```bash
-   sudo dd if=garuda-linux-YYYY.MM.DD-x86_64.iso of=/dev/sdX bs=4M status=progress oflag=sync
+   sudo dd if=snigdhaos-YYYY.MM.DD-x86_64.iso of=/dev/sdX bs=4M status=progress oflag=sync
    ```
 
 4. **Eject USB**:

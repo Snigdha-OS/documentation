@@ -472,7 +472,7 @@
     "installation/virtualbox_installation": {
       "id": "installation/virtualbox_installation",
       "title": "Virtualbox",
-      "description": "",
+      "description": "🖥️ How to Install Snigdha OS in VirtualBox",
       "sidebar": "tutorialSidebar"
     },
     "introduction/code_of_conduct": {
