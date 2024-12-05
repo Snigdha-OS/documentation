@@ -420,33 +420,6 @@
                 "permalink": "/documentation/installation/offline_install"
               },
               "next": {
-                "title": "Install Snigdha OS",
-                "permalink": "/documentation/installation/start_installation"
-              }
-            },
-            {
-              "id": "installation/start_installation",
-              "title": "Install Snigdha OS",
-              "description": "",
-              "source": "@site/docs/installation/start_installation.md",
-              "sourceDirName": "installation",
-              "slug": "/installation/start_installation",
-              "permalink": "/documentation/installation/start_installation",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/installation/start_installation.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Online Installation",
-                "permalink": "/documentation/installation/online_install"
-              },
-              "next": {
                 "title": "Virtualbox",
                 "permalink": "/documentation/installation/virtualbox_installation"
               }
@@ -470,8 +443,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Install Snigdha OS",
-                "permalink": "/documentation/installation/start_installation"
+                "title": "Online Installation",
+                "permalink": "/documentation/installation/online_install"
               },
               "next": {
                 "title": "Post Installation",
@@ -1072,7 +1045,7 @@
             {
               "id": "user_guide/cheetsheet",
               "title": "Cheetsheet/Shortcuts",
-              "description": "",
+              "description": "Below is a compilation of commonly used keyboard shortcuts for Snigdha OS, focusing on frequently used desktop environments and terminal tasks. Keep in mind that shortcuts can vary based on the desktop environment (e.g., GNOME, KDE, XFCE) or window manager (e.g., i3, bspwm).",
               "source": "@site/docs/user_guide/cheetsheet.md",
               "sourceDirName": "user_guide",
               "slug": "/user_guide/cheetsheet",
@@ -1201,10 +1174,6 @@
                   {
                     "type": "doc",
                     "id": "installation/online_install"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "installation/start_installation"
                   },
                   {
                     "type": "doc",

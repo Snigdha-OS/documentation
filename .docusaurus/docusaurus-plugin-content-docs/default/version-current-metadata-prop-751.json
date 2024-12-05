@@ -154,13 +154,6 @@
           },
           {
             "type": "link",
-            "label": "Install Snigdha OS",
-            "href": "/documentation/installation/start_installation",
-            "docId": "installation/start_installation",
-            "unlisted": false
-          },
-          {
-            "type": "link",
             "label": "Virtualbox",
             "href": "/documentation/installation/virtualbox_installation",
             "docId": "installation/virtualbox_installation",
@@ -463,12 +456,6 @@
       "description": "🌐 How to Install Snigdha OS Online (With Internet Connection)",
       "sidebar": "tutorialSidebar"
     },
-    "installation/start_installation": {
-      "id": "installation/start_installation",
-      "title": "Install Snigdha OS",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
     "installation/virtualbox_installation": {
       "id": "installation/virtualbox_installation",
       "title": "Virtualbox",
@@ -610,7 +597,7 @@
     "user_guide/cheetsheet": {
       "id": "user_guide/cheetsheet",
       "title": "Cheetsheet/Shortcuts",
-      "description": "",
+      "description": "Below is a compilation of commonly used keyboard shortcuts for Snigdha OS, focusing on frequently used desktop environments and terminal tasks. Keep in mind that shortcuts can vary based on the desktop environment (e.g., GNOME, KDE, XFCE) or window manager (e.g., i3, bspwm).",
       "sidebar": "tutorialSidebar"
     }
   }

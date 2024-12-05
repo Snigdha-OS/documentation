@@ -1,7 +1,7 @@
 {
   "id": "user_guide/cheetsheet",
   "title": "Cheetsheet/Shortcuts",
-  "description": "",
+  "description": "Below is a compilation of commonly used keyboard shortcuts for Snigdha OS, focusing on frequently used desktop environments and terminal tasks. Keep in mind that shortcuts can vary based on the desktop environment (e.g., GNOME, KDE, XFCE) or window manager (e.g., i3, bspwm).",
   "source": "@site/docs/user_guide/cheetsheet.md",
   "sourceDirName": "user_guide",
   "slug": "/user_guide/cheetsheet",

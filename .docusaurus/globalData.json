@@ -86,11 +86,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "installation/start_installation",
-              "path": "/documentation/installation/start_installation",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "installation/virtualbox_installation",
               "path": "/documentation/installation/virtualbox_installation",
               "sidebar": "tutorialSidebar"

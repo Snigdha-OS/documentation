@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Install Snigdha OS",
-    "permalink": "/documentation/installation/start_installation"
+    "title": "Online Installation",
+    "permalink": "/documentation/installation/online_install"
   },
   "next": {
     "title": "Post Installation",
