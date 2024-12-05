@@ -454,13 +454,13 @@
     "installation/offline_install": {
       "id": "installation/offline_install",
       "title": "Offline Installation",
-      "description": "",
+      "description": "🖥️ How to Install Snigdha OS in Offline Mode",
       "sidebar": "tutorialSidebar"
     },
     "installation/online_install": {
       "id": "installation/online_install",
       "title": "Online Installation",
-      "description": "",
+      "description": "🌐 How to Install Snigdha OS Online (With Internet Connection)",
       "sidebar": "tutorialSidebar"
     },
     "installation/start_installation": {
