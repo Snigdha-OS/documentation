@@ -1018,7 +1018,7 @@
             {
               "id": "user_guide/aur",
               "title": "Installing with AUR",
-              "description": "",
+              "description": "🌟 Installing Packages with an AUR Helper on Snigdha OS",
               "source": "@site/docs/user_guide/aur.md",
               "sourceDirName": "user_guide",
               "slug": "/user_guide/aur",
