@@ -1,7 +1,7 @@
 {
   "id": "dev_guide/gpg_key",
   "title": "Generate GPG Key",
-  "description": "",
+  "description": "🔐 How to Generate a GPG Key on Snigdha OS",
   "source": "@site/docs/dev_guide/gpg_key.md",
   "sourceDirName": "dev_guide",
   "slug": "/dev_guide/gpg_key",

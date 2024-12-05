@@ -157,7 +157,7 @@
             {
               "id": "dev_guide/gpg_key",
               "title": "Generate GPG Key",
-              "description": "",
+              "description": "🔐 How to Generate a GPG Key on Snigdha OS",
               "source": "@site/docs/dev_guide/gpg_key.md",
               "sourceDirName": "dev_guide",
               "slug": "/dev_guide/gpg_key",
@@ -479,16 +479,16 @@
               }
             },
             {
-              "id": "introduction/coding_standard",
+              "id": "introduction/coding-standard",
               "title": "Coding Standard",
               "description": "1. Consistent Naming Conventions:",
-              "source": "@site/docs/introduction/coding_standard.md",
+              "source": "@site/docs/introduction/coding-standard.md",
               "sourceDirName": "introduction",
-              "slug": "/introduction/coding_standard",
-              "permalink": "/documentation/introduction/coding_standard",
+              "slug": "/introduction/coding-standard",
+              "permalink": "/documentation/introduction/coding-standard",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/introduction/coding_standard.md",
+              "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/introduction/coding-standard.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 8,
@@ -529,7 +529,7 @@
               },
               "next": {
                 "title": "Coding Standard",
-                "permalink": "/documentation/introduction/coding_standard"
+                "permalink": "/documentation/introduction/coding-standard"
               }
             },
             {
@@ -579,7 +579,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Coding Standard",
-                "permalink": "/documentation/introduction/coding_standard"
+                "permalink": "/documentation/introduction/coding-standard"
               },
               "next": {
                 "title": "Before Installation",
@@ -1082,7 +1082,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "introduction/coding_standard"
+                    "id": "introduction/coding-standard"
                   },
                   {
                     "type": "doc",

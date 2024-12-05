@@ -79,15 +79,15 @@ export default [
   },
   {
     path: '/documentation/',
-    component: ComponentCreator('/documentation/', '6b9'),
+    component: ComponentCreator('/documentation/', 'f13'),
     routes: [
       {
         path: '/documentation/',
-        component: ComponentCreator('/documentation/', 'ace'),
+        component: ComponentCreator('/documentation/', '7bb'),
         routes: [
           {
             path: '/documentation/',
-            component: ComponentCreator('/documentation/', '076'),
+            component: ComponentCreator('/documentation/', 'b4c'),
             routes: [
               {
                 path: '/documentation/before_installation/imporatnt_notes',
@@ -246,8 +246,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/introduction/coding_standard',
-                component: ComponentCreator('/documentation/introduction/coding_standard', '14f'),
+                path: '/documentation/introduction/coding-standard',
+                component: ComponentCreator('/documentation/introduction/coding-standard', '105'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

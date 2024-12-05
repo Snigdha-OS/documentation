@@ -113,17 +113,17 @@
     },
     "content": "content---documentation-privacy-policyfbb-0dc"
   },
-  "/documentation/-6b9": {
+  "/documentation/-f13": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---documentation-ed-9-690"
     }
   },
-  "/documentation/-ace": {
+  "/documentation/-7bb": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---documentation-935-548"
   },
-  "/documentation/-076": {
+  "/documentation/-b4c": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/documentation/before_installation/imporatnt_notes-89a": {
@@ -230,9 +230,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-introduction-code-of-conducte-89-ce5"
   },
-  "/documentation/introduction/coding_standard-14f": {
+  "/documentation/introduction/coding-standard-105": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-introduction-coding-standard-0-e-9-a35"
+    "content": "content---documentation-introduction-coding-standard-0-e-1-8f5"
   },
   "/documentation/introduction/contributing-2c1": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -312,6 +312,6 @@
   },
   "/documentation/-dd9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-overview-761-225"
+    "content": "content---documentation-761-cec"
   }
 }

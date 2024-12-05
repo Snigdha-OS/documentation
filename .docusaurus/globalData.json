@@ -96,8 +96,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "introduction/coding_standard",
-              "path": "/documentation/introduction/coding_standard",
+              "id": "introduction/coding-standard",
+              "path": "/documentation/introduction/coding-standard",
               "sidebar": "tutorialSidebar"
             },
             {

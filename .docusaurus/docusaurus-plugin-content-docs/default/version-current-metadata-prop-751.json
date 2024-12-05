@@ -67,8 +67,8 @@
           {
             "type": "link",
             "label": "Coding Standard",
-            "href": "/documentation/introduction/coding_standard",
-            "docId": "introduction/coding_standard",
+            "href": "/documentation/introduction/coding-standard",
+            "docId": "introduction/coding-standard",
             "unlisted": false
           },
           {
@@ -392,7 +392,7 @@
     "dev_guide/gpg_key": {
       "id": "dev_guide/gpg_key",
       "title": "Generate GPG Key",
-      "description": "",
+      "description": "🔐 How to Generate a GPG Key on Snigdha OS",
       "sidebar": "tutorialSidebar"
     },
     "dev_guide/install_keyring": {
@@ -461,8 +461,8 @@
       "description": "A code of conduct outlines expected behavior and guidelines for individuals within a specific community, organization, or group.",
       "sidebar": "tutorialSidebar"
     },
-    "introduction/coding_standard": {
-      "id": "introduction/coding_standard",
+    "introduction/coding-standard": {
+      "id": "introduction/coding-standard",
       "title": "Coding Standard",
       "description": "1. Consistent Naming Conventions:",
       "sidebar": "tutorialSidebar"
