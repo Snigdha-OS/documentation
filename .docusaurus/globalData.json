@@ -51,8 +51,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "dev_guide/upload_gog_key",
-              "path": "/documentation/dev_guide/upload_gog_key",
+              "id": "dev_guide/upload_gpg_key",
+              "path": "/documentation/dev_guide/upload_gpg_key",
               "sidebar": "tutorialSidebar"
             },
             {

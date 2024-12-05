@@ -312,15 +312,8 @@
           {
             "type": "link",
             "label": "Upload Key => Server",
-            "href": "/documentation/dev_guide/upload_gog_key",
-            "docId": "dev_guide/upload_gog_key",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Upload & Deploy Packages",
-            "href": "/documentation/dev_guide/deploy_packages",
-            "docId": "dev_guide/deploy_packages",
+            "href": "/documentation/dev_guide/upload_gpg_key",
+            "docId": "dev_guide/upload_gpg_key",
             "unlisted": false
           },
           {
@@ -328,6 +321,13 @@
             "label": "Install Keyrings",
             "href": "/documentation/dev_guide/install_keyring",
             "docId": "dev_guide/install_keyring",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Upload & Deploy Packages",
+            "href": "/documentation/dev_guide/deploy_packages",
+            "docId": "dev_guide/deploy_packages",
             "unlisted": false
           },
           {
@@ -393,7 +393,7 @@
     "dev_guide/deploy_packages": {
       "id": "dev_guide/deploy_packages",
       "title": "Upload & Deploy Packages",
-      "description": "",
+      "description": "🚀 Uploading and Deploying an Arch Linux Package on GitHub",
       "sidebar": "tutorialSidebar"
     },
     "dev_guide/gpg_key": {
@@ -414,8 +414,8 @@
       "description": "Snigdha OS has it's own PKGBUILD template for building packages. We follow the the template so that we can maintain the packages in a better way. If you are building packages for Snigdha OS, then it will be a good option to follow the PKGBUILD template.",
       "sidebar": "tutorialSidebar"
     },
-    "dev_guide/upload_gog_key": {
-      "id": "dev_guide/upload_gog_key",
+    "dev_guide/upload_gpg_key": {
+      "id": "dev_guide/upload_gpg_key",
       "title": "Upload Key => Server",
       "description": "🌐 Sending and Receiving GPG Keys Using a Key Server",
       "sidebar": "tutorialSidebar"

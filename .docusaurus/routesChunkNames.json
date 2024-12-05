@@ -113,17 +113,17 @@
     },
     "content": "content---documentation-privacy-policyfbb-0dc"
   },
-  "/documentation/-117": {
+  "/documentation/-3af": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---documentation-ed-9-690"
     }
   },
-  "/documentation/-f55": {
+  "/documentation/-6df": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---documentation-935-548"
   },
-  "/documentation/-e93": {
+  "/documentation/-82d": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/documentation/before_installation/imporatnt_notes-89a": {
@@ -194,9 +194,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-dev-guide-pkgbuild-66-e-684"
   },
-  "/documentation/dev_guide/upload_gog_key-899": {
+  "/documentation/dev_guide/upload_gpg_key-2be": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-dev-guide-upload-gog-keya-6-f-008"
+    "content": "content---documentation-dev-guide-upload-gpg-key-92-e-790"
   },
   "/documentation/dev_guide/write-856": {
     "__comp": "__comp---theme-doc-item-178-a40",

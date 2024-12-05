@@ -22,6 +22,6 @@
   },
   "next": {
     "title": "Upload Key => Server",
-    "permalink": "/documentation/dev_guide/upload_gog_key"
+    "permalink": "/documentation/dev_guide/upload_gpg_key"
   }
 }

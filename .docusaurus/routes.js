@@ -79,15 +79,15 @@ export default [
   },
   {
     path: '/documentation/',
-    component: ComponentCreator('/documentation/', '117'),
+    component: ComponentCreator('/documentation/', '3af'),
     routes: [
       {
         path: '/documentation/',
-        component: ComponentCreator('/documentation/', 'f55'),
+        component: ComponentCreator('/documentation/', '6df'),
         routes: [
           {
             path: '/documentation/',
-            component: ComponentCreator('/documentation/', 'e93'),
+            component: ComponentCreator('/documentation/', '82d'),
             routes: [
               {
                 path: '/documentation/before_installation/imporatnt_notes',
@@ -192,8 +192,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/dev_guide/upload_gog_key',
-                component: ComponentCreator('/documentation/dev_guide/upload_gog_key', '899'),
+                path: '/documentation/dev_guide/upload_gpg_key',
+                component: ComponentCreator('/documentation/dev_guide/upload_gpg_key', '2be'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

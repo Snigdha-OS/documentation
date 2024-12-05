@@ -1,7 +1,7 @@
 {
   "id": "dev_guide/deploy_packages",
   "title": "Upload & Deploy Packages",
-  "description": "",
+  "description": "🚀 Uploading and Deploying an Arch Linux Package on GitHub",
   "source": "@site/docs/dev_guide/deploy_packages.md",
   "sourceDirName": "dev_guide",
   "slug": "/dev_guide/deploy_packages",
@@ -11,17 +11,17 @@
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/deploy_packages.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
+  "sidebarPosition": 5,
   "frontMatter": {
-    "sidebar_position": 4
+    "sidebar_position": 5
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Upload Key => Server",
-    "permalink": "/documentation/dev_guide/upload_gog_key"
-  },
-  "next": {
     "title": "Install Keyrings",
     "permalink": "/documentation/dev_guide/install_keyring"
+  },
+  "next": {
+    "title": "Writing Documentation",
+    "permalink": "/documentation/dev_guide/write"
   }
 }

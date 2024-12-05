@@ -130,7 +130,7 @@
             {
               "id": "dev_guide/deploy_packages",
               "title": "Upload & Deploy Packages",
-              "description": "",
+              "description": "🚀 Uploading and Deploying an Arch Linux Package on GitHub",
               "source": "@site/docs/dev_guide/deploy_packages.md",
               "sourceDirName": "dev_guide",
               "slug": "/dev_guide/deploy_packages",
@@ -140,18 +140,18 @@
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/deploy_packages.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 4,
+              "sidebarPosition": 5,
               "frontMatter": {
-                "sidebar_position": 4
+                "sidebar_position": 5
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Upload Key => Server",
-                "permalink": "/documentation/dev_guide/upload_gog_key"
-              },
-              "next": {
                 "title": "Install Keyrings",
                 "permalink": "/documentation/dev_guide/install_keyring"
+              },
+              "next": {
+                "title": "Writing Documentation",
+                "permalink": "/documentation/dev_guide/write"
               }
             },
             {
@@ -178,7 +178,7 @@
               },
               "next": {
                 "title": "Upload Key => Server",
-                "permalink": "/documentation/dev_guide/upload_gog_key"
+                "permalink": "/documentation/dev_guide/upload_gpg_key"
               }
             },
             {
@@ -194,18 +194,18 @@
               "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/install_keyring.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 5,
+              "sidebarPosition": 4,
               "frontMatter": {
-                "sidebar_position": 5
+                "sidebar_position": 4
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Upload & Deploy Packages",
-                "permalink": "/documentation/dev_guide/deploy_packages"
+                "title": "Upload Key => Server",
+                "permalink": "/documentation/dev_guide/upload_gpg_key"
               },
               "next": {
-                "title": "Writing Documentation",
-                "permalink": "/documentation/dev_guide/write"
+                "title": "Upload & Deploy Packages",
+                "permalink": "/documentation/dev_guide/deploy_packages"
               }
             },
             {
@@ -236,16 +236,16 @@
               }
             },
             {
-              "id": "dev_guide/upload_gog_key",
+              "id": "dev_guide/upload_gpg_key",
               "title": "Upload Key => Server",
               "description": "🌐 Sending and Receiving GPG Keys Using a Key Server",
-              "source": "@site/docs/dev_guide/upload_gog_key.md",
+              "source": "@site/docs/dev_guide/upload_gpg_key.md",
               "sourceDirName": "dev_guide",
-              "slug": "/dev_guide/upload_gog_key",
-              "permalink": "/documentation/dev_guide/upload_gog_key",
+              "slug": "/dev_guide/upload_gpg_key",
+              "permalink": "/documentation/dev_guide/upload_gpg_key",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/upload_gog_key.md",
+              "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/upload_gpg_key.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -258,8 +258,8 @@
                 "permalink": "/documentation/dev_guide/gpg_key"
               },
               "next": {
-                "title": "Upload & Deploy Packages",
-                "permalink": "/documentation/dev_guide/deploy_packages"
+                "title": "Install Keyrings",
+                "permalink": "/documentation/dev_guide/install_keyring"
               }
             },
             {
@@ -281,8 +281,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Install Keyrings",
-                "permalink": "/documentation/dev_guide/install_keyring"
+                "title": "Upload & Deploy Packages",
+                "permalink": "/documentation/dev_guide/deploy_packages"
               },
               "next": {
                 "title": "PKGBUILD Template",
@@ -1311,15 +1311,15 @@
                   },
                   {
                     "type": "doc",
-                    "id": "dev_guide/upload_gog_key"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "dev_guide/deploy_packages"
+                    "id": "dev_guide/upload_gpg_key"
                   },
                   {
                     "type": "doc",
                     "id": "dev_guide/install_keyring"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "dev_guide/deploy_packages"
                   },
                   {
                     "type": "doc",

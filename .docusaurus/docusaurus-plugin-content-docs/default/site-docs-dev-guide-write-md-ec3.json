@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Install Keyrings",
-    "permalink": "/documentation/dev_guide/install_keyring"
+    "title": "Upload & Deploy Packages",
+    "permalink": "/documentation/dev_guide/deploy_packages"
   },
   "next": {
     "title": "PKGBUILD Template",
