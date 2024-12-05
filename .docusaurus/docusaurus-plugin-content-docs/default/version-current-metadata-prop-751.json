@@ -405,7 +405,7 @@
     "dev_guide/install_keyring": {
       "id": "dev_guide/install_keyring",
       "title": "Install Keyrings",
-      "description": "",
+      "description": "🔑 Installing and Packaging Your Own Keyring on Arch Linux",
       "sidebar": "tutorialSidebar"
     },
     "dev_guide/pkgbuild": {

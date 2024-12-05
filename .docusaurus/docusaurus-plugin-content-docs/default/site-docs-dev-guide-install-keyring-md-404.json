@@ -1,7 +1,7 @@
 {
   "id": "dev_guide/install_keyring",
   "title": "Install Keyrings",
-  "description": "",
+  "description": "🔑 Installing and Packaging Your Own Keyring on Arch Linux",
   "source": "@site/docs/dev_guide/install_keyring.md",
   "sourceDirName": "dev_guide",
   "slug": "/dev_guide/install_keyring",
