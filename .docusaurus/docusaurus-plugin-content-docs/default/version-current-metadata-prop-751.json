@@ -355,16 +355,16 @@
         "items": [
           {
             "type": "link",
-            "label": "Tool: DNS Enum",
-            "href": "/documentation/tools/dns",
-            "docId": "tools/dns",
+            "label": "Aircrack-NG",
+            "href": "/documentation/tools/aircrack-ng",
+            "docId": "tools/aircrack-ng",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Aircrack-NG",
-            "href": "/documentation/tools/aircrack-ng",
-            "docId": "tools/aircrack-ng",
+            "label": "DNS Enum",
+            "href": "/documentation/tools/dns",
+            "docId": "tools/dns",
             "unlisted": false
           }
         ],
@@ -573,8 +573,8 @@
     },
     "tools/dns": {
       "id": "tools/dns",
-      "title": "Tool: DNS Enum",
-      "description": "",
+      "title": "DNS Enum",
+      "description": "🌐 DNS Enumeration (DNS Enum)",
       "sidebar": "tutorialSidebar"
     },
     "troubleshoot/bluetooth": {

@@ -1,5 +1,5 @@
 ---
-sidebarposition: 1
+sidebar_position: 1
 ---
 
 # Aircrack-NG

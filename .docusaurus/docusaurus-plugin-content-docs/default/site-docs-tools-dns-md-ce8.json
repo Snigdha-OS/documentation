@@ -1,7 +1,7 @@
 {
   "id": "tools/dns",
-  "title": "Tool: DNS Enum",
-  "description": "",
+  "title": "DNS Enum",
+  "description": "🌐 DNS Enumeration (DNS Enum)",
   "source": "@site/docs/tools/dns.md",
   "sourceDirName": "tools",
   "slug": "/tools/dns",
@@ -17,10 +17,6 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Tools",
-    "permalink": "/documentation/category/tools"
-  },
-  "next": {
     "title": "Aircrack-NG",
     "permalink": "/documentation/tools/aircrack-ng"
   }
