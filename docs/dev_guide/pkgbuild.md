@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 7
 ---
 # PKGBUILD Template
 Snigdha OS has it's own `PKGBUILD` template for building packages. We follow the the template so that we can maintain the packages in a better way. If you are building packages for Snigdha OS, then it will be a good option to follow the `PKGBUILD` template.

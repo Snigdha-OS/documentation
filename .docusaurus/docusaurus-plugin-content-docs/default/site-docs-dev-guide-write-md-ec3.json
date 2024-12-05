@@ -21,7 +21,7 @@
     "permalink": "/documentation/dev_guide/install_keyring"
   },
   "next": {
-    "title": "Tools",
-    "permalink": "/documentation/category/tools"
+    "title": "PKGBUILD Template",
+    "permalink": "/documentation/dev_guide/pkgbuild"
   }
 }

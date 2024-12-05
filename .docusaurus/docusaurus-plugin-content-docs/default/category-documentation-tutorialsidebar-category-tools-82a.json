@@ -5,8 +5,8 @@
   "permalink": "/documentation/category/tools",
   "navigation": {
     "previous": {
-      "title": "Writing Documentation",
-      "permalink": "/documentation/dev_guide/write"
+      "title": "PKGBUILD Template",
+      "permalink": "/documentation/dev_guide/pkgbuild"
     },
     "next": {
       "title": "Tool: DNS Enum",

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 # Generate GPG Key
 ### 🔐 How to Generate a GPG Key on Snigdha OS

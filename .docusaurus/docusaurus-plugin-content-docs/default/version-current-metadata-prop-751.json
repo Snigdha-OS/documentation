@@ -304,16 +304,16 @@
           },
           {
             "type": "link",
-            "label": "PKGBUILD Template",
-            "href": "/documentation/dev_guide/pkgbuild",
-            "docId": "dev_guide/pkgbuild",
+            "label": "Generate GPG Key",
+            "href": "/documentation/dev_guide/gpg_key",
+            "docId": "dev_guide/gpg_key",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Generate GPG Key",
-            "href": "/documentation/dev_guide/gpg_key",
-            "docId": "dev_guide/gpg_key",
+            "label": "Upload Key => Server",
+            "href": "/documentation/dev_guide/upload_gog_key",
+            "docId": "dev_guide/upload_gog_key",
             "unlisted": false
           },
           {
@@ -335,6 +335,13 @@
             "label": "Writing Documentation",
             "href": "/documentation/dev_guide/write",
             "docId": "dev_guide/write",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "PKGBUILD Template",
+            "href": "/documentation/dev_guide/pkgbuild",
+            "docId": "dev_guide/pkgbuild",
             "unlisted": false
           }
         ],
@@ -405,6 +412,12 @@
       "id": "dev_guide/pkgbuild",
       "title": "PKGBUILD Template",
       "description": "Snigdha OS has it's own PKGBUILD template for building packages. We follow the the template so that we can maintain the packages in a better way. If you are building packages for Snigdha OS, then it will be a good option to follow the PKGBUILD template.",
+      "sidebar": "tutorialSidebar"
+    },
+    "dev_guide/upload_gog_key": {
+      "id": "dev_guide/upload_gog_key",
+      "title": "Upload Key => Server",
+      "description": "🌐 Sending and Receiving GPG Keys Using a Key Server",
       "sidebar": "tutorialSidebar"
     },
     "dev_guide/write": {

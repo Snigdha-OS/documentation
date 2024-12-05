@@ -11,17 +11,17 @@
   "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/dev_guide/gpg_key.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 3
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "PKGBUILD Template",
-    "permalink": "/documentation/dev_guide/pkgbuild"
+    "title": "Build From Source",
+    "permalink": "/documentation/dev_guide/build_source"
   },
   "next": {
-    "title": "Upload & Deploy Packages",
-    "permalink": "/documentation/dev_guide/deploy_packages"
+    "title": "Upload Key => Server",
+    "permalink": "/documentation/dev_guide/upload_gog_key"
   }
 }
