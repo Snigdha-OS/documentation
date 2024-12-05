@@ -9,8 +9,8 @@
       "permalink": "/documentation/dev_guide/pkgbuild"
     },
     "next": {
-      "title": "Aircrack-NG",
-      "permalink": "/documentation/tools/aircrack-ng"
+      "title": "DNS Enum",
+      "permalink": "/documentation/tools/dns"
     }
   }
 }

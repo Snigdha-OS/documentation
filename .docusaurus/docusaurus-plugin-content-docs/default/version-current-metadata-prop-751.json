@@ -355,16 +355,16 @@
         "items": [
           {
             "type": "link",
-            "label": "Aircrack-NG",
-            "href": "/documentation/tools/aircrack-ng",
-            "docId": "tools/aircrack-ng",
+            "label": "DNS Enum",
+            "href": "/documentation/tools/dns",
+            "docId": "tools/dns",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "DNS Enum",
-            "href": "/documentation/tools/dns",
-            "docId": "tools/dns",
+            "label": "Aircrack-NG",
+            "href": "/documentation/tools/aircrack-ng",
+            "docId": "tools/aircrack-ng",
             "unlisted": false
           }
         ],

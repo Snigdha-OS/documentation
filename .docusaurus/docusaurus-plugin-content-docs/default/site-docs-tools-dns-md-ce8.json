@@ -17,6 +17,10 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
+    "title": "Tools",
+    "permalink": "/documentation/category/tools"
+  },
+  "next": {
     "title": "Aircrack-NG",
     "permalink": "/documentation/tools/aircrack-ng"
   }
