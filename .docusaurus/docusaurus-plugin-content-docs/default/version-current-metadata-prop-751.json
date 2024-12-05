@@ -359,6 +359,13 @@
             "href": "/documentation/tools/dns",
             "docId": "tools/dns",
             "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Aircrack-NG",
+            "href": "/documentation/tools/aircrack-ng",
+            "docId": "tools/aircrack-ng",
+            "unlisted": false
           }
         ],
         "href": "/documentation/category/tools"
@@ -556,6 +563,12 @@
       "id": "post_installation/update",
       "title": "Update Snigdha OS",
       "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tools/aircrack-ng": {
+      "id": "tools/aircrack-ng",
+      "title": "Aircrack-NG",
+      "description": "🔐 Aircrack-ng: A Complete Guide with Installation on Snigdha OS",
       "sidebar": "tutorialSidebar"
     },
     "tools/dns": {

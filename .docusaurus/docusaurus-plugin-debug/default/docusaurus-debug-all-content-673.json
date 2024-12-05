@@ -885,6 +885,28 @@
               }
             },
             {
+              "id": "tools/aircrack-ng",
+              "title": "Aircrack-NG",
+              "description": "🔐 Aircrack-ng: A Complete Guide with Installation on Snigdha OS",
+              "source": "@site/docs/tools/aircrack-ng.md",
+              "sourceDirName": "tools",
+              "slug": "/tools/aircrack-ng",
+              "permalink": "/documentation/tools/aircrack-ng",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/Snigdha-OS/documentation/tree/master/docs/tools/aircrack-ng.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebarposition": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tool: DNS Enum",
+                "permalink": "/documentation/tools/dns"
+              }
+            },
+            {
               "id": "tools/dns",
               "title": "Tool: DNS Enum",
               "description": "",
@@ -905,6 +927,10 @@
               "previous": {
                 "title": "Tools",
                 "permalink": "/documentation/category/tools"
+              },
+              "next": {
+                "title": "Aircrack-NG",
+                "permalink": "/documentation/tools/aircrack-ng"
               }
             },
             {
@@ -1346,6 +1372,10 @@
                   {
                     "type": "doc",
                     "id": "tools/dns"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tools/aircrack-ng"
                   }
                 ],
                 "link": {

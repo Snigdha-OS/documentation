@@ -79,15 +79,15 @@ export default [
   },
   {
     path: '/documentation/',
-    component: ComponentCreator('/documentation/', '3af'),
+    component: ComponentCreator('/documentation/', '20b'),
     routes: [
       {
         path: '/documentation/',
-        component: ComponentCreator('/documentation/', '6df'),
+        component: ComponentCreator('/documentation/', '175'),
         routes: [
           {
             path: '/documentation/',
-            component: ComponentCreator('/documentation/', '82d'),
+            component: ComponentCreator('/documentation/', '5ea'),
             routes: [
               {
                 path: '/documentation/before_installation/imporatnt_notes',
@@ -326,6 +326,12 @@ export default [
               {
                 path: '/documentation/post_installation/update',
                 component: ComponentCreator('/documentation/post_installation/update', 'bd0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/tools/aircrack-ng',
+                component: ComponentCreator('/documentation/tools/aircrack-ng', 'd77'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

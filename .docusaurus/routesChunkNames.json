@@ -113,17 +113,17 @@
     },
     "content": "content---documentation-privacy-policyfbb-0dc"
   },
-  "/documentation/-3af": {
+  "/documentation/-20b": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---documentation-ed-9-690"
     }
   },
-  "/documentation/-6df": {
+  "/documentation/-175": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---documentation-935-548"
   },
-  "/documentation/-82d": {
+  "/documentation/-5ea": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/documentation/before_installation/imporatnt_notes-89a": {
@@ -285,6 +285,10 @@
   "/documentation/post_installation/update-bd0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-post-installation-updateffa-74d"
+  },
+  "/documentation/tools/aircrack-ng-d77": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-tools-aircrack-ng-71-e-f14"
   },
   "/documentation/tools/dns-2cf": {
     "__comp": "__comp---theme-doc-item-178-a40",
