@@ -5,7 +5,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'SNIGDHA OS - DOCS',
   tagline: 'Be silent when it is time to hear!',
-  favicon: 'img/snigdhaos-icon-docs.ico',
+  favicon: 'img/snigdhaos-ico.ico',
 
   // Set the production url of your site here
   url: 'https://snigdhaos.org/',
@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'snigdha-os', // Usually your GitHub org/user name.
+  organizationName: 'Snigdha-OS', // Usually your GitHub org/user name.
   projectName: 'documentation', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -64,7 +64,7 @@ const config = {
         title: 'DOCUMENTATION | SNIGDHA OS',
         logo: {
           alt: 'Snigdha OS Docs Logo',
-          src: 'img/snigdhaos-face.svg',
+          src: 'img/snigdhaos-docs.svg',
         },
         items: [
           {

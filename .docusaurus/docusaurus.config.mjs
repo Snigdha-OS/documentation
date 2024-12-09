@@ -6,11 +6,11 @@
 export default {
   "title": "SNIGDHA OS - DOCS",
   "tagline": "Be silent when it is time to hear!",
-  "favicon": "img/snigdhaos-icon-docs.ico",
+  "favicon": "img/snigdhaos-ico.ico",
   "url": "https://snigdhaos.org",
   "baseUrl": "/documentation/",
   "trailingSlash": false,
-  "organizationName": "snigdha-os",
+  "organizationName": "Snigdha-OS",
   "projectName": "documentation",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -48,7 +48,7 @@ export default {
       "title": "DOCUMENTATION | SNIGDHA OS",
       "logo": {
         "alt": "Snigdha OS Docs Logo",
-        "src": "img/snigdhaos-face.svg"
+        "src": "img/snigdhaos-docs.svg"
       },
       "items": [
         {
