@@ -2,59 +2,122 @@
 slug: /privacy_policy
 title: Privacy Policy
 ---
+### Privacy Policy 🔒  
+Welcome to the Snigdha OS Team's website! Your privacy is incredibly important to us. Here's a user-friendly breakdown of how we handle your data and why we collect it, explained in detail with clarity and transparency. 😊
 
-## Privacy Policy
+---
 
-The Snigdha OS Team (hereinafter referred to as "Snigdha OS" or "we") operates the website and its services available on the Internet at https://snigdhaos.org/ including the respective sub-directories (hereinafter referred to as the "website").
+### **Who We Are** 👥  
+The **Snigdha OS Team** (referred to as "Snigdha OS" or "we") operates the website and services at [https://snigdhaos.org](https://snigdhaos.org), including its subdirectories.  
 
-With this privacy policy, we would like to inform you which data will be processed in which form when you visit the website or use its services. Where the GDPR applies, we hereby also comply with our duty to inform you in accordance with Art. 13 and Art. 14 of the EU-General Data Protection Regulation (GDPR).
+If you have questions about your privacy, you can reach us at:  
+📧 **Email:** privacy@snigdhaos.org  
 
-## Controller
-The controller for the data processing on our website is the Snigdha OS Team.
+---
 
-Email: privacy@snigdhaos.org
+### **Why We Collect Your Data** 🧐  
+We collect and process data to:
+- Ensure our website works smoothly. 🚀  
+- Provide the services you love, like forums and wikis. 🛠️  
+- Keep our platform secure from spammers and malicious actors. 🔐  
 
-## Purposes, legal bases and storage period
+When applicable, we adhere to the **GDPR** (General Data Protection Regulation) for protecting your rights.  
 
-### General use of the platform
-The web server of our hosting service provider automatically records the accesses to our website. Therefore, when you visit our website, you transmit certain technical data to us, namely:
+---
 
-- IP address,
-- accessed content,
-- information about the transmission,
-- date of access,
-- the amount of data transmitted,
-- the referrer,
-- the web browser/user agent.
+### **What Data We Collect & Why** 📊  
 
-Where the GDPR applies, the processing of the IP address when establishing a connection is based on Art. 6 par. 1 lit. b) GDPR to provide the website you requested.
+#### 1. **When You Visit Our Website** 🌐  
+Our hosting provider automatically collects some technical details:  
+- **IP address**  
+- **Content accessed**  
+- **Date and time of access**  
+- **Amount of data transmitted**  
+- **Referrer (the website you came from)**  
+- **Web browser and user agent details**  
 
-Our host also creates so-called log files to maintain system security, in order to guarantee the security and integrity of our IT systems. These purposes also represent the legitimate interest for which the processing is carried out (Art. 6 par. 1 lit. f) GDPR). We store the log files for a period of 30 days and delete them afterwards.
+💡 **Why?**  
+- To establish a connection and display the website to you.  
+- To maintain the security of our systems and detect malicious activity.  
 
-### Registering for a user account
-Some of our services require that you sign up and create a user account(e.g: Snigdha OS Forum, Cloud etc.). For this purpose we will collect and process your user name, email address and a password. We will send you a validation email to the email address you have provided. Where the GDPR applies, the legal basis for the processing is Art. 6 para. 1 lit. b) GDPR.
+🕒 **How Long?**  
+Log files are stored for **30 days** and then automatically deleted.  
 
-When you use our services we will collect certain information from you and associate it with your account, such as:
-- your password for the accounts Cloud, Forum,
-- your IP address,
-- your language preference,
-- your timezone
+---
 
-## Services of the website
-Our website offers you a range of services for which we process certain personal data:
+#### 2. **When You Create an Account** ✍️  
+For services like forums or wikis, you’ll need to sign up. We collect:  
+- **Username**  
+- **Email address**  
+- **Password** (securely stored)  
+- **Language preference** 🌍  
+- **Time zone** 🕰️  
 
-### Forum
-You can read in our forums without giving us any personal data. However, if you wish to participate by posting entries, we will ask you to sign up for an account. In this case, we will collect your user name, email address and a captcha question. You are able to select if you wish that other users could see your email address and if other users shall be able to send you mails via the forums mail function. Furthermore, you can set location options as time zone and language preference.
+💌 You’ll also get a confirmation email when signing up.  
 
-We process your data to provide you with the account, the forums and the respective functions. The captcha question is required to avoid abuse by spammers using automated tools to post their content and links to many sites. We process your location options and language preferences to provide you with the according account settings.
+💡 **Why?**  
+To give you a personalized experience and ensure account security.  
 
-When you post comments, we display certain information about your user account next to your post such as user name, registration date, and country of origin (if you add these personal details in your user account).
+---
 
-Where the GDPR applies, the legal basis for the processing is Art. 6 para. 1 lit. b) GDPR. In case you delete your account, we store your entries based on our legitimate interest of a consistent forums according to Art. 6 para. 1 lit. f) GDPR, but we anonymize the author of your entries.
+#### 3. **When You Use Specific Services** 🛠️  
 
-### Docs
-You can read in our wiki without giving us any personal data. However, if you wish to participate creating entries, we will ask you to sign up for an account. In this case, we will collect your user name, email address and a captcha question. You are able to select if you wish that other users could see your email address and if other users shall be able to send you mails via the wikis mail function. Furthermore, you can set location options as time zone and language preference.
+##### **Forums** 💬  
+- You can read posts anonymously.  
+- To participate, you’ll need an account.  
+- We’ll collect:  
+  - Username and email address.  
+  - Captcha responses (to block spam 🤖).  
 
-We process your data to provide you with the account, the wiki and the respective functions. The captcha question is required to avoid abuse by spammers using automated tools to post their content and links to many sites. We process your location options and language preferences to provide you with the according account settings. When you contribute entries, we display certain information about your user account next to your entries such as user name, registration date, and country of origin (if you add these personal details in your user account).
+When posting, certain account details (like your username and registration date) will be visible to other users.  
 
-Where the GDPR applies, the legal basis for the processing is Art. 6 para. 1 lit. b) GDPR. In case you delete your account, we store your entries based on our legitimate interest of a consistent wiki according to Art. 6 para. 1 lit. f) GDPR.
+💡 **Why?**  
+To prevent spam and provide a safe, engaging forum for discussion.  
+
+🕒 **What Happens If I Delete My Account?**  
+- Your posts will remain for the forum’s continuity.  
+- The author’s name will be anonymized to protect your identity.  
+
+---
+
+##### **Docs/Wiki** 📚  
+- Reading content is free for everyone.  
+- To contribute, you’ll need an account.  
+- Similar to forums, we collect:  
+  - Username and email address.  
+  - Captcha responses.  
+  - Optional details like your time zone and language.  
+
+💡 **Why?**  
+To personalize your experience and protect the platform from spam.  
+
+🕒 **What Happens If I Delete My Account?**  
+- Your contributions will stay visible for the community’s benefit.  
+- Your author details will be anonymized.  
+
+---
+
+### **Legal Basis for Data Processing (GDPR)** ⚖️  
+- **Providing Services (Art. 6 para. 1 lit. b GDPR):** We process your data to fulfill our contract with you (like offering account-based services).  
+- **Protecting Security (Art. 6 para. 1 lit. f GDPR):** We use data for legitimate interests like ensuring system stability and preventing abuse.  
+
+---
+
+### **Your Rights** ✨  
+Under the GDPR, you have the right to:  
+- **Access Your Data:** See what data we have about you.  
+- **Correct Inaccuracies:** Update incorrect or incomplete data.  
+- **Delete Your Data:** Ask us to erase your data (within legal constraints).  
+- **Restrict Processing:** Limit how we use your data.  
+- **Data Portability:** Receive your data in a usable format.  
+
+💌 To exercise your rights, contact us at: privacy@snigdhaos.org  
+
+---
+
+### **Conclusion** 💡  
+We’re committed to protecting your privacy while delivering a seamless experience. If you have any concerns or suggestions, don’t hesitate to reach out! Together, we can make Snigdha OS a safer and better place. 💜  
+
+Thank you for trusting us! 🙏  
+
+**Your Snigdha OS Team** 🛡️
