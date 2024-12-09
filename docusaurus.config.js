@@ -110,6 +110,16 @@ const config = {
         {name: 'google-site-verification', content: 'yn077F39pfs0VeUp9l09FZfw_uNegy4cXf7i0aPXJIc'},
       ],
     }),
+    plugins: [
+      [
+        '@docusaurus/plugin-sitemap',
+        {
+          // Optional: custom options for the sitemap plugin
+          changefreq: 'weekly', // Frequency of updates (optional)
+          priority: 0.5, // Default priority for URLs (optional)
+        },
+      ],
+    ],
 };
 
 export default config;
