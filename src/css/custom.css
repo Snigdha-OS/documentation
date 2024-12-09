@@ -4,55 +4,70 @@
  * work well for content-centric websites.
  */
  @import 'font-awesome/css/font-awesome.min.css';
-
-/* You can override the default Infima variables here. */
-:root {
-  --ifm-color-primary: #4f46e5;
-  --ifm-color-primary-dark: #4f46e5;
-  --ifm-color-primary-darker: #4f46e5;
-  --ifm-color-primary-darkest: #4f46e5;
-  --ifm-color-primary-light: #4f46e5;
-  --ifm-color-primary-lighter: #4f46e5;
-  --ifm-color-primary-lightest: #4f46e5;
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-}
-
-/* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #4f46e5;
-  --ifm-color-primary-dark: #4f46e5;
-  --ifm-color-primary-darker: #4f46e5;
-  --ifm-color-primary-darkest: #4f46e5;
-  --ifm-color-primary-light: #4f46e5;
-  --ifm-color-primary-lighter: #4f46e5;
-  --ifm-color-primary-lightest: #4f46e5;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-}
-
-.navbar__icon {
-  height: 2rem;
-  width: 2rem;
-}
-
-.navbar__github {
-  -webkit-tap-highlight-color: transparent;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 50%;
-  font-size: 1.5rem;
-  transition: background var(--ifm-transition-fast);
-}
-
-html[data-theme='light'] .navbar__github {
-  color: #4f46e5;
-}
-
-html[data-theme='dark'] .navbar__github {
-  color: #4f46e5;
-}
-
-.navbar__github:hover {
-  background: var(--ifm-color-emphasis-200);
-}
+ @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap');
+ 
+ /* You can override the default Infima variables here. */
+ :root {
+   --ifm-color-primary: #4f46e5;
+   --ifm-color-primary-dark: #4f46e5;
+   --ifm-color-primary-darker: #4f46e5;
+   --ifm-color-primary-darkest: #4f46e5;
+   --ifm-color-primary-light: #4f46e5;
+   --ifm-color-primary-lighter: #4f46e5;
+   --ifm-color-primary-lightest: #4f46e5;
+   --ifm-code-font-size: 95%;
+   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+ 
+   /* Custom font for code */
+   --ifm-font-family-code: 'Fira Code', monospace;
+ }
+ 
+ /* For readability concerns, you should choose a lighter palette in dark mode. */
+ [data-theme='dark'] {
+   --ifm-color-primary: #4f46e5;
+   --ifm-color-primary-dark: #4f46e5;
+   --ifm-color-primary-darker: #4f46e5;
+   --ifm-color-primary-darkest: #4f46e5;
+   --ifm-color-primary-light: #4f46e5;
+   --ifm-color-primary-lighter: #4f46e5;
+   --ifm-color-primary-lightest: #4f46e5;
+   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+ }
+ 
+ .navbar__icon {
+   height: 2rem;
+   width: 2rem;
+ }
+ 
+ .navbar__github {
+   -webkit-tap-highlight-color: transparent;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   border-radius: 50%;
+   font-size: 1.5rem;
+   transition: background var(--ifm-transition-fast);
+ }
+ 
+ html[data-theme='light'] .navbar__github {
+   color: #4f46e5;
+ }
+ 
+ html[data-theme='dark'] .navbar__github {
+   color: #4f46e5;
+ }
+ 
+ .navbar__github:hover {
+   background: var(--ifm-color-emphasis-200);
+ }
+ 
+ /* Apply Fira Code to code blocks and preformatted text */
+ code, pre {
+   font-family: 'Fira Code', monospace;
+ }
+ 
+ /* Optionally apply Fira Code globally for body */
+ body {
+   font-family: 'Fira Code', monospace;
+ }
+ 
