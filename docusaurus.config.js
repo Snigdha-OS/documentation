@@ -106,6 +106,9 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      metadata: [
+        {name: 'google-site-verification', content: 'yn077F39pfs0VeUp9l09FZfw_uNegy4cXf7i0aPXJIc'},
+      ],
     }),
 };
 
