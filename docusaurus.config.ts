@@ -48,7 +48,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'img/docusaurus-social-card.jpg', // Social media preview image
+    image: 'img/snigdhaos-og.png', // Social media preview image
     navbar: {
       title: 'Documentation | SNIGDHA OS',
       logo: {
@@ -89,7 +89,7 @@ const config: Config = {
     },
     {
       property: 'og:image',
-      content: 'img/docusaurus-social-card.jpg' // Social media preview image
+      content: 'img/snigdhaos-og.png' // Social media preview image
     },
     {
       property: 'og:title',
