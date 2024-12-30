@@ -3,17 +3,17 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'PlayBook | SNIGDHA OS',
+  title: 'DOCUMENTATION | SNIGDHA OS',
   tagline: 'The official Documentation of Snigdha OS',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://snigdhaos.org/',
-  baseUrl: '/playbook/',
+  baseUrl: '/documentation/',
   trailingSlash: false,
 
   organizationName: 'Snigdha-OS', // GitHub org/user name
-  projectName: 'playbook', // Repo name
+  projectName: 'documentation', // Repo name
   deploymentBranch: 'gh-pages',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -38,7 +38,7 @@ const config: Config = {
           sidebarCollapsible: false,
           routeBasePath: '/', // Set docs as the homepage
           showLastUpdateTime: true,
-          editUrl: 'https://github.com/Snigdha-OS/playbook/tree/master/',
+          editUrl: 'https://github.com/Snigdha-OS/documentation/tree/master/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -50,7 +50,7 @@ const config: Config = {
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg', // Social media preview image
     navbar: {
-      title: 'PlayBook | SNIGDHA OS',
+      title: 'Documentation | SNIGDHA OS',
       logo: {
         alt: 'Snigdha OS Logo',
         src: 'img/logo.svg',
@@ -93,7 +93,7 @@ const config: Config = {
     },
     {
       property: 'og:title',
-      content: 'PlayBook | SNIGDHA OS'
+      content: 'Documentation | SNIGDHA OS'
     },
     {
       property: 'og:description',
