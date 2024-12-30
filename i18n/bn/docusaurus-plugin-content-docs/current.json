@@ -1,0 +1,46 @@
+{
+  "version.label": {
+    "message": "পরবর্তী",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Introduction": {
+    "message": "ভূমিকা",
+    "description": "The label for category Introduction in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Introduction.link.generated-index.description": {
+    "message": "স্নিগ্ধা OS এর অফিসিয়াল ডকুমেন্টেশনে স্বাগতম। এই বিভাগটি স্নিগ্ধা OS এর একটি ওভারভিউ প্রদান করে, এর মূল বৈশিষ্ট্যগুলি এবং কীভাবে এটি দিয়ে শুরু করা যায়। আপনি একজন নতুন ব্যবহারকারী বা একজন অভিজ্ঞ ডেভেলপার হোন না কেন, আপনি এই হালকা ওজনের এবং অত্যন্ত কাস্টমাইজযোগ্য লিনাক্স ডিস্ট্রিবিউশনের সাথে আপনার যাত্রা শুরু করার জন্য সহায়ক তথ্য পাবেন।",
+    "description": "The generated-index page description for category Introduction in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Installation": {
+    "message": "ইনস্টলেশন",
+    "description": "The label for category Installation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Installation.link.generated-index.description": {
+    "message": "অনায়াসে স্নিগ্ধা OS ইনস্টল এবং সেট আপ করার জন্য ব্যাপক নির্দেশিকা এবং ধাপে ধাপে নির্দেশাবলী অন্বেষণ করুন। বিভিন্ন পরিবেশের জন্য উপযোগী বিস্তারিত ইনস্টলেশন প্রক্রিয়ার সাথে আপনার যাত্রা শুরু করুন।",
+    "description": "The generated-index page description for category Installation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Post Installation": {
+    "message": "পোস্ট ইন্সটলেশন",
+    "description": "The label for category Post Installation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Post Installation.link.generated-index.description": {
+    "message": "ইনস্টলেশনের পরে আপনার স্নিগ্ধা OS অপ্টিমাইজ, আপডেট এবং কাস্টমাইজ করার প্রয়োজনীয় পদক্ষেপগুলি অন্বেষণ করুন৷ এই নির্দেশিকা আপনাকে সিস্টেম আপডেট, অতিরিক্ত সফ্টওয়্যার ইনস্টলেশন, কনফিগারেশন পরিবর্তন এবং আরও অনেক কিছুর মাধ্যমে নিয়ে যাবে।",
+    "description": "The generated-index page description for category Post Installation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.User Guide": {
+    "message": "ব্যবহারকারীর নির্দেশিকা",
+    "description": "The label for category User Guide in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.User Guide.link.generated-index.description": {
+    "message": "একটি অপ্টিমাইজ করা অভিজ্ঞতার জন্য সিস্টেম আপডেট, সফ্টওয়্যার ইনস্টলেশন এবং কনফিগারেশন টুইক সহ আপনার স্নিগ্ধা OS সেটআপ চূড়ান্ত করতে পদক্ষেপগুলি অনুসরণ করুন৷",
+    "description": "The generated-index page description for category User Guide in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Troubleshoot": {
+    "message": "সমস্যা সমাধান",
+    "description": "The label for category Troubleshoot in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Troubleshoot.link.generated-index.description": {
+    "message": "Snigdha OS এর জন্য সাধারণ সমস্যা এবং সমস্যা সমাধানের পদক্ষেপ।",
+    "description": "The generated-index page description for category Troubleshoot in sidebar tutorialSidebar"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Introduction": {
+    "message": "Introduction",
+    "description": "The label for category Introduction in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Introduction.link.generated-index.description": {
+    "message": "Welcome to the official documentation of Snigdha OS. This section provides an overview of Snigdha OS, its key features, and how to get started with it. Whether you're a new user or an experienced developer, you'll find helpful information to begin your journey with this lightweight and highly customizable Linux distribution.",
+    "description": "The generated-index page description for category Introduction in sidebar tutorialSidebar"
+  }
+}

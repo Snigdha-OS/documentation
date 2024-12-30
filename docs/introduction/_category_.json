@@ -1,0 +1,8 @@
+{
+  "label": "Introduction",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Welcome to the official documentation of Snigdha OS. This section provides an overview of Snigdha OS, its key features, and how to get started with it. Whether you're a new user or an experienced developer, you'll find helpful information to begin your journey with this lightweight and highly customizable Linux distribution."
+  }
+}

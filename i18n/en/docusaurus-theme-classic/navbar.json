@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "PlayBook | SNIGDHA OS",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Snigdha OS Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
