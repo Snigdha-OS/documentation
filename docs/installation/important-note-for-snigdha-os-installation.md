@@ -34,7 +34,7 @@ Installing Snigdha OS is an exciting step toward a customized and high-performan
 ## 📜 Read the Documentation
 
 - 📖 **Thoroughly review the installation documentation** to understand each step. Jumping into the process without preparation can lead to errors or an incomplete setup.
-- 🧭 Follow the official [Snigdha OS Playbook](https://snigdha-os.github.io/playbook/) for detailed guidance.
+- 🧭 Follow the official [Snigdha OS Documentation](https://snigdha-os.github.io/documentation/) for detailed guidance.
 
 
 
@@ -61,7 +61,7 @@ Before you begin, ensure you have:
 
 If you encounter any issues during installation:  
 - Visit our [community forums](https://forum.snigdhaos.org) for support.  
-- Check out the troubleshooting section in the [Snigdha OS Playbook](https://snigdha-os.github.io/playbook/).  
+- Check out the troubleshooting section in the [Snigdha OS documentation](https://snigdha-os.github.io/documentation/).  
 - Reach out to the active developers or contributors for assistance.  
 
 
