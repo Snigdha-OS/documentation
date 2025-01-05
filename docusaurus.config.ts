@@ -1,5 +1,5 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
@@ -7,21 +7,20 @@ const config: Config = {
   tagline: 'The official Documentation of Snigdha OS',
   favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
-  url: 'https://snigdhaos.org/',
-  baseUrl: '/documentation/',
+  // Deployment and site configuration
+  url: 'https://snigdhaos.org/', // Production URL
+  baseUrl: '/documentation/', // Base URL for the site
   trailingSlash: false,
-
-  organizationName: 'Snigdha-OS', // GitHub org/user name
-  projectName: 'documentation', // Repo name
-  deploymentBranch: 'gh-pages',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  organizationName: 'Snigdha-OS', // GitHub organization/user name
+  projectName: 'documentation', // Repository name
+  deploymentBranch: 'gh-pages', // Branch for deployment
+  onBrokenLinks: 'throw', // Throw error for broken links
+  onBrokenMarkdownLinks: 'warn', // Warn for broken Markdown links
 
   // Localization settings
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'hi', 'bn'], // English, Hindi, Bengali
+    defaultLocale: 'en', // Default language
+    locales: ['en', 'hi', 'bn'], // Supported languages: English, Hindi, Bengali
     localeConfigs: {
       en: { label: 'English' },
       hi: { label: 'हिन्दी' },
@@ -34,16 +33,16 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: './sidebars.ts',
-          sidebarCollapsible: false,
+          sidebarPath: './sidebars.ts', // Path to sidebar configuration
+          sidebarCollapsible: false, // Sidebar items are not collapsible
           routeBasePath: '/', // Set docs as the homepage
-          showLastUpdateTime: true,
-          editUrl: 'https://github.com/Snigdha-OS/documentation/tree/master/',
+          showLastUpdateTime: true, // Show last updated time for docs
+          editUrl: 'https://github.com/Snigdha-OS/documentation/tree/master/', // URL for editing docs
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: './src/css/custom.css', // Custom CSS for styling
         },
-        sitemap: false, // Disable the default sitemap plugin from the preset
+        sitemap: false, // Disable default sitemap plugin
       } satisfies Preset.Options,
     ],
   ],
@@ -52,14 +51,14 @@ const config: Config = {
     [
       '@docusaurus/plugin-sitemap',
       {
-        changefreq: 'weekly',
-        priority: 0.5,
-        filename: 'sitemap.xml',
-        ignorePatterns: ['/tags/**'],
+        changefreq: 'weekly', // Frequency of updates in sitemap
+        priority: 0.5, // Default priority for pages
+        filename: 'sitemap.xml', // Sitemap filename
+        ignorePatterns: ['/tags/**'], // Ignore tags pages
         createSitemapItems: async (params) => {
-          const {defaultCreateSitemapItems, ...rest} = params;
+          const { defaultCreateSitemapItems, ...rest } = params;
           const items = await defaultCreateSitemapItems(rest);
-          return items.filter((item) => !item.url.includes('/page/'));
+          return items.filter((item) => !item.url.includes('/page/')); // Exclude pagination pages
         },
       },
     ],
@@ -75,7 +74,7 @@ const config: Config = {
       },
       items: [
         {
-          type: 'localeDropdown', // Language switcher
+          type: 'localeDropdown', // Language switcher dropdown
           position: 'right',
         },
         {
@@ -87,12 +86,12 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      links: [],
+      links: [], // Customize footer links here
       copyright: `Copyright © ${new Date().getFullYear()} Snigdha OS. Powered by TONMOY INFRASTRUCTURE™.`,
     },
     prism: {
-      theme: prismThemes.github,
-      darkTheme: prismThemes.dracula,
+      theme: prismThemes.github, // Light theme
+      darkTheme: prismThemes.dracula, // Dark theme
     },
     metaTags: [
       {
