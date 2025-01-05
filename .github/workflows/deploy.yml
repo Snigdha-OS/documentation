@@ -27,9 +27,6 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-      - name: Install font-awesome
-        run: pnpm add font-awesome
-
       - name: Build documents
         run: pnpm run build
 
