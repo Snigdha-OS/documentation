@@ -3,12 +3,10 @@
 # Author        : ESHAN ROY
 # Author URI    : https://eshanized.github.io
 
-# NOTE : Run at your own risk!
-
 # Define the conventional commit types with new emojis
 TYPES=("🚀 feat" "🐛 fix" "📝 docs" "✨ style" "🛠 refactor" "⚡️ perf" "🔬 test" "🔧 build" "🤖 ci" "🧹 chore" "⏪ revert")
 
-# Function to display an error and exit
+# Function to display an error and exit and
 error_exit() {
     echo -e "\033[1;31m[ERROR]\033[0m $1"
     exit 1
@@ -39,13 +37,6 @@ type_emoji=${type}
 type=${type_emoji#* }
 emoji=${type_emoji% *}
 
-# Prompt the user to enter a scope (optional)
-read -p "Enter a scope (optional): " scope
-scope_part=""
-if [ -n "$scope" ]; then
-    scope_part="($scope)"
-fi
-
 # Prompt the user to enter a short description
 read -p "Enter a short description: " desc
 if [ -z "$desc" ]; then
@@ -56,25 +47,16 @@ fi
 read -p "Enter a longer description (optional): " long_desc
 
 # Create the commit message
-commit_msg="$emoji $type$scope_part: $desc"
+commit_msg="$emoji $type: $desc"
 
 # If a longer description was provided, add it to the commit message
 if [ -n "$long_desc" ]; then
-    commit_msg+="
-
-$long_desc"
+    commit_msg+="\n\n$long_desc"
 fi
 
 # Print the commit message to the console
 echo -e "\nCommit message:"
 echo -e "\033[1;36m$commit_msg\033[0m"
-
-# Confirm before committing
-read -p "Do you want to proceed with this commit? (y/n): " confirm
-if [[ "$confirm" != "y" && "$confirm" != "Y" ]]; then
-    echo "Commit aborted."
-    exit 0
-fi
 
 # Stage all changes
 git add .
