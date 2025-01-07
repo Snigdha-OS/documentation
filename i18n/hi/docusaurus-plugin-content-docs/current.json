@@ -1,14 +1,46 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "अगला",
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Introduction": {
-    "message": "Introduction",
+    "message": "परिचय",
     "description": "The label for category Introduction in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Introduction.link.generated-index.description": {
-    "message": "Welcome to the official documentation of Snigdha OS. This section provides an overview of Snigdha OS, its key features, and how to get started with it. Whether you're a new user or an experienced developer, you'll find helpful information to begin your journey with this lightweight and highly customizable Linux distribution.",
+    "message": "स्निग्धा ओएस के आधिकारिक दस्तावेज़ीकरण में आपका स्वागत है। यह अनुभाग स्निग्धा ओएस, इसकी प्रमुख विशेषताओं और इसके साथ शुरुआत करने का एक सिंहावलोकन प्रदान करता है। चाहे आप नए उपयोगकर्ता हों या अनुभवी डेवलपर, आपको इस हल्के और उच्च अनुकूलन योग्य लिनक्स वितरण के साथ अपनी यात्रा शुरू करने के लिए उपयोगी जानकारी मिलेगी।",
     "description": "The generated-index page description for category Introduction in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Installation": {
+    "message": "इंस्टालेशन",
+    "description": "The label for category Installation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Installation.link.generated-index.description": {
+    "message": "स्निग्धा ओएस को आसानी से स्थापित करने के लिए व्यापक गाइड और चरण-दर-चरण निर्देश देखें। विभिन्न परिवेशों के लिए तैयार विस्तृत इंस्टॉलेशन प्रक्रियाओं के साथ अपनी यात्रा शुरू करें।",
+    "description": "The generated-index page description for category Installation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Post Installation": {
+    "message": "स्थापना के बाद",
+    "description": "The label for category Post Installation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Post Installation.link.generated-index.description": {
+    "message": "इंस्टॉलेशन के बाद अपने स्निग्धा ओएस को ऑप्टिमाइज़, अपडेट और कस्टमाइज़ करने के लिए आवश्यक चरणों का अन्वेषण करें। यह मार्गदर्शिका आपको सिस्टम अपडेट, अतिरिक्त सॉफ़्टवेयर इंस्टॉलेशन, कॉन्फ़िगरेशन बदलाव और बहुत कुछ के बारे में बताएगी।",
+    "description": "The generated-index page description for category Post Installation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.User Guide": {
+    "message": "उपयोगकर्ता गाइड",
+    "description": "The label for category User Guide in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.User Guide.link.generated-index.description": {
+    "message": "अपने स्निग्धा ओएस सेटअप को अंतिम रूप देने के लिए चरणों का पालन करें, जिसमें एक अनुकूलित अनुभव के लिए सिस्टम अपडेट, सॉफ़्टवेयर इंस्टॉलेशन और कॉन्फ़िगरेशन ट्विक शामिल हैं।",
+    "description": "The generated-index page description for category User Guide in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Troubleshoot": {
+    "message": "समस्याओं का निवारण",
+    "description": "The label for category Troubleshoot in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Troubleshoot.link.generated-index.description": {
+    "message": "स्निग्धा ओएस के लिए सामान्य समस्याएं और समस्या निवारण चरण।",
+    "description": "The generated-index page description for category Troubleshoot in sidebar tutorialSidebar"
   }
 }
