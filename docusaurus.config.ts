@@ -20,12 +20,14 @@ const config: Config = {
   // Localization settings
   i18n: {
     defaultLocale: 'en', // Default language
-    locales: ['en', 'hi', 'bn', 'pa'], // Supported languages: English, Hindi, Bengali, Punjabi
+    locales: ['en', 'hi', 'bn', 'pa', 'ta', 'te'], // Supported languages: English, Hindi, Bengali, Punjabi, Tamil, Telugu
     localeConfigs: {
       en: { label: 'English' },
       hi: { label: 'हिन्दी' },
       bn: { label: 'বাংলা' },
-      pa: { label: 'ਪੰਜਾਬੀ' }, // Punjabi language label
+      pa: { label: 'ਪੰਜਾਬੀ' }, // Punjabi
+      ta: { label: 'தமிழ்' }, // Tamil
+      te: { label: 'తెలుగు' }, // Telugu
     },
   },
 
