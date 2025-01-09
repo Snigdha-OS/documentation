@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# 🛡️ Privacy Policy for Snigdha OS
+# Privacy Policy for Snigdha OS
 
 **Effective Date:** 09 January, 2025  
 **Last Updated:** 09 January, 2025
@@ -92,9 +92,9 @@ We may update this Privacy Policy from time to time to reflect new features, ser
 
 We value your feedback! If you have any questions, concerns, or requests, feel free to reach out:  
 
-📧 **Email:** [Insert Email Address]  
-📍 **Address:** [Insert Address]  
-📞 **Phone:** [Insert Phone Number]  
+📧 **Email:** privacy@snigdhaos.org  
+📍 **Address:** N/A  
+📞 **Phone:** N/A
 
 
 
