@@ -1,14 +1,14 @@
 {
   "title": {
-    "message": "Documentation | SNIGDHA OS",
+    "message": "ਡੌਕਯੂਮੇਂਟੇਸ਼ਨ | ਸਨਿਗਧਾ OS",
     "description": "The title in the navbar"
   },
   "logo.alt": {
-    "message": "Snigdha OS Logo",
+    "message": "ਸਨਿਗਧਾ OS ਲੋਗੋ",
     "description": "The alt text of navbar logo"
   },
   "item.label.GitHub": {
-    "message": "GitHub",
+    "message": "ਗਿਟਹੱਬ",
     "description": "Navbar item with label GitHub"
   }
 }
