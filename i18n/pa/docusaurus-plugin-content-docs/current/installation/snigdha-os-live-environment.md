@@ -1,99 +1,84 @@
 ---
 sidebar_position: 4
 ---
-# Live Environment
+### 🌟 **ਸਨਿਗਧਾ ਓਐਸ ਲਾਈਵ ਇਨਵਾਇਰਨਮੈਂਟ: ਇੱਕ ਝਲਕ**
 
-### 🌟 **Snigdha OS Live Environment: An Overview**
+**ਸਨਿਗਧਾ ਓਐਸ ਲਾਈਵ ਇਨਵਾਇਰਨਮੈਂਟ** ਉਹ ਮੋਡ ਹੈ ਜਿਸ ਵਿੱਚ ਤੁਸੀਂ USB ਡਰਾਈਵ ਜਾਂ DVD ਤੋਂ ਸਨਿਗਧਾ ਓਐਸ ਚਲਾਉਂਦੇ ਹੋ ਬਿਨਾਂ ਇਸਨੂੰ ਇੰਸਟਾਲ ਕੀਤੇ। ਇਹ ਤੁਹਾਨੂੰ ਸਨਿਗਧਾ ਓਐਸ ਦੀ ਆਜ਼ਮਾਈਸ਼ ਅਤੇ ਇਸਦੇ ਫੀਚਰ ਸਮਝਣ ਦਾ ਮੌਕਾ ਦਿੰਦਾ ਹੈ। ਤੁਸੀਂ ਇਸ ਵਿੱਚ ਹਾਰਡਵੇਅਰ ਅਨੁਕੂਲਤਾ ਦੀ ਜਾਂਚ ਕਰ ਸਕਦੇ ਹੋ ਅਤੇ ਆਪਣੇ ਸਿਸਟਮ ਨੂੰ ਬਿਨਾਂ ਬਦਲਾਅ ਕੀਤੇ ਐਪਲੀਕੇਸ਼ਨ ਚਲਾ ਸਕਦੇ ਹੋ। 
 
-The **Snigdha OS Live Environment** is the initial mode you boot into when running Snigdha OS from a USB drive or DVD without installing it. It provides an opportunity to test and experience Snigdha OS before committing to the installation. The live environment allows you to explore the user interface, test hardware compatibility, and even run applications without modifying your system.
-
-Here's everything you need to know about the **Snigdha OS Live Environment**.
+ਇਹ ਰਹੀ **ਸਨਿਗਧਾ ਓਐਸ ਲਾਈਵ ਇਨਵਾਇਰਨਮੈਂਟ** ਬਾਰੇ ਸਮੁੱਚੀ ਜਾਣਕਾਰੀ।  
 
 
 
-### 🖥️ **What Is the Snigdha OS Live Environment?**
+### 🖥️ **ਸਨਿਗਧਾ ਓਐਸ ਲਾਈਵ ਇਨਵਾਇਰਨਮੈਂਟ ਕੀ ਹੈ?**
 
-The **Live Environment** in Snigdha OS is a fully functional, bootable environment that runs directly from your USB drive or DVD without needing installation. It's a great way to:
+**ਲਾਈਵ ਇਨਵਾਇਰਨਮੈਂਟ** ਇੱਕ ਪੂਰੀ ਤਰ੍ਹਾਂ ਕਾਰਗਰ ਮੋਡ ਹੈ ਜੋ USB ਡਰਾਈਵ ਜਾਂ DVD ਤੋਂ ਸਿੱਧਾ ਚੱਲਦਾ ਹੈ। ਇਹ ਤੁਹਾਨੂੰ ਮੌਕਾ ਦਿੰਦਾ ਹੈ:
 
-- **Try Snigdha OS**: Get a feel for the operating system without installing it.
-- **Test Hardware Compatibility**: Check if your system's hardware works well with Snigdha OS.
-- **Access Tools**: Use the pre-installed tools and utilities to diagnose or repair your system.
-
-In the live environment, you can explore Snigdha OS's features, such as the **KDE Plasma** desktop (in the default edition), graphical tools, system settings, and much more.
+- **ਸਨਿਗਧਾ ਓਐਸ ਅਜ਼ਮਾਉਣ ਲਈ**: ਬਿਨਾਂ ਇੰਸਟਾਲ ਕੀਤੇ ਸਿਸਟਮ ਦੀ ਮਹਿਸੂਸ ਕਰ ਸਕਦੇ ਹੋ।
+- **ਹਾਰਡਵੇਅਰ ਅਨੁਕੂਲਤਾ ਦੀ ਜਾਂਚ ਲਈ**: ਇਹ ਜਾਣ ਸਕਦੇ ਹੋ ਕਿ ਤੁਹਾਡਾ ਸਿਸਟਮ ਸਨਿਗਧਾ ਓਐਸ ਨਾਲ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ।
+- **ਟੂਲਾਂ ਦੀ ਵਰਤੋਂ ਲਈ**: ਡਾਇਗਨੋਸਟਿਕ ਜਾਂ ਸਿਸਟਮ ਰਿਪੇਅਰ ਦੇ ਲਈ ਪ੍ਰੀ-ਇੰਸਟਾਲ ਟੂਲਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ।  
 
 
 
-### 🌍 **Features of the Snigdha OS Live Environment**
+### 🌍 **ਸਨਿਗਧਾ ਓਐਸ ਲਾਈਵ ਇਨਵਾਇਰਨਮੈਂਟ ਦੇ ਫੀਚਰ**
 
-#### 1. **Beautiful KDE Plasma Desktop**  
-   Snigdha OS comes with a highly customized version of **KDE Plasma** as its default desktop environment. In the live environment, you can experience:
-   - **Eye-catching themes**: Custom themes with vibrant colors and transparent effects.
-   - **Pre-configured widgets**: Useful widgets like system monitoring, weather, and calendar.
-   - **Snigdha OS Assistant**: A tool for managing your system easily, offering options for updates, tweaks, and more.
+#### 1. **ਸੁੰਦਰ KDE ਪਲਾਜ਼ਮਾ ਡੈਸਕਟਾਪ**  
+   ਸਨਿਗਧਾ ਓਐਸ ਇੱਕ ਕਸਟਮਾਈਜ਼ਡ **KDE ਪਲਾਜ਼ਮਾ** ਡੈਸਕਟਾਪ ਨਾਲ ਆਉਂਦਾ ਹੈ। ਇਸ ਵਿੱਚ ਤੁਸੀਂ ਅਨੁਭਵ ਕਰ ਸਕਦੇ ਹੋ:
+   - **ਆਕਰਸ਼ਕ ਥੀਮਾਂ**: ਵੱਖ-ਵੱਖ ਚਮਕਦਾਰ ਅਤੇ ਟ੍ਰਾਂਸਪੇਰੈਂਟ ਥੀਮਾਂ।
+   - **ਪ੍ਰੀ-ਕੰਫ਼ਿਗਰਡ ਵਿਜੇਟਸ**: ਜਿਵੇਂ ਕਿ ਸਿਸਟਮ ਮਾਨੀਟਰ, ਮੌਸਮ, ਅਤੇ ਕੈਲੰਡਰ।
+   - **ਸਨਿਗਧਾ ਓਐਸ ਅਸਿਸਟੈਂਟ**: ਸਿਸਟਮ ਮੈਨੇਜਮੈਂਟ ਲਈ ਸਹੂਲਤਪੂਰਣ ਟੂਲ।
 
-#### 2. **Performance Optimizations**  
-   Snigdha OS is known for its performance enhancements, and these are present in the live environment too:
-   - **Preconfigured optimizations** for better responsiveness and speed.
-   - **ZFS support**: Built-in support for advanced filesystem options like ZFS (available after installation).
-   - **Btrfs snapshots**: You can test out Btrfs-based snapshots and rollback features in the live environment.
+#### 2. **ਪ੍ਰਦਰਸ਼ਨ ਵਿੱਚ ਸੁਧਾਰ**  
+   ਸਨਿਗਧਾ ਓਐਸ ਪ੍ਰਦਰਸ਼ਨ ਵਧਾਉਣ ਲਈ ਪ੍ਰੀ-ਕੰਫ਼ਿਗਰਡ ਹੈ:
+   - **ਬਿਹਤਰ ਰਿਸਪਾਂਸ ਟਾਈਮ** ਲਈ ਕਈ ਸੁਧਾਰ।
+   - **ZFS ਸਹਾਇਤਾ**: ਇੰਸਟਾਲੇਸ਼ਨ ਤੋਂ ਬਾਅਦ ਉੱਚਤਮ ਫਾਈਲ ਸਿਸਟਮ ਦਾ ਸਹਾਰਾ।
+   - **Btrfs ਸਨੈਪਸ਼ਾਟਸ**: ਲਾਈਵ ਇਨਵਾਇਰਨਮੈਂਟ ਵਿੱਚ ਵੀ ਸਨੈਪਸ਼ਾਟ ਫੀਚਰ ਦੀ ਜਾਂਚ ਕਰੋ।
 
-#### 3. **Pre-installed Software**  
-   The live environment comes with a wide range of pre-installed software to explore:
-   - **Web browser**: Typically **Firefox** or **Chromium** for web browsing.
-   - **Office suite**: LibreOffice or other office applications.
-   - **Media players**: VLC and other multimedia tools.
-   - **System monitoring tools**: Tools like **KSysGuard** to check system resources, and **GParted** for partitioning.
+#### 3. **ਪ੍ਰੀ-ਇੰਸਟਾਲ ਸੋਫਟਵੇਅਰ**  
+   ਲਾਈਵ ਇਨਵਾਇਰਨਮੈਂਟ ਵੱਖ-ਵੱਖ ਤਰ੍ਹਾਂ ਦੇ ਪ੍ਰੀ-ਇੰਸਟਾਲ ਸੋਫਟਵੇਅਰ ਨਾਲ ਆਉਂਦਾ ਹੈ:
+   - **ਵੈਬ ਬਰਾਊਜ਼ਰ**: ਜਿਵੇਂ ਕਿ **ਫਾਇਰਫੌਕਸ** ਜਾਂ **ਕ੍ਰੋਮਿਅਮ**।
+   - **ਆਫਿਸ ਸੂਟ**: ਲਿਬਰੇਆਫਿਸ ਜਾਂ ਹੋਰ ਦਫ਼ਤਰ ਐਪਲੀਕੇਸ਼ਨ।
+   - **ਮੀਡੀਆ ਪਲੇਅਰ**: VLC ਅਤੇ ਹੋਰ ਮਲਟੀਮੀਡੀਆ ਟੂਲ।
+   - **ਸਿਸਟਮ ਮਾਨੀਟਰਿੰਗ ਟੂਲ**: ਜਿਵੇਂ ਕਿ **KSysGuard** ਅਤੇ **GParted**।
 
-#### 4. **Hardware Compatibility Testing**  
-   The live environment helps you test hardware compatibility before installation:
-   - **Graphics**: See if your graphics card works well with Snigdha OS (NVIDIA, AMD, or Intel).
-   - **Wi-Fi**: Test if your wireless card connects without issues.
-   - **Sound**: Check if your speakers or headphones work correctly.
+#### 4. **ਹਾਰਡਵੇਅਰ ਅਨੁਕੂਲਤਾ ਦੀ ਜਾਂਚ**  
+   ਇਹ ਸਨਿਗਧਾ ਓਐਸ ਦੀ ਇੰਸਟਾਲੇਸ਼ਨ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਡੇ ਸਿਸਟਮ ਦੀ ਜਾਂਚ ਕਰਨ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ:
+   - **ਗ੍ਰਾਫਿਕਸ**: NVIDIA, AMD, ਜਾਂ Intel ਗ੍ਰਾਫਿਕਸ ਕਾਰਡ ਦੀ ਜਾਂਚ ਕਰੋ।
+   - **ਵਾਈ-ਫਾਈ**: ਇਹ ਦੇਖੋ ਕਿ ਤੁਹਾਡਾ ਵਾਇਰਲੈੱਸ ਕਾਰਡ ਠੀਕ ਕੰਮ ਕਰਦਾ ਹੈ।
+   - **ਆਵਾਜ਼**: ਸਪੀਕਰ ਜਾਂ ਹੈਡਫੋਨ ਦੀ ਜਾਂਚ ਕਰੋ।
 
-#### 5. **Snigdha OS Welcome App**  
-   The Snigdha OS Welcome app provides an easy-to-navigate introduction to the system, offering quick access to:
-   - **Installation**: Start the installation process if you're ready to install Snigdha OS.
-   - **Settings**: Customize settings and tweak the system.
-   - **Updates**: Quickly check for and apply system updates.
-   - **Documentation**: Access official documentation and guides to help you along the way.
+#### 5. **ਸਨਿਗਧਾ ਓਐਸ ਵੈਲਕਮ ਐਪ**  
+   ਸਨਿਗਧਾ ਓਐਸ ਵੈਲਕਮ ਐਪ ਸਿਸਟਮ ਵਿੱਚ ਵੱਖ-ਵੱਖ ਚੀਜ਼ਾਂ ਤੱਕ ਤੇਜ਼ ਪਹੁੰਚ ਦਿੰਦਾ ਹੈ:
+   - **ਇੰਸਟਾਲੇਸ਼ਨ ਸ਼ੁਰੂ ਕਰੋ**।
+   - **ਸੈਟਿੰਗਸ**: ਆਪਣੇ ਸਿਸਟਮ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ।
+   - **ਅੱਪਡੇਟਸ**: ਸਿਸਟਮ ਅੱਪਡੇਟ ਦੀ ਜਾਂਚ ਕਰੋ।
+   - **ਦਸਤਾਵੇਜ਼ਾਂ**: ਦਸਤਾਵੇਜ਼ਾਂ ਅਤੇ ਗਾਈਡਜ਼ ਪੜ੍ਹੋ।
 
-#### 6. **Persistence (Optional)**  
-   In some cases, you can configure persistence in the Snigdha OS live environment. This allows you to save changes and data across reboots, making it a more persistent experience. It is not enabled by default, but it can be set up using specific tools or settings.
-
-
-
-### 🚀 **Using the Snigdha OS Live Environment**
-
-#### 1. **Testing and Exploring**  
-   You can explore the system freely. Here are a few things you can do:
-   - **Try out the desktop**: Navigate the KDE Plasma desktop, try out its features, and experience the customization that Snigdha OS provides.
-   - **Check out system settings**: Explore various pre-configured system settings like appearance, keyboard layout, and more.
-   - **Use pre-installed apps**: Open apps like Firefox, VLC, and LibreOffice to get a feel of the system’s performance.
-
-#### 2. **Launching the Installer**  
-   If you decide to install Snigdha OS, the live environment offers an easy-to-use graphical installer. Here's how to launch it:
-   - **Click the Snigdha OS Installer** icon on the desktop or in the menu.
-   - The installer will guide you through the process of partitioning your hard drive and setting up Snigdha OS.
-   - You can choose between **Btrfs**, **ext4**, or **other file systems** during installation.
-
-#### 3. **Running Diagnostics**  
-   If you encounter hardware issues or need to run diagnostic tests, the live environment has a range of useful tools like:
-   - **GParted** for managing partitions.
-   - **Timeshift** for system snapshots (you can install it for more advanced setups).
-   - **Snigdha OS Assistant** for managing system tweaks.
+#### 6. **ਪਰਸਿਸਟੈਂਸ (ਇਚ੍ਛਿਕ)**  
+   ਕੁਝ ਮਾਮਲਿਆਂ ਵਿੱਚ, ਤੁਸੀਂ ਲਾਈਵ ਇਨਵਾਇਰਨਮੈਂਟ ਵਿੱਚ ਪਰਸਿਸਟੈਂਸ ਸੈੱਟ ਕਰ ਸਕਦੇ ਹੋ, ਜਿਸ ਨਾਲ ਤੁਸੀਂ ਆਪਣੇ ਡਾਟਾ ਅਤੇ ਸੈਟਿੰਗਸ ਨੂੰ ਬਚਾ ਸਕਦੇ ਹੋ।  
 
 
 
-### 🏁 **When to Use Snigdha OS Live Environment**
+### 🚀 **ਸਨਿਗਧਾ ਓਐਸ ਲਾਈਵ ਇਨਵਾਇਰਨਮੈਂਟ ਦੀ ਵਰਤੋਂ**
 
-- **Before Installing**: If you're unsure about how Snigdha OS will perform on your hardware, the live environment lets you test it out first.
-- **For Repairs**: If you need to troubleshoot or repair a system, you can boot into the live environment to access system recovery tools.
-- **For Exploration**: Snigdha OS's live environment is a great way to get to know the system, whether you're considering a switch from another distro or just want to see how it works.
+#### 1. **ਜਾਂਚ ਅਤੇ ਅਨੁਭਵ**  
+   ਤੁਸੀਂ ਇਸ ਸਿਸਟਮ ਨੂੰ ਖੁੱਲ੍ਹੇ ਦਿਲ ਨਾਲ ਅਜ਼ਮਾ ਸਕਦੇ ਹੋ:
+   - **ਡੈਸਕਟਾਪ ਦੀ ਜਾਂਚ ਕਰੋ**: KDE ਪਲਾਜ਼ਮਾ ਡੈਸਕਟਾਪ ਨੂੰ ਵੱਖ-ਵੱਖ ਅਨੁਭਵ ਕਰਦੇ ਹੋਏ ਖੋਜੋ।
+   - **ਸਿਸਟਮ ਸੈਟਿੰਗਸ ਨੂੰ ਖੋਜੋ**।
+   - **ਪ੍ਰੀ-ਇੰਸਟਾਲ ਐਪ ਦੀ ਵਰਤੋਂ ਕਰੋ**: ਫਾਇਰਫੌਕਸ, VLC, ਜਾਂ ਲਿਬਰੇਆਫਿਸ ਖੋਲ੍ਹੋ।
+
+#### 2. **ਇੰਸਟਾਲਰ ਸ਼ੁਰੂ ਕਰੋ**  
+   ਜੇ ਤੁਸੀਂ ਸਨਿਗਧਾ ਓਐਸ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਤਿਆਰ ਹੋ, ਤਾਂ ਲਾਈਵ ਇਨਵਾਇਰਨਮੈਂਟ ਵਿੱਚ ਇੱਕ ਗ੍ਰਾਫਿਕਲ ਇੰਸਟਾਲਰ ਉਪਲਬਧ ਹੈ।  
+   - **Snigdha OS Installer** ਆਈਕਨ ‘ਤੇ ਕਲਿੱਕ ਕਰੋ।
+   - ਇਹ ਤੁਹਾਨੂੰ ਪਾਰਟੀਸ਼ਨਿੰਗ ਅਤੇ ਸੈਟਅੱਪ ਪ੍ਰਕਿਰਿਆ ਵਿੱਚ ਮਦਦ ਕਰੇਗਾ।
+
+#### 3. **ਡਾਇਗਨੋਸਟਿਕ ਚਲਾਓ**  
+   ਤੁਸੀਂ ਇਸ ਲਾਈਵ ਮੋਡ ਵਿੱਚ ਹਾਰਡਵੇਅਰ ਜਾਂ ਸਿਸਟਮ ਇਸ਼ਿਊਜ਼ ਲਈ ਟੂਲ ਵਰਤ ਸਕਦੇ ਹੋ:
+   - **GParted** ਨੂੰ ਪਾਰਟੀਸ਼ਨ ਮੈਨੇਜ ਕਰਨ ਲਈ।
+   - **ਸਨੈਪਸ਼ਾਟ ਅਤੇ ਟਾਈਮਸ਼ਿਫਟ** ਵਰਗੇ ਟੂਲਾਂ।
 
 
 
-### 🎉 **Conclusion**
+### 🎉 **ਨਤੀਜਾ**
 
-The **Snigdha OS Live Environment** is a powerful and feature-packed way to experience Snigdha OS without committing to an installation. It offers a fully functional system with performance optimizations, a beautiful KDE Plasma desktop, pre-installed software, and various tools for hardware testing and system diagnostics.
-
-You can use it to explore Snigdha OS, try out the desktop, check compatibility, or even install it if you're ready to make the switch. Whether you want to test, troubleshoot, or simply explore, the live environment is the perfect starting point. 😎🚀
+**ਸਨਿਗਧਾ ਓਐਸ ਲਾਈਵ ਇਨਵਾਇਰਨਮੈਂਟ** ਤੁਹਾਨੂੰ ਬਿਨਾਂ ਇੰਸਟਾਲੇਸ਼ਨ ਸਿਸਟਮ ਦੀ ਪੂਰੀ ਸਮਝ ਦਿੰਦਾ ਹੈ। ਇਹ ਵੱਖ-ਵੱਖ ਹਾਰਡਵੇਅਰ ਦੀ ਜਾਂਚ, ਟ੍ਰਬਲਸ਼ੂਟਿੰਗ, ਅਤੇ ਇੰਸਟਾਲੇਸ਼ਨ ਲਈ ਇੱਕ ਆਦਰਸ਼ ਸਟਾਰਟਿੰਗ ਪੋਇੰਟ ਹੈ।  
+ਤੁਸੀਂ ਇਸਦਾ ਆਨੰਦ ਮਾਣ ਸਕਦੇ ਹੋ ਅਤੇ ਸਨਿਗਧਾ ਓਐਸ ਦੇ ਸੁੰਦਰ ਜਗਤ ਵਿੱਚ ਕਦਮ ਰੱਖ ਸਕਦੇ ਹੋ। 😎🚀
