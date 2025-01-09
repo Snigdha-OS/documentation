@@ -1,46 +1,46 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "ਅਗਲਾ",
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Introduction": {
-    "message": "Introduction",
+    "message": "ਪਰਿਚਯ",
     "description": "The label for category Introduction in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Introduction.link.generated-index.description": {
-    "message": "Welcome to the official documentation of Snigdha OS. This section provides an overview of Snigdha OS, its key features, and how to get started with it. Whether you're a new user or an experienced developer, you'll find helpful information to begin your journey with this lightweight and highly customizable Linux distribution.",
+    "message": "ਸਨਿਗਧਾ OS ਦੇ ਸਰਕਾਰੀ ਦਸਤਾਵੇਜ਼ ਵਿੱਚ ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ। ਇਹ ਸੈਕਸ਼ਨ ਸਨਿਗਧਾ OS ਦਾ ਓਵਰਵਿਊ, ਇਸ ਦੀਆਂ ਮੁੱਖ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਅਤੇ ਇਸ ਨਾਲ ਸ਼ੁਰੂਆਤ ਕਰਨ ਦਾ ਤਰੀਕਾ ਪ੍ਰਦਾਨ ਕਰਦਾ ਹੈ। ਚਾਹੇ ਤੁਸੀਂ ਇੱਕ ਨਵੇਂ ਉਪਭੋਗਤਾ ਹੋ ਜਾਂ ਇੱਕ ਅਨੁਭਵੀ ਡਿਵੈਲਪਰ, ਤੁਸੀਂ ਇਸ ਹਲਕੇ ਅਤੇ ਬਹੁਤ ਐਡਜਸਟਮਬਲ ਲਿਨਕਸ ਡਿਸਟ੍ਰੀਬਿਊਸ਼ਨ ਨਾਲ ਆਪਣੇ ਯਾਤਰਾ ਦੀ ਸ਼ੁਰੂਆਤ ਕਰਨ ਲਈ ਸਹਾਇਕ ਜਾਣਕਾਰੀ ਲੱਭੋਗੇ।",
     "description": "The generated-index page description for category Introduction in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Installation": {
-    "message": "Installation",
+    "message": "ਇੰਸਟਾਲੇਸ਼ਨ",
     "description": "The label for category Installation in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Installation.link.generated-index.description": {
-    "message": "Explore comprehensive guides and step-by-step instructions to install and set up Snigdha OS effortlessly. Start your journey with detailed installation processes tailored for various environments.",
+    "message": "ਸਨਿਗਧਾ OS ਨੂੰ ਆਸਾਨੀ ਨਾਲ ਇੰਸਟਾਲ ਅਤੇ ਸੈੱਟ ਅਪ ਕਰਨ ਲਈ ਵਿਸ਼ਤ੍ਰਿਤ ਗਾਈਡਾਂ ਅਤੇ ਕਦਮ-ਦਰ-ਕਦਮ ਹੁਕਮਾਂ ਦੀ ਖੋਜ ਕਰੋ। ਵੱਖ-ਵੱਖ ਮਾਹੌਲ ਲਈ ਵਿਸ਼ਤ੍ਰਿਤ ਇੰਸਟਾਲੇਸ਼ਨ ਪ੍ਰਕਿਰਿਆਵਾਂ ਨਾਲ ਆਪਣੀ ਯਾਤਰਾ ਦੀ ਸ਼ੁਰੂਆਤ ਕਰੋ।",
     "description": "The generated-index page description for category Installation in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Post Installation": {
-    "message": "Post Installation",
+    "message": "ਪੋਸਟ ਇੰਸਟਾਲੇਸ਼ਨ",
     "description": "The label for category Post Installation in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Post Installation.link.generated-index.description": {
-    "message": "Explore essential steps to optimize, update, and customize your Snigdha OS after installation. This guide will walk you through system updates, additional software installation, configuration tweaks, and more.",
+    "message": "ਇੰਸਟਾਲੇਸ਼ਨ ਦੇ ਬਾਅਦ ਆਪਣੇ ਸਨਿਗਧਾ OS ਨੂੰ ਆਰਥਿਕ ਬਣਾਉਣ, ਅਪਡੇਟ ਕਰਨ ਅਤੇ ਕਸਟਮਾਈਜ਼ ਕਰਨ ਲਈ ਜਰੂਰੀ ਕਦਮਾਂ ਦੀ ਖੋਜ ਕਰੋ। ਇਹ ਗਾਈਡ ਤੁਹਾਨੂੰ ਸਿਸਟਮ ਅਪਡੇਟਸ, ਵਾਧੂ ਸੌਫਟਵੇਅਰ ਇੰਸਟਾਲੇਸ਼ਨ, ਸੰਰਚਨਾ ਸੁਧਾਰ ਅਤੇ ਹੋਰਾਂ ਵਿੱਚ ਮਦਦ ਕਰੇਗਾ।",
     "description": "The generated-index page description for category Post Installation in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.User Guide": {
-    "message": "User Guide",
+    "message": "ਉਪਭੋਗਤਾ ਗਾਈਡ",
     "description": "The label for category User Guide in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.User Guide.link.generated-index.description": {
-    "message": "Follow the steps to finalize your Snigdha OS setup, including system updates, software installation, and configuration tweaks for an optimized experience.",
+    "message": "ਆਪਣੇ ਸਨਿਗਧਾ OS ਸੈਟਅਪ ਨੂੰ ਅੰਤਿਮ ਬਣਾਉਣ ਲਈ ਕਦਮਾਂ ਦਾ ਪਾਲਣ ਕਰੋ, ਜਿਸ ਵਿੱਚ ਸਿਸਟਮ ਅਪਡੇਟਸ, ਸੌਫਟਵੇਅਰ ਇੰਸਟਾਲੇਸ਼ਨ ਅਤੇ ਸੁਧਾਰਾਂ ਲਈ ਸੰਰਚਨਾ ਤਬਦੀਲੀਆਂ ਸ਼ਾਮਲ ਹਨ।",
     "description": "The generated-index page description for category User Guide in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Troubleshoot": {
-    "message": "Troubleshoot",
+    "message": "ਸਮੱਸਿਆ ਸੁਲਝਾਓ",
     "description": "The label for category Troubleshoot in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Troubleshoot.link.generated-index.description": {
-    "message": "Common issues and troubleshooting steps for Snigdha OS.",
+    "message": "ਸਨਿਗਧਾ OS ਲਈ ਆਮ ਸਮੱਸਿਆਵਾਂ ਅਤੇ ਟ੍ਰਬਲਸ਼ੂਟਿੰਗ ਕਦਮ।",
     "description": "The generated-index page description for category Troubleshoot in sidebar tutorialSidebar"
   }
 }
