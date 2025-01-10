@@ -1,0 +1,46 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Introduction": {
+    "message": "Introduction",
+    "description": "The label for category Introduction in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Introduction.link.generated-index.description": {
+    "message": "Welcome to the official documentation of Snigdha OS. This section provides an overview of Snigdha OS, its key features, and how to get started with it. Whether you're a new user or an experienced developer, you'll find helpful information to begin your journey with this lightweight and highly customizable Linux distribution.",
+    "description": "The generated-index page description for category Introduction in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Installation": {
+    "message": "Installation",
+    "description": "The label for category Installation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Installation.link.generated-index.description": {
+    "message": "Explore comprehensive guides and step-by-step instructions to install and set up Snigdha OS effortlessly. Start your journey with detailed installation processes tailored for various environments.",
+    "description": "The generated-index page description for category Installation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Post Installation": {
+    "message": "Post Installation",
+    "description": "The label for category Post Installation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Post Installation.link.generated-index.description": {
+    "message": "Explore essential steps to optimize, update, and customize your Snigdha OS after installation. This guide will walk you through system updates, additional software installation, configuration tweaks, and more.",
+    "description": "The generated-index page description for category Post Installation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.User Guide": {
+    "message": "User Guide",
+    "description": "The label for category User Guide in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.User Guide.link.generated-index.description": {
+    "message": "Follow the steps to finalize your Snigdha OS setup, including system updates, software installation, and configuration tweaks for an optimized experience.",
+    "description": "The generated-index page description for category User Guide in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Troubleshoot": {
+    "message": "Troubleshoot",
+    "description": "The label for category Troubleshoot in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Troubleshoot.link.generated-index.description": {
+    "message": "Common issues and troubleshooting steps for Snigdha OS.",
+    "description": "The generated-index page description for category Troubleshoot in sidebar tutorialSidebar"
+  }
+}
