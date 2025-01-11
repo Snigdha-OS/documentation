@@ -1,99 +1,90 @@
 ---
 sidebar_position: 4
 ---
-# Live Environment
 
-### 🌟 **Snigdha OS Live Environment: An Overview**
+# Живе середовище
 
-The **Snigdha OS Live Environment** is the initial mode you boot into when running Snigdha OS from a USB drive or DVD without installing it. It provides an opportunity to test and experience Snigdha OS before committing to the installation. The live environment allows you to explore the user interface, test hardware compatibility, and even run applications without modifying your system.
+### 🌟 **Snigdha OS Живе середовище: Огляд**
 
-Here's everything you need to know about the **Snigdha OS Live Environment**.
+**Snigdha OS Живе середовище** — це початковий режим, в який ви завантажуєте систему, працюючи з Snigdha OS з USB-диска або DVD без встановлення. Воно дає можливість спробувати і оцінити Snigdha OS перед тим, як приступити до встановлення. Живе середовище дозволяє вам дослідити інтерфейс, перевірити сумісність апаратного забезпечення та навіть використовувати програми без внесення змін до вашої системи.
 
+Ось усе, що потрібно знати про **Snigdha OS Живе середовище**.
 
+### 🖥️ **Що таке Snigdha OS Живе середовище?**
 
-### 🖥️ **What Is the Snigdha OS Live Environment?**
+**Живе середовище** в Snigdha OS — це повністю функціональне завантажувальне середовище, яке працює безпосередньо з вашого USB-диска або DVD без необхідності встановлення. Це чудовий спосіб:
 
-The **Live Environment** in Snigdha OS is a fully functional, bootable environment that runs directly from your USB drive or DVD without needing installation. It's a great way to:
+- **Спробувати Snigdha OS**: Оцініть операційну систему без її встановлення.
+- **Перевірити сумісність апаратного забезпечення**: Перевірте, чи добре працює ваше апаратне забезпечення з Snigdha OS.
+- **Доступ до інструментів**: Використовуйте попередньо встановлені інструменти та утиліти для діагностики чи ремонту вашої системи.
 
-- **Try Snigdha OS**: Get a feel for the operating system without installing it.
-- **Test Hardware Compatibility**: Check if your system's hardware works well with Snigdha OS.
-- **Access Tools**: Use the pre-installed tools and utilities to diagnose or repair your system.
+У живому середовищі ви можете досліджувати функції Snigdha OS, такі як **стільниця KDE Plasma** (у стандартному випуску), графічні інструменти, налаштування системи та багато іншого.
 
-In the live environment, you can explore Snigdha OS's features, such as the **KDE Plasma** desktop (in the default edition), graphical tools, system settings, and much more.
+### 🌍 **Особливості Snigdha OS Живого середовища**
 
+#### 1. **Красива стільниця KDE Plasma**  
+Snigdha OS поставляється з глибоко налаштованою версією **KDE Plasma** як стандартним робочим середовищем. У живому середовищі ви можете оцінити:
+   - **Привабливі теми**: Кастомізовані теми з яскравими кольорами та прозорими ефектами.
+   - **Попередньо налаштовані віджети**: Корисні віджети, такі як моніторинг системи, погода та календар.
+   - **Snigdha OS Assistant**: Інструмент для легкого керування вашою системою, з можливістю оновлення, налаштування і багатьох інших опцій.
 
+#### 2. **Оптимізації продуктивності**  
+Snigdha OS відома своїми покращеннями продуктивності, і ці покращення доступні й у живому середовищі:
+   - **Попередньо налаштовані оптимізації** для кращої чутливості та швидкості.
+   - **Підтримка ZFS**: Вбудована підтримка для таких складних файлових систем, як ZFS (доступно після встановлення).
+   - **Снапшоти Btrfs**: Ви можете випробувати функції базовані на snapshott-ах Btrfs та можливості відкату в живому середовищі.
 
-### 🌍 **Features of the Snigdha OS Live Environment**
+#### 3. **Попередньо встановлене програмне забезпечення**  
+У живому середовищі доступно багато попередньо встановлених програм для дослідження:
+   - **Веб-браузер**: Зазвичай **Firefox** або **Chromium** для серфінгу в Інтернеті.
+   - **Офісний пакет**: LibreOffice або інші офісні програми.
+   - **Мультимедійні програвачі**: VLC та інші мультимедійні інструменти.
+   - **Інструменти моніторингу системи**: Інструменти, такі як **KSysGuard** для перевірки ресурсів системи, і **GParted** для розподілу дисків.
 
-#### 1. **Beautiful KDE Plasma Desktop**  
-   Snigdha OS comes with a highly customized version of **KDE Plasma** as its default desktop environment. In the live environment, you can experience:
-   - **Eye-catching themes**: Custom themes with vibrant colors and transparent effects.
-   - **Pre-configured widgets**: Useful widgets like system monitoring, weather, and calendar.
-   - **Snigdha OS Assistant**: A tool for managing your system easily, offering options for updates, tweaks, and more.
-
-#### 2. **Performance Optimizations**  
-   Snigdha OS is known for its performance enhancements, and these are present in the live environment too:
-   - **Preconfigured optimizations** for better responsiveness and speed.
-   - **ZFS support**: Built-in support for advanced filesystem options like ZFS (available after installation).
-   - **Btrfs snapshots**: You can test out Btrfs-based snapshots and rollback features in the live environment.
-
-#### 3. **Pre-installed Software**  
-   The live environment comes with a wide range of pre-installed software to explore:
-   - **Web browser**: Typically **Firefox** or **Chromium** for web browsing.
-   - **Office suite**: LibreOffice or other office applications.
-   - **Media players**: VLC and other multimedia tools.
-   - **System monitoring tools**: Tools like **KSysGuard** to check system resources, and **GParted** for partitioning.
-
-#### 4. **Hardware Compatibility Testing**  
-   The live environment helps you test hardware compatibility before installation:
-   - **Graphics**: See if your graphics card works well with Snigdha OS (NVIDIA, AMD, or Intel).
-   - **Wi-Fi**: Test if your wireless card connects without issues.
-   - **Sound**: Check if your speakers or headphones work correctly.
+#### 4. **Тестування сумісності з апаратним забезпеченням**  
+Живе середовище дозволяє вам перевірити сумісність апаратного забезпечення до встановлення:
+   - **Графіка**: Перевірте, чи ваш графічний адаптер працює з Snigdha OS (NVIDIA, AMD або Intel).
+   - **Wi-Fi**: Перевірте, чи ваше бездротове з'єднання працює без проблем.
+   - **Звук**: Переконайтесь, що ваші динаміки або навушники працюють належним чином.
 
 #### 5. **Snigdha OS Welcome App**  
-   The Snigdha OS Welcome app provides an easy-to-navigate introduction to the system, offering quick access to:
-   - **Installation**: Start the installation process if you're ready to install Snigdha OS.
-   - **Settings**: Customize settings and tweak the system.
-   - **Updates**: Quickly check for and apply system updates.
-   - **Documentation**: Access official documentation and guides to help you along the way.
+Застосунок Snigdha OS Welcome дає легкий доступ до ознайомлення з системою, пропонуючи швидкий доступ до:
+   - **Встановлення**: Почати процес встановлення Snigdha OS, коли ви будете готові.
+   - **Налаштування**: Кастомізація налаштувань і налаштування системи.
+   - **Оновлення**: Швидка перевірка на наявність оновлень і їх застосування.
+   - **Документація**: Доступ до офіційної документації та посібників для подальшої допомоги.
 
-#### 6. **Persistence (Optional)**  
-   In some cases, you can configure persistence in the Snigdha OS live environment. This allows you to save changes and data across reboots, making it a more persistent experience. It is not enabled by default, but it can be set up using specific tools or settings.
+#### 6. **Збереження (Необов'язково)**  
+У деяких випадках ви можете налаштувати збереження в Snigdha OS живому середовищі. Це дозволяє зберігати зміни та дані між перезавантаженнями, що робить досвід більш постійним. За замовчуванням це не увімкнено, але можна налаштувати через певні інструменти або налаштування.
 
+### 🚀 **Використання Snigdha OS Живого середовища**
 
+#### 1. **Тестування та дослідження**  
+Ви можете вільно досліджувати систему. Ось кілька речей, які можна зробити:
+   - **Спробуйте стільницю**: Оцініть робоче середовище KDE Plasma, випробуйте його функції та оцініть кастомізацію, яку надає Snigdha OS.
+   - **Перевірте налаштування системи**: Досліджуйте різноманітні попередньо налаштовані параметри системи, такі як зовнішній вигляд, макет клавіатури та інше.
+   - **Використовуйте попередньо встановлені програми**: Відкрийте програми, такі як Firefox, VLC та LibreOffice, щоб оцінити продуктивність системи.
 
-### 🚀 **Using the Snigdha OS Live Environment**
+#### 2. **Запуск установника**  
+Якщо ви вирішите встановити Snigdha OS, живе середовище пропонує легкий у використанні графічний установник. Ось як запустити його:
+   - **Клацніть на іконку Snigdha OS Installer** на робочому столі або в меню.
+   - Установник проведе вас через процес розподілу жорсткого диска та налаштування Snigdha OS.
+   - Ви можете вибрати між файловими системами **Btrfs**, **ext4** або іншими під час встановлення.
 
-#### 1. **Testing and Exploring**  
-   You can explore the system freely. Here are a few things you can do:
-   - **Try out the desktop**: Navigate the KDE Plasma desktop, try out its features, and experience the customization that Snigdha OS provides.
-   - **Check out system settings**: Explore various pre-configured system settings like appearance, keyboard layout, and more.
-   - **Use pre-installed apps**: Open apps like Firefox, VLC, and LibreOffice to get a feel of the system’s performance.
+#### 3. **Запуск діагностики**  
+Якщо ви стикаєтесь з апаратними проблемами або потрібно провести діагностичні тести, живе середовище має цілу низку корисних інструментів, таких як:
+   - **GParted** для керування розділами.
+   - **Timeshift** для створення системних знімків (можна встановити для більш складних налаштувань).
+   - **Snigdha OS Assistant** для налаштування системних змін.
 
-#### 2. **Launching the Installer**  
-   If you decide to install Snigdha OS, the live environment offers an easy-to-use graphical installer. Here's how to launch it:
-   - **Click the Snigdha OS Installer** icon on the desktop or in the menu.
-   - The installer will guide you through the process of partitioning your hard drive and setting up Snigdha OS.
-   - You can choose between **Btrfs**, **ext4**, or **other file systems** during installation.
+### 🏁 **Коли використовувати Snigdha OS Живе середовище**
 
-#### 3. **Running Diagnostics**  
-   If you encounter hardware issues or need to run diagnostic tests, the live environment has a range of useful tools like:
-   - **GParted** for managing partitions.
-   - **Timeshift** for system snapshots (you can install it for more advanced setups).
-   - **Snigdha OS Assistant** for managing system tweaks.
+- **Перед встановленням**: Якщо ви не впевнені, як Snigdha OS працюватиме на вашому апаратному забезпеченні, живе середовище дає змогу перевірити це спочатку.
+- **Для ремонту**: Якщо потрібно вирішити проблеми або відновити систему, ви можете завантажитись у живе середовище для доступу до інструментів відновлення.
+- **Для дослідження**: Snigdha OS живе середовище — це чудовий спосіб познайомитися з системою, якщо ви плануєте перехід з іншого дистрибутива або просто хочете дізнатися, як вона працює.
 
+### 🎉 **Висновок**
 
+**Snigdha OS Живе середовище** — це потужний та багатофункціональний спосіб випробувати Snigdha OS без встановлення. Воно пропонує повноцінну систему з оптимізаціями продуктивності, красивим робочим середовищем KDE Plasma, попередньо встановленим програмним забезпеченням та різними інструментами для тестування апаратного забезпечення та діагностики системи.
 
-### 🏁 **When to Use Snigdha OS Live Environment**
-
-- **Before Installing**: If you're unsure about how Snigdha OS will perform on your hardware, the live environment lets you test it out first.
-- **For Repairs**: If you need to troubleshoot or repair a system, you can boot into the live environment to access system recovery tools.
-- **For Exploration**: Snigdha OS's live environment is a great way to get to know the system, whether you're considering a switch from another distro or just want to see how it works.
-
-
-
-### 🎉 **Conclusion**
-
-The **Snigdha OS Live Environment** is a powerful and feature-packed way to experience Snigdha OS without committing to an installation. It offers a fully functional system with performance optimizations, a beautiful KDE Plasma desktop, pre-installed software, and various tools for hardware testing and system diagnostics.
-
-You can use it to explore Snigdha OS, try out the desktop, check compatibility, or even install it if you're ready to make the switch. Whether you want to test, troubleshoot, or simply explore, the live environment is the perfect starting point. 😎🚀
+Ви можете використовувати його для дослідження Snigdha OS, випробування робочого середовища, перевірки сумісності або навіть для встановлення, коли будете готові зробити перехід. Будь то тестування, усунення несправностей або просте дослідження, живе середовище — це ідеальна точка для старту. 😎🚀
