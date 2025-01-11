@@ -2,174 +2,174 @@
 sidebar_position: 5
 ---
 
-# Online Installation
+# Онлайн установка
 
-### 🌐 **How to Install Snigdha OS Online (With Internet Connection)**
+### 🌐 **Як встановити Snigdha OS онлайн (з підключенням до Інтернету)**
 
-Snigdha OS is a powerful and feature-packed distribution, and the **online installation** method provides the easiest and most efficient way to install Snigdha OS. This method requires an active internet connection to download the latest updates, packages, and additional software during the installation process.
+Snigdha OS — потужна та багатофункціональна операційна система, а метод **онлайн-установки** забезпечує найпростіший і найефективніший спосіб встановлення Snigdha OS. Цей метод вимагає активного підключення до Інтернету для завантаження останніх оновлень, пакетів і додаткового програмного забезпечення під час процесу установки.
 
-Here's a detailed step-by-step guide to install **Snigdha OS** using the **online installation** method:
+Ось детальна покрокова інструкція з встановлення **Snigdha OS** за допомогою **онлайн-установки**:
 
 
 
-### 📥 **Step 1: Download Snigdha OS ISO**
+### 📥 **Крок 1: Завантажте ISO-образ Snigdha OS**
 
-1. **Go to the Official Snigdha OS Website**:  
-   Visit the Snigdha OS download page:
-   - [Snigdha OS Downloads](https://snigdhaos.org/downloads.html)
+1. **Перейдіть на офіційний вебсайт Snigdha OS**:  
+   Відвідайте сторінку завантажень Snigdha OS:
+   - [Snigdha OS Завантаження](https://snigdhaos.org/downloads.html)
 
-2. **Select Your Preferred Edition**:  
-   Snigdha OS offers various desktop environments like KDE, GNOME, XFCE, and more. Choose the one that suits your preference.
+2. **Виберіть бажану версію**:  
+   Snigdha OS пропонує різні середовища робочого столу, такі як KDE, GNOME, XFCE та інші. Оберіть те, яке вам підходить.
 
-3. **Download the ISO File**:  
-   Click on the link for the desired edition to download the ISO file. The file will typically be named:
+3. **Завантажте ISO-образ**:  
+   Клацніть на посилання для бажаної версії, щоб завантажити ISO-образ. Зазвичай файл має таку назву:
    - `snigdhaos-linux-YYYY.MM.DD-x86_64.iso`
 
 
 
-### 💾 **Step 2: Create a Bootable USB Drive**
+### 💾 **Крок 2: Створіть завантажувальний USB-накопичувач**
 
-You’ll need to create a bootable USB to install Snigdha OS. You can use **Ventoy**, **Rufus** (for Windows), or **dd** (for Linux) to create the bootable USB.
+Для встановлення Snigdha OS вам потрібно створити завантажувальний USB-накопичувач. Для цього ви можете використовувати **Ventoy**, **Rufus** (для Windows) або **dd** (для Linux).
 
-#### **For Linux Users (Using `dd`)**
+#### **Для користувачів Linux (за допомогою `dd`)**
 
-1. **Insert USB Drive**:  
-   Plug in a USB drive with at least 4 GB capacity.
+1. **Вставте USB-накопичувач**:  
+   Вставте USB-накопичувач об’ємом щонайменше 4 ГБ.
 
-2. **Identify USB Drive**:  
-   Use the `lsblk` command to identify the device (e.g., `/dev/sdX`):
+2. **Ідентифікуйте USB-накопичувач**:  
+   Використовуйте команду `lsblk`, щоб визначити пристрій (наприклад, `/dev/sdX`):
    ```bash
    lsblk
    ```
 
-3. **Create Bootable USB**:  
-   Run the following `dd` command to copy the Snigdha OS ISO to your USB (replace `/dev/sdX` with your USB device path):
+3. **Створіть завантажувальний USB**:  
+   Виконайте наступну команду `dd`, щоб скопіювати ISO-образ Snigdha OS на ваш USB-накопичувач (замініть `/dev/sdX` на шлях до вашого USB-пристрою):
    ```bash
    sudo dd if=snigdhaos-linux-YYYY.MM.DD-x86_64.iso of=/dev/sdX bs=4M status=progress oflag=sync
    ```
 
-4. **Eject USB**:  
-   After the process is complete, safely eject the USB:
+4. **Витягніть USB**:  
+   Після завершення процесу безпечно витягніть USB:
    ```bash
    sudo eject /dev/sdX
    ```
 
-#### **For Windows Users (Using Rufus)**
+#### **Для користувачів Windows (за допомогою Rufus)**
 
-1. **Download and Install Rufus**:  
-   Download **Rufus** from [https://rufus.ie/](https://rufus.ie/) and install it.
+1. **Завантажте та встановіть Rufus**:  
+   Завантажте **Rufus** з [https://rufus.ie/](https://rufus.ie/) та встановіть його.
 
-2. **Open Rufus** and Select the USB Drive.
+2. **Відкрийте Rufus** і виберіть USB-накопичувач.
 
-3. **Choose Snigdha OS ISO** and Select the Partition Scheme:  
-   Choose **GPT** for UEFI-based systems and **MBR** for legacy BIOS systems.
+3. **Виберіть ISO-образ Snigdha OS** і виберіть схему розділів:  
+   Виберіть **GPT** для систем з UEFI або **MBR** для систем з BIOS.
 
-4. **Start the Process**:  
-   Click **Start** to create the bootable USB. Wait until it’s done.
-
-
-
-### 🔌 **Step 3: Boot Into Snigdha OS Live Environment**
-
-1. **Insert the Bootable USB** into the computer where you want to install Snigdha OS.
-
-2. **Enter BIOS/UEFI**:  
-   Restart the system and enter the BIOS/UEFI settings (usually by pressing a key like `F2`, `DEL`, or `ESC`).
-
-3. **Set USB as the First Boot Device**:  
-   In the BIOS/UEFI settings, set the USB drive as the first boot device.
-
-4. **Save and Reboot**:  
-   Save your settings and reboot the computer. It will boot into the Snigdha OS live environment.
+4. **Запустіть процес**:  
+   Клацніть **Start**, щоб створити завантажувальний USB. Зачекайте, поки процес завершиться.
 
 
 
-### ⚙️ **Step 4: Start the Online Installation Process**
+### 🔌 **Крок 3: Завантажтесь у живе середовище Snigdha OS**
 
-1. **Launch the Installer**:  
-   Once the system boots into the Snigdha OS live environment, you’ll see a **Snigdha OS Installer** icon on the desktop. Click it to begin the installation.
+1. **Вставте завантажувальний USB-накопичувач** у комп'ютер, на якому ви хочете встановити Snigdha OS.
 
-2. **Select Language and Region**:  
-   Choose your preferred language, region, and keyboard layout.
+2. **Увійдіть у BIOS/UEFI**:  
+   Перезавантажте комп'ютер і увійдіть у налаштування BIOS/UEFI (зазвичай натискаючи клавішу, таку як `F2`, `DEL` або `ESC`).
 
-3. **Connect to the Internet**:  
-   - **Wi-Fi**: Click on the network icon in the system tray and select your Wi-Fi network.
-   - **Wired Connection**: If you’re using a wired connection, the system should automatically connect to the internet.
+3. **Встановіть USB-накопичувач як перший пристрій для завантаження**:  
+   У налаштуваннях BIOS/UEFI виберіть USB-накопичувач як перший пристрій для завантаження.
 
-4. **Choose Installation Type**:  
-   You’ll have two main options:
-   - **Erase disk and install Snigdha OS**: Automatically partitions and installs Snigdha OS (use this if you want a clean install).
-   - **Manual partitioning**: If you want more control over your partitions, select this option to manually create and set partitions.
+4. **Збережіть і перезавантажте**:  
+   Збережіть налаштування та перезавантажте комп'ютер. Він завантажиться в живе середовище Snigdha OS.
 
 
 
-### 💻 **Step 5: Partitioning and Disk Setup**
+### ⚙️ **Крок 4: Почніть процес онлайн-установки**
 
-1. **Select the Disk**:  
-   Choose the disk where you want to install Snigdha OS.
+1. **Запустіть інсталятор**:  
+   Після завантаження в живе середовище Snigdha OS ви побачите значок **Snigdha OS Installer** на робочому столі. Клацніть на нього, щоб почати установку.
 
-2. **Automatic Partitioning (Recommended)**:  
-   - **Erase and Install**: Select this if you want to overwrite the entire disk with Snigdha OS.
-   - **Manual Partitioning**: Select this if you want to set up partitions manually, allowing you to configure the disk layout.
+2. **Виберіть мову та регіон**:  
+   Виберіть бажану мову, регіон та розкладку клавіатури.
 
-3. **Filesystem Choices**:  
-   - Snigdha OS uses **Btrfs** by default. You can also select **ext4** or **LVM** if preferred.
+3. **Підключіться до Інтернету**:  
+   - **Wi-Fi**: Клацніть на значок мережі в панелі системи та виберіть свою Wi-Fi мережу.
+   - **Провідне з'єднання**: Якщо ви використовуєте провідне з'єднання, система автоматично підключиться до Інтернету.
 
-4. **Confirm and Continue**:  
-   Confirm your partition settings and proceed. The installer will format the disk and prepare it for the installation.
-
-
-
-### 🧑‍💻 **Step 6: User Configuration**
-
-1. **Create Your User**:  
-   Set up your **username** and **password**. You’ll also need to set the **root password**.
-
-2. **Timezone and Locale**:  
-   Choose your **timezone** and **locale**. The installer should detect your location automatically, but you can adjust it if needed.
+4. **Виберіть тип установки**:  
+   Ви матимете два основних варіанти:
+   - **Стерти диск і встановити Snigdha OS**: Автоматичне розбиття та установка Snigdha OS (використовуйте цей варіант для чистої установки).
+   - **Ручне розбиття**: Якщо ви хочете мати більше контролю над розділами, виберіть цей варіант для ручного створення та налаштування розділів.
 
 
 
-### 🌐 **Step 7: Installing Snigdha OS**
+### 💻 **Крок 5: Розбиття та налаштування диска**
 
-1. **Download Updates and Packages**:  
-   Since you’re installing online, the installer will fetch the latest updates and packages during the process. This requires an active internet connection. The installer will download:
-   - **System updates**
-   - **Additional packages** (drivers, codecs, utilities, etc.)
+1. **Виберіть диск**:  
+   Виберіть диск, на який ви хочете встановити Snigdha OS.
 
-2. **Begin Installation**:  
-   Click the **Install** button to start the installation process. Snigdha OS will now be installed on your disk. This process may take some time, depending on your internet speed and disk performance.
+2. **Автоматичне розбиття (Рекомендується)**:  
+   - **Стерти і встановити**: Виберіть цей варіант, якщо хочете повністю перезаписати диск Snigdha OS.
+   - **Ручне розбиття**: Виберіть цей варіант, якщо хочете налаштувати розділи вручну, що дозволить вам створити власну структуру диска.
 
+3. **Вибір файлової системи**:  
+   - За замовчуванням Snigdha OS використовує **Btrfs**. Ви також можете вибрати **ext4** або **LVM**, якщо бажаєте.
 
-
-### 🔄 **Step 8: Finalize the Installation**
-
-1. **Wait for Installation to Complete**:  
-   The installation process will copy files, install software, and configure the system. This may take 15-30 minutes or more, depending on your system and internet speed.
-
-2. **Reboot the System**:  
-   Once the installation is complete, you’ll be prompted to reboot the system. Remove the installation USB stick and reboot into Snigdha OS.
-
-3. **Boot into Snigdha OS**:  
-   Your computer will now boot into Snigdha OS. If you installed it alongside another operating system, you will see the **GRUB bootloader** to select your OS.
+4. **Підтвердьте та продовжіть**:  
+   Підтвердіть налаштування розділів та продовжіть. Інсталятор відформатує диск і підготує його до встановлення.
 
 
 
-### 🎉 **Step 9: Post-Installation Setup**
+### 🧑‍💻 **Крок 6: Налаштування користувача**
 
-1. **Set Up Your System**:  
-   After booting into Snigdha OS, you may need to:
-   - **Install additional software** using the **Snigdha OS Assistant** or **Pacman**.
-   - **Update the system** if needed:
+1. **Створіть користувача**:  
+   Встановіть **ім'я користувача** та **пароль**. Також потрібно встановити **пароль адміністратора**.
+
+2. **Часовий пояс та мова**:  
+   Виберіть ваш **часовий пояс** та **мова**. Інсталятор автоматично визначить ваше місцезнаходження, але ви можете змінити його, якщо потрібно.
+
+
+
+### 🌐 **Крок 7: Встановлення Snigdha OS**
+
+1. **Завантажте оновлення та пакети**:  
+   Оскільки ви встановлюєте онлайн, інсталятор завантажить останні оновлення та пакети під час процесу. Це вимагає активного підключення до Інтернету. Інсталятор завантажить:
+   - **Оновлення системи**
+   - **Додаткові пакети** (драйвери, кодеки, утиліти тощо)
+
+2. **Почніть установку**:  
+   Клацніть кнопку **Install**, щоб почати процес встановлення. Snigdha OS буде встановлено на ваш диск. Це може зайняти деякий час, залежно від вашої швидкості Інтернету та продуктивності диска.
+
+
+
+### 🔄 **Крок 8: Завершення установки**
+
+1. **Зачекайте завершення установки**:  
+   Процес установки скопіює файли, встановить програмне забезпечення та налаштує систему. Це може зайняти 15-30 хвилин або більше, залежно від вашої системи та швидкості Інтернету.
+
+2. **Перезавантажте систему**:  
+   Після завершення установки вас буде запропоновано перезавантажити систему. Видаліть установочний USB-накопичувач і перезавантажте комп'ютер у Snigdha OS.
+
+3. **Завантажтесь у Snigdha OS**:  
+   Ваш комп'ютер тепер завантажиться в Snigdha OS. Якщо ви встановили систему поряд з іншою операційною системою, ви побачите **завантажувач GRUB** для вибору ОС.
+
+
+
+### 🎉 **Крок 9: Налаштування після установки**
+
+1. **Налаштуйте вашу систему**:  
+   Після завантаження в Snigdha OS вам, можливо, доведеться:
+   - **Встановити додаткове програмне забезпечення** за допомогою **Snigdha OS Assistant** або **Pacman**.
+   - **Оновити систему**, якщо потрібно:
      ```bash
      sudo pacman -Syu
      ```
 
-2. **Enjoy Your New Snigdha OS System**:  
-   Once everything is set up, you can start using Snigdha OS, explore the KDE Plasma desktop, install apps, and customize your system!
+2. **Насолоджуйтесь вашою новою системою Snigdha OS**:  
+   Після налаштування ви можете почати використовувати Snigdha OS, досліджувати робочий стіл KDE Plasma, встановлювати програми та налаштовувати свою систему!
 
 
 
-### 🎉 **Conclusion**
+### 🎉 **Висновок**
 
-You’ve now successfully installed **Snigdha OS** using the **online installation** method! The online installation ensures you get the latest updates and packages during the installation process, making the system up-to-date as soon as it’s ready. Enjoy using Snigdha OS and all its powerful features! 😎🚀
+Тепер ви успішно встановили **Snigdha OS** за допомогою **онлайн-установки**! Онлайн-установка забезпечує, щоб система була актуальною відразу після завершення процесу, з усіма останніми оновленнями та пакетами. Насолоджуйтеся використанням Snigdha OS і всіма його потужними можливостями! 😎🚀
