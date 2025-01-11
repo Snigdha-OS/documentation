@@ -2,68 +2,52 @@
 sidebar_position: 2
 ---
 
-# Important Note
+# Важлива Примітка
 
-Installing Snigdha OS is an exciting step toward a customized and high-performance Linux experience. However, before you proceed, it's crucial to be fully prepared. Please read this guide carefully to ensure a smooth and secure installation process. 💡
+Встановлення Snigdha OS — це захоплюючий крок до налаштованого та високопродуктивного досвіду використання Linux. Однак перед тим, як продовжити, важливо бути повністю підготовленим. Будь ласка, уважно прочитайте цей посібник, щоб забезпечити безпечний та безперешкодний процес встановлення. 💡
 
+## 🔒 Резервне Копіювання Даних
 
+- 🗂️ **Резервне копіювання — це обов'язково!** Перед внесенням будь-яких змін до вашої системи, переконайтеся, що ви надійно створили резервну копію всіх важливих файлів і даних на зовнішньому диску або в хмарному сховищі.  
+- 💾 **Чому?** Процес встановлення включає розподіл диска, що може призвести до втрати даних, якщо його зробити неправильно.
 
-## 🔒 Backup Your Data
+## ⚠️ Ознайомтесь зі Своєю Системою
 
-- 🗂️ **Backup is essential!** Before making any changes to your system, ensure you have securely backed up all critical files and data to an external drive or cloud storage.  
-- 💾 **Why?** The installation process involves disk partitioning, which can result in data loss if done incorrectly.
+- 🖥️ Переконайтесь, що ви знайомі з апаратним забезпеченням вашої системи, включаючи налаштування диска, BIOS/UEFI та порядок завантаження.  
+- 🛠️ Перевірте сумісність системи з вимогами Snigdha OS:
+  - **Процесор:** архітектура x86_64
+  - **Оперативна пам'ять:** мінімум 2 ГБ (рекомендується 4 ГБ)
+  - **Місце на диску:** мінімум 20 ГБ вільного місця
 
+## 🌐 Стабільне Інтернет-з’єднання необхідне (Інтернет-інсталяція)
 
+- 📶 **Інтернет обов'язковий, якщо ви обираєте онлайн-установку!** Процес встановлення завантажує необхідні пакети в реальному часі. Переконайтеся, що у вас є стабільне і надійне інтернет-з’єднання протягом усього налаштування.
 
-## ⚠️ Know Your System
+## 📜 Прочитайте Документацію
 
-- 🖥️ Ensure you are familiar with your system's hardware, including disk configuration, BIOS/UEFI settings, and boot order.  
-- 🛠️ Check system compatibility with Snigdha OS requirements:
-  - **Processor:** x86_64 architecture
-  - **RAM:** Minimum 2 GB (4 GB recommended)
-  - **Storage:** Minimum 20 GB free space  
+- 📖 **Уважно ознайомтесь з документацією з установки**, щоб зрозуміти кожен крок. Якщо почати процес без підготовки, це може призвести до помилок або неповного налаштування.
+- 🧭 Слідуйте офіційній [документації Snigdha OS](https://snigdha-os.github.io/documentation/) для детальних вказівок.
 
+## 🛑 Попередження про Двійне Завантаження
 
+- 💡 Якщо ви встановлюєте Snigdha OS поряд з іншою операційною системою (двійне завантаження), будьте обережні при розподілі диска.
+- 🔧 Неправильне налаштування завантажувача або схеми розділів може зробити інші операційні системи незавантажуваними.  
+- 🛡️ Використовуйте такі інструменти, як `GParted`, щоб безпечно підготувати ваш диск.
 
-## 🌐 Stable Internet Connection Required(Online Installation)
+## 🏗️ Перевірочний Список для Встановлення
 
-- 📶 **Internet is a must if you are going for online installation!** The installation process downloads essential packages in real-time. Ensure you have a stable and reliable internet connection throughout the setup.  
+Перш ніж почати, переконайтесь, що у вас є:  
+- ✅ **Завантажувальний USB диск** з ISO Snigdha OS.
+- ✅ Резервна копія всіх важливих даних.
+- ✅ Стабільне інтернет-з’єднання. **(Необов'язково)**
+- ✅ Система, що відповідає вимогам до апаратного забезпечення.
+- ✅ Прочитано та зрозуміло посібник з установки.
 
+## 🧑‍💻 Потрібна Допомога?
 
+Якщо ви зіштовхнулись з проблемами під час встановлення:  
+- Відвідайте наші [форум спільноти](https://forum.snigdhaos.org) для отримання підтримки.  
+- Перевірте розділ усунення несправностей в [документації Snigdha OS](https://snigdha-os.github.io/documentation/).  
+- Зверніться до активних розробників або учасників для допомоги.
 
-## 📜 Read the Documentation
-
-- 📖 **Thoroughly review the installation documentation** to understand each step. Jumping into the process without preparation can lead to errors or an incomplete setup.
-- 🧭 Follow the official [Snigdha OS Documentation](https://snigdha-os.github.io/documentation/) for detailed guidance.
-
-
-
-## 🛑 Dual Boot Warning
-
-- 💡 If you are installing Snigdha OS alongside another operating system (dual boot), be cautious when partitioning the disk.
-- 🔧 Misconfiguring the bootloader or partition scheme can render other operating systems unbootable.  
-- 🛡️ Use tools like `GParted` to prepare your disk safely.
-
-
-
-## 🏗️ Installation Checklist
-
-Before you begin, ensure you have:  
-- ✅ A **bootable USB drive** with the Snigdha OS ISO.
-- ✅ Backed up all critical data.
-- ✅ A stable internet connection.**(Optional)**
-- ✅ A system that meets the hardware requirements.
-- ✅ Read and understood the installation guide.
-
-
-
-## 🧑‍💻 Need Help?
-
-If you encounter any issues during installation:  
-- Visit our [community forums](https://forum.snigdhaos.org) for support.  
-- Check out the troubleshooting section in the [Snigdha OS documentation](https://snigdha-os.github.io/documentation/).  
-- Reach out to the active developers or contributors for assistance.  
-
-
-
-Installing Snigdha OS is a journey into the world of minimalistic and powerful Linux. 🌟 With proper preparation, you're just a few steps away from an amazing experience. Good luck! 🚀
+Встановлення Snigdha OS — це подорож у світ мінімалістичного та потужного Linux. 🌟 З правильною підготовкою, ви всього за кілька кроків від неймовірного досвіду. Бажаємо удачі! 🚀
